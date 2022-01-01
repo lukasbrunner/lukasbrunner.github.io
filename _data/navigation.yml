@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /research/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Open Science"
+    url: /open_science/
+
+  - title: "Misc"
+    url: /misc/
+
+  - title: "Contact"
+    url: /contact/
