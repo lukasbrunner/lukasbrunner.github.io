@@ -12,8 +12,9 @@ If you are interested in my work or have any questions feel free to reach out to
 Bei Interesse an meiner Arbeit oder bei Fragen kontaktieren Sie mich gerne!
 
 Dr. Lukas Brunner <br />
-Senior Scientist <br />
-Universität Wien
+Department of Meteorology and Geophysics <br />
+Universität Wien <br />
+<a href='mailto:l.brunner@univie.ac.at'>l.brunner@univie.ac.at</a>
 
 
 ---
