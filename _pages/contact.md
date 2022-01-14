@@ -17,7 +17,7 @@ Universität Wien <br />
 Althanstraße 14 (UZA II) <br />
 1090 Wien <br />
 Zimmer: 2G555 <br />
-+43-(0)1-4277-53743
++43-(0)1-4277-53743 <br />
 <a href='mailto:l.brunner@univie.ac.at'>l.brunner@univie.ac.at</a>
 
 
