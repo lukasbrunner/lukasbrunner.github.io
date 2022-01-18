@@ -1,11 +1,11 @@
 ---
-title: "Preenacting Climate Scenarios: an artistic interpretation of what could happen to our climate"
+title: "The Future of the Earth: an artistic interpretation of what could happen to our climate"
 excerpt: "<img src='/images/preenact/protection.jpg' width='40%'>"
 collection: misc
 permalink: /misc/preenact
 ---
 
-Throughout early 2021 I was involved in a project with the title **Preenacting Climate Scenarios** that implemented scientific data and expertise in an artistic setting. The basic idea was to allow the visitor to experience the consequences of our actions when it comes climate change mitigation and adaptation in (for me) totally new ways. During several days groups of actors, scientists, and visitors travelled into the future either along the low emission path SSP1-2.6 or along the high emission path SSP3-7.0 (see <a href="https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-future-climate-change" target="_blank">this</a> article by CarbonBrief for an explanantion about the SSPs and their narratives). During this journey the consequences of our actions could be seen, heard and felt in various ways.
+Throughout early 2021 I was involved in a project with the title **The Future of the Earth** that implemented scientific data and expertise in an artistic setting. The basic idea was to allow the visitor to experience the consequences of our actions when it comes climate change mitigation and adaptation in (for me) totally new ways. During several days groups of actors, scientists, and visitors travelled into the future either along the low emission path SSP1-2.6 or along the high emission path SSP3-7.0 (see <a href="https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-future-climate-change" target="_blank">this</a> article by CarbonBrief for an explanantion about the SSPs and their narratives). During this journey the consequences of our actions could be seen, heard and felt in various ways.
 
 <img src="/images/preenact/co2.jpg" width="67.5%">
 <img src="/images/preenact/sound.jpg" width="30%">
@@ -16,7 +16,7 @@ In the years 2050 and 2100 we made a stop and different experts (myself among th
 <img src="/images/preenact/story.jpg" width="96%">
 <br /><font size=3>While we travelled into the future guided by a narrative of the decisions we as a society took, a large block of ice in the middle of the room slowly melted away, creating an increasingly large pool of water on the walkable stage.</font>
 
-In scientific results we tend to often only focus on numbers such as the difference in global temperature between low and high emission pathways. The preenactments allowed to really experience the effects of climate protection or continued dependence on fossil emission in totally different ways. What impressed me was how much more powerful the positive narratives with committed climate protection felt in this setting, while in science we often tend to focus more on the worst case scenarios.
+In scientific results we tend to often only focus on numbers such as the difference in global temperature between low and high emission pathways. The acts allowed to really experience the effects of climate protection or continued dependence on fossil emission in totally different ways. What impressed me was how much more powerful the positive narratives with committed climate protection felt in this setting, while in science we often tend to focus more on the worst case scenarios.
 
 <img src="/images/preenact/protection.jpg" width="96%">
 <br /><font size=3>While the temperatures continue to raise along the high emission pathway SSP3-7.0 on the screens in the back the actors try to protect the trees from the effects of climate change.</font>
