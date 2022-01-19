@@ -9,7 +9,7 @@ share: false
 
 I try to follow best practices such as <a href="https://climatefootnotes.com/2016/11/16/this-article-is-open-access/" target="_blank">open access publishing</a>
 <!-- <a href="https://www.youtube.com/watch?v=L5rVH1KGBCY" target="_blank">open access publishing</a>  -->
-and <a href="https://creativecommons.org" target="_blank">permissive licensing</a>, coding <a href="https://pep8.org/" target="_blank">style guides</a> and <a href="https://realpython.com/documenting-python-code/" target="_blank">documentation</a>,  <a href="https://cfconventions.org" target="_blank">metadata conventions</a> and <a href="https://www.go-fair.org/fair-principles" target="_blank">the FAIR data principles</a>, as well as <a href="https://github.com" target="_blank">version control</a> and transparency in data and code usage.
+and <a href="https://creativecommons.org" target="_blank">permissive licensing</a>, coding <a href="https://pep8.org/" target="_blank">style guides</a> and <a href="https://realpython.com/documenting-python-code/" target="_blank">documentation</a>,  <a href="https://cfconventions.org" target="_blank">metadata conventions</a> and <a href="https://www.go-fair.org/fair-principles" target="_blank">the FAIR data principles</a>, as well as <a href="https://github.com" target="_blank">version control</a> and transparency in data and code usage in general.
 
 You are free to use any of the material I provide following the rules of the indicated licenses (mostly <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>). In addition I'd be thankful if you let me know so that I can keep track (but you don't have to).
 
