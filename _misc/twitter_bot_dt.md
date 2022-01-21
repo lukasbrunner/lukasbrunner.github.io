@@ -49,13 +49,19 @@ Was wir in der Zeitreihe der Tagesmitteltemperatur von 2021 sehen sind aber 11 T
 Österreich im größeren Kontext
 ---
 
-Äquivalent zu Österreich können wir uns auch andere Regionen und deren Temperaturverlauf anschauen. Als Beispiel verwende ich hier 3 weitere Regionen: Zentraleuropa, Europa und Global. Diese 3 Regionen stellen gewissermaßen ein herauszoomen zu immer größeren Skalen dar.
+Äquivalent zu Österreich können wir uns auch andere Regionen und deren Temperaturverlauf anschauen. Als Beispiel verwende ich hier 3 weitere Regionen: Zentraleuropa, Europa und Global. Diese 3 Regionen stellen gewissermaßen ein herauszoomen zu immer größeren Skalen dar. Deutlich zu erkennen ist, dass die Schwankungen der Tagestemperatur mit zunehmender Regionengröße abnehmen da man über immer mehr Fläche mittelt. Für Zentraleuropa und Europa sind die Schwankungen der Temperatur aber durchaus noch mit Österreich vergleichbar, wenn auch glatter. Die Globale Temperatur schließlich weißt vergleichsweise nur noch sehr schwache Schwankungen auf und ist über weite Teile von 2021 im bereich der wärmsten 10%.
+
+**Wichtig:** Die y-Achse ist in allen Abbildungen unterschiedlich. Im Vergleich zu Europa weißt der Globale Fall kaum einen Jahresgang auf. Tatsächlich kann man sich fragen warum die globale Temperatur überhaupt einen Jahresgang hat, schließlich ist während des Sommers auf der Nordhalbkugel auf der Südhalbkugel Winter. Das liegt an der ungleichen verteilung der Landmassen, die im Norden mehr Fläche einnehmen und sich stärker erwärmen.
 
 <img src="/images/bot/tas_daily_wce-land_2021_365.jpg" width="100%">
 <img src="/images/bot/tas_daily_europe_2021_365.jpg" width="100%">
 <img src="/images/bot/tas_daily_global_2021_365.jpg" width="100%">
 
-TODO
+
+
+<img src="/images/bot/tas_cummean_wce-land_2021_365.jpg" width="100%">
+<img src="/images/bot/tas_cummean_europe_2021_365.jpg" width="100%">
+<img src="/images/bot/tas_cummean_global_2021_365.jpg" width="100%">
 
 
 Daten, Quellcode und Twitter Bot
