@@ -1,11 +1,11 @@
 ---
-title: "Temperatur Updates von einem Twitter Bot"
-excerpt: "<img src='/images/twitter_bot.png' width='40%'>"
+title: "Kumulative Mitteltemperatur in Österreich"
+excerpt: "<img src='/images/bot/tas_cummean_austria_2021_365_stepsize-auto_delay-40_size-1000.gif' width='40%'>"
 collection: misc
 permalink: /misc/twitter_bot_dt
 ---
 
-This post is only available in German. You can visit the bot on <a href="https://twitter.com/tas_to_date" target="_blank">Twitter</a> or have a look at the code on <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a>.
+<em>This post is only available in German. You can visit the bot on <a href="https://twitter.com/tas_to_date" target="_blank">Twitter</a> or have a look at the code on <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a>.</em>
 
 Die Idee für dieses Projekt geht auf eine Diskussion um Ostern 2021 zurück. Wir konnten uns damals nicht einigen ob das Jahr in Österreich bisher besonders warm oder besonders kalt gewesen war. Um diese Frage zu beantworten schaue ich mir hier die Temperatur gemittelt über Österrreich und gemittelt vom 1. Jänner bis zu einem bestimmten Tag im Jahr an (also zum Beispiel on 1. Jänner bis Ostern). Ich vergleiche sie dann mit der Temperatur im selben Zeitraum in früheren Jahren.
 
@@ -15,59 +15,33 @@ Die kumulative Mitteltemperatur am 1. Jänner selbst ist also gleich der Tageste
 
 Wie man in der Abbildung unten sehen kann war die kumulative Mitteltemperatur am 4. April 2021, dem Ostersonntag, um 1.1°C höher als im langjährigen Mittel und die 19. wärmste in den letzten 72 Jahren. Die richtige Antwort für die eingangs erwähnte Diskussion wäre also, dass das Jahr 2021 bis Ostern wärmer war als die meisten der 71 Jahre davor aber nicht zu den extremsten Jahren gehörte.
 
-<img src="/images/bot/tas_cummean_austria_2021_094.jpg" width="80%" height="80%">
+<img src="/images/bot/tas_cummean_austria_2021_094.jpg" width="90%">
 
-Einige andere Sache, die bei der Abbildung oben sofort ins Aufg fällt ist, dass der graue Bereich mit fortschreitendem Jahr immer enger wird. Das ist eine konsequenz aus dem Mittelwert: am Anfang des Jahres wird nur über wenige Tage gemittelt, das heißt jeder zusätzliche Tag hat vergleichsweiße viel Einfluß, während am Ende des Jahres über 300+ Tage gemittelt wird, ein einzelner Tag daher kaum mehr einen Einfluss hat. Das kann man auch bereits für 2021 an der roten Linie erkennen: anfangs schwankt sie recht starkt aber ab circa März scheint sie sich einzupendeln und bleibt relativ stabil. Was man aus der Abbildung (Werte ganz rechts) ebenfalls erkennt ist, dass die Jährliche Mitteltemperatur in Österreich scheinbar etwa 6°C ist mit einer Schwankungsbreite von etwa +/- 2°C.
+Einige andere Sache, die bei der Abbildung oben sofort ins Aufg fällt ist, dass der graue Bereich mit fortschreitendem Jahr immer enger wird. Das ist eine konsequenz aus dem Mittelwert: am Anfang des Jahres wird nur über wenige Tage gemittelt, das heißt jeder zusätzliche Tag hat vergleichsweiße viel Einfluß, während am Ende des Jahres über 300+ Tage gemittelt wird, ein einzelner Tag daher kaum mehr einen Einfluss hat. Das kann man auch bereits für 2021 an der roten Linie erkennen: anfangs schwankt sie recht starkt aber ab circa März scheint sie sich einzupendeln und bleibt relativ stabil. Was man aus der Abbildung (Werte ganz rechts) ebenfalls erkennt ist, dass die Jährliche Mitteltemperatur in Österreich etwa 6°C ist, mit einer Schwankungsbreite von etwa &plusmn;2°C.
 
 In diesem Kontext ist es natürlich interessan die kumulative Mitteltemperatur mit der täglichen Temperature zu vergleichen. Da wir diese jeden Tag subjektiv erleben beeinflusst sie unsere Wahrnehmung auch stärker als eine über Monate gemittelte Temperatur. Die Abbildung unten ist ähnlich zur letzten Abbildung, zeigt aber für jeden Tag einfach die Temperatur an diesem Tag.
 
-<img src="/images/bot/tas_daily_austria_2021_094.jpg" width="80%" height="80%">
+<img src="/images/bot/tas_daily_austria_2021_094.jpg" width="90%">
 
 Was man sofort erkennt ist die deutlich größere Schwankung, die -anders als für die kumulative Mitteltemperatur- übers Jahr nicht abnimmt. Bis Ostern hatte 2021 tatsächlich auch bereits 6 Tage, die einen neuen Temperaturerekord in Österreich aufgestellt hatten (in der Abbildung unden markiert). Gleichzeitig hab es aber auch drei Perioden mit Temperaturen deutlich unter dem langjährigen Mittel, eine kurz vor Ostern während der sogar ein neuer Kälterekord aufgestellt wurde. Es ist also vielleicht auch nicht verwunderlich wenn der einer oder die andere in unserer Diskussion zu Ostern den Eindruck hatte als wäre 2021 bisher sehr kalt gewesen.
 
-<img src="/images/bot/tas_both_austria_2021_365_stepsize-auto_delay-40_size-1000.gif" width="80%" height="80%">
+Die Animation unten zeigt die Entwicklng der Tagesmitteltemperatur und kumulativen Mitteltemperatur in Österreich während 2021. Man sieht wie die tägliche Temperatur die kumulativen Temperatur anfangs stark beeinflusst, während der Einfluss gegen Ende des Jahres abnimmt aber. Aber gerade längere sehr warme Perioden wie zum Beispiel Mitte Juni können die kumulative Temperature weiterhin beeinflussen (in diesem Fall erhöhen). Im Jährlichen Mittel landet 2021 mit 0,8°C über dem langjährigen Mittwelwert (1950-2021) auf Rang 18/72.
+
+<img src="/images/bot/tas_both_austria_2021_365_stepsize-auto_delay-40_size-1000.gif" width="90%">
+
+<!-- https://www.zamg.ac.at/cms/de/klima/klima-aktuell/klimamonitoring/?param=t&period=period-y-2021&ref=3 -->
+
+Der Einlfuss des Klimawandels
+---
+
+Ich habe mich in dieser Betrachtung der Temperatur in Österreich nicht explizit mit dem Klimawandel auseinandergesetzt. Aber implizit spielt er natürlich wesentliche Rolle und ist auch in den Abbildungen, wenn auch indirekt, erkennbar. Die kummulative Temperatur ist für 2021 fast ausschließlich positiv (wie auch für die meisten anderen Jahre der letzten Dekade). In der täglichen Temperatur sieht man außerdem eine Häufung von Hitzerekorden, die man in einem Klima öhne Erwärmung nicht erwarten würde.
+
+Das kann man sich durch ein (etwas vereinfachtes) Beispiel gut vergegenwärtigen: Die Wahrscheinlichkeit, dass ein Tag in 2021 einen neuen Rekord aufstellt hängt in einem Klima ohne Änderungen nur von der Länge der Messreihe ab. Nehmen wir kurz an 2021 wäre das erste Jahr in dem wir messen, die Wahrscheinlichkeit, dass ein Tag einen neuen Rekord aufstellt ist also 100% (ziemlich trivial). Wenn wir hingegen auch Messwerte von 2020 berücksichtigen, kann 2021 darüber oder darunter liegen, hat also eine 50% Change einen neuen Rekord aufzustellen. In unserem Fall haben wir bereits Messungen von 1950-2020, das sind 71 Jahre (Anfangs- und Endjahr inkludiert). Das heißt ein Tag in 2021 hat eine Change von 1/71 oder ca. 1,4% auf einen neuen Rekord. 2021 hatte 365 Tage mal 1,4% ergibt das ca. 5 Tage. In einem Klima ohne Erwärmung erwarten wir also 5 Tage mit einem neuen Hitzerokord (übrigends auch 5 Tage mit einem neuen Kälterekord).
+
+Was wir in der Zeitreihe der Tagesmitteltemperatur von 2021 sehen sind aber 11 Tage mit einem neuen Hitzerekord (und ein Tag mit einem neuen Kälterekord, der allerdings nicht markiert ist). Ähnlich verhält es sich wiederum für die anderen Jahre der letzten Dekade.
 
 
-To the <a href="https://twitter.com/tas_to_date" target="_blank">Bot on Twitter</a>.
+Der größere Kontext
+---
 
-
-It all started with a family discussion over Easter 2021 where my parents could not decide if 2021 has been really cold or really warm in Austria so far. So I did the only reasonable thing and started making plots. I compared mean temperature from the beginning of the year until Easter to the same period in past years using data from ERA5. As seen in the figure below Austrian mean temperatures in 2021 until beginning of April where below the mean of the last 11 years but still 1.5°C above the 1950-1999 baseline.
-
-<img src="/images/temperature_todate_2021-04-04.png" width="80%" height="80%">
-
-Then I generalised it to any end date (i.e., mean temperature from January 1st to XX) in what I started calling year-to-date temperature. I also added to option to calculate the metric for different regions. As a test bed I used the regions defined for the latest sixth IPCC assessment report (AR6). The animation below shows the example of global temperature until end of April.
-
-<img src="/images/temperature_todate_2021-04-28.gif" width="80%" height="80%">
-
-Next I started to automate things using the very convenient <a href="https://era5cli.readthedocs.io/" target="_blank">era5cli</a> and <a href="https://en.wikipedia.org/wiki/Cron" target="_blank">cron</a> to download ERA5 (using the <a href="https://confluence.ecmwf.int/display/CKB/How+to+download+ERA5" target="_blank">ERA5 API</a>). My experience from this is that ERA5 is about 2 weeks behind real time which I find pretty impressive for a global reanalysis. Here is an example to download all available days from the current month and year in hourly resolution and then resample them to daily using <a href="https://code.mpimet.mpg.de/pürojects/cdo" target="_blank">cdo</a>:
-
-
-```bash
-<!-- year=$(date +%Y)  # current year -->
-<!-- month=$(date +%m)  # current month -->
-<!-- era5cli "hourly" --variables "2m_temperature" --startyear $year --months $month --outputprefix era5-${month}) -->
-<!-- # define fn & fn_new -->
-<!-- cdo daymean $fn $fn_new -->
-<!-- ``` -->
-
-<!-- I use a similar approach to update the plots in a directory. I've recently updated the layout of the plots a bit but haven't managed to clean to code up to a point where I think it is clean and documented enough to publish it. But one of these days... Here is mean temperature in the first half of 2021 for the Mediterranean in the new layout: -->
-
-<!-- <img src="/images/temperature_todate_2021-06-30.png" width="80%" height="80%"> -->
-
-
-<!-- Finally, I started to play around with the <a href="https://developer.twitter.com/en/docs/twitter-api" target="_blank">Twitter API</a> and applied for a developer account. I used the Python <a href="https://www.tweepy.org/" target="_blank">Tweepy</a> package, which makes automated tweeting pretty easy. At the core it is really only a couple of lines: -->
-
-<!-- ```python -->
-<!-- import tweepy -->
-
-<!-- # ... -->
-
-<!-- def tweet(fn, text): -->
-<!--     auth = tweepy.OAuthHandler(consumer_key, consumer_key_secret) -->
-<!--     auth.set_access_token(access_token, access_token_secret) -->
-<!--     api = tweepy.API(auth) -->
-<!--     media = api.media_upload(fn) -->
-<!--     api.update_status(status=text, media_ids=[media.media_id]) -->
-<!-- ``` -->
-
-<!-- <img src="/images/twitter_bot.png" width="80%" height="80%"> -->
+TODO
