@@ -5,7 +5,10 @@ collection: misc
 permalink: /misc/twitter_bot_dt
 ---
 
-<em>This post is only available in German. You can visit the bot on <a href="https://twitter.com/tas_to_date" target="_blank">Twitter</a> or have a look at the code on <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a>.</em>
+<em>This post is only available in German but you can have a look at the English code documentation on <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a>.
+
+Dieser Artikel ist eine allgemein verstänliche Erklärung der Hintergründe meines <a href="https://twitter.com/tas_to_date" target="_blank">Twitter Bots</a>. Detailierte Informationen sowie der Quellcode sind auf <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a> verfügbar (in Englisch).</em>
+<br /><br />
 
 Die Idee für dieses Projekt geht auf eine Diskussion um Ostern 2021 zurück. Wir konnten uns damals nicht einigen ob das Jahr in Österreich bisher besonders warm oder besonders kalt gewesen war. Um diese Frage zu beantworten schaue ich mir hier die Temperatur gemittelt über Österrreich und gemittelt vom 1. Jänner bis zu einem bestimmten Tag im Jahr an (also zum Beispiel on 1. Jänner bis Ostern). Ich vergleiche sie dann mit der Temperatur im selben Zeitraum in früheren Jahren.
 
