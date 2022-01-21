@@ -15,17 +15,17 @@ Die kumulative Mitteltemperatur am 1. Jänner selbst ist also gleich der Tageste
 
 Wie man in der Abbildung unten sehen kann war die kumulative Mitteltemperatur am 4. April 2021, dem Ostersonntag, um 1.1°C höher als im langjährigen Mittel und die 19. wärmste in den letzten 72 Jahren. Die richtige Antwort für die eingangs erwähnte Diskussion wäre also, dass das Jahr 2021 bis Ostern wärmer war als die meisten der 71 Jahre davor aber nicht zu den extremsten Jahren gehörte.
 
-<img src="/images/tas_cummean_austria_2021_094.jpg" width="80%" height="80%">
+<img src="/images/bot/tas_cummean_austria_2021_094.jpg" width="80%" height="80%">
 
 Einige andere Sache, die bei der Abbildung oben sofort ins Aufg fällt ist, dass der graue Bereich mit fortschreitendem Jahr immer enger wird. Das ist eine konsequenz aus dem Mittelwert: am Anfang des Jahres wird nur über wenige Tage gemittelt, das heißt jeder zusätzliche Tag hat vergleichsweiße viel Einfluß, während am Ende des Jahres über 300+ Tage gemittelt wird, ein einzelner Tag daher kaum mehr einen Einfluss hat. Das kann man auch bereits für 2021 an der roten Linie erkennen: anfangs schwankt sie recht starkt aber ab circa März scheint sie sich einzupendeln und bleibt relativ stabil. Was man aus der Abbildung (Werte ganz rechts) ebenfalls erkennt ist, dass die Jährliche Mitteltemperatur in Österreich scheinbar etwa 6°C ist mit einer Schwankungsbreite von etwa +/- 2°C.
 
 In diesem Kontext ist es natürlich interessan die kumulative Mitteltemperatur mit der täglichen Temperature zu vergleichen. Da wir diese jeden Tag subjektiv erleben beeinflusst sie unsere Wahrnehmung auch stärker als eine über Monate gemittelte Temperatur. Die Abbildung unten ist ähnlich zur letzten Abbildung, zeigt aber für jeden Tag einfach die Temperatur an diesem Tag.
 
-<img src="/images/tas_daily_austria_2021_094.jpg" width="80%" height="80%">
+<img src="/images/bot/tas_daily_austria_2021_094.jpg" width="80%" height="80%">
 
 Was man sofort erkennt ist die deutlich größere Schwankung, die -anders als für die kumulative Mitteltemperatur- übers Jahr nicht abnimmt. Bis Ostern hatte 2021 tatsächlich auch bereits 6 Tage, die einen neuen Temperaturerekord in Österreich aufgestellt hatten (in der Abbildung unden markiert). Gleichzeitig hab es aber auch drei Perioden mit Temperaturen deutlich unter dem langjährigen Mittel, eine kurz vor Ostern während der sogar ein neuer Kälterekord aufgestellt wurde. Es ist also vielleicht auch nicht verwunderlich wenn der einer oder die andere in unserer Diskussion zu Ostern den Eindruck hatte als wäre 2021 bisher sehr kalt gewesen.
 
-<img src="/images/tas_both_austria_2021_365_stepsize-1_delay-10_size-1000.gif" width="80%" height="80%">
+<img src="/images/bot/tas_both_austria_2021_365_stepsize-1_delay-10_size-1000.gif" width="80%" height="80%">
 
 
 To the <a href="https://twitter.com/tas_to_date" target="_blank">Bot on Twitter</a>.
