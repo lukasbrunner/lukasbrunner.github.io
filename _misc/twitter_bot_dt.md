@@ -5,9 +5,9 @@ collection: misc
 permalink: /misc/twitter_bot_dt
 ---
 
-<em>This post is only available in German but you can have a look at the English code documentation on <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a>.
+<em>This post is only available in German but you can have a look at the English code documentation on <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a>.</em>
 
-Dieser Artikel ist eine allgemein verstänliche Erklärung der Hintergründe meines <a href="https://twitter.com/tas_to_date" target="_blank">Twitter Bots</a>. Detailierte Informationen sowie der Quellcode sind auf <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a> verfügbar (in Englisch).</em>
+<em>Dieser Artikel ist eine allgemein verstänliche Erklärung der Hintergründe meines <a href="https://twitter.com/tas_to_date" target="_blank">Twitter Bots</a>. Detailierte Informationen sowie der Quellcode sind auf <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">GitHub</a> verfügbar (in Englisch).</em>
 <br /><br />
 
 Die Idee für dieses Projekt geht auf eine Diskussion um Ostern 2021 zurück. Wir konnten uns damals nicht einigen ob das Jahr in Österreich bisher besonders warm oder besonders kalt gewesen war. Um diese Frage zu beantworten schaue ich mir hier die Temperatur gemittelt über Österrreich und gemittelt vom 1. Jänner bis zu einem bestimmten Tag im Jahr an (also zum Beispiel on 1. Jänner bis Ostern). Ich vergleiche sie dann mit der Temperatur im selben Zeitraum in früheren Jahren.
@@ -46,7 +46,19 @@ Was wir in der Zeitreihe der Tagesmitteltemperatur von 2021 sehen sind aber 11 T
 <img src="/images/bot/tas_daily_austria_2021_365.jpg" width="100%">
 
 
-Der größere Kontext
+Österreich im größeren Kontext
+---
+
+Äquivalent zu Österreich können wir uns auch andere Regionen und deren Temperaturverlauf anschauen. Als Beispiel verwende ich hier 3 weitere Regionen: Zentraleuropa, Europa und Global. Diese 3 Regionen stellen gewissermaßen ein herauszoomen zu immer größeren Skalen dar.
+
+<img src="/images/bot/tas_daily_wce-land_2021_365.jpg" width="100%">
+<img src="/images/bot/tas_daily_europe_2021_365.jpg" width="100%">
+<img src="/images/bot/tas_daily_global_2021_365.jpg" width="100%">
+
+TODO
+
+
+Daten, Quellcode und Twitter Bot
 ---
 
 TODO
