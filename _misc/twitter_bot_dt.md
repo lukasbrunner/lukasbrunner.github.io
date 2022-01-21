@@ -1,6 +1,6 @@
 ---
 title: "Kumulative Mitteltemperatur in Österreich"
-excerpt: "<img src='/images/bot/tas_cummean_austria_2021_365_stepsize-auto_delay-40_size-1000.gif' width='40%'>"
+excerpt: "<img src='/images/bot/tas_cummean_austria_2021_365_stepsize-auto_delay-40_size-1000.gif' width='60%'>"
 collection: misc
 permalink: /misc/twitter_bot_dt
 ---
@@ -15,30 +15,32 @@ Die kumulative Mitteltemperatur am 1. Jänner selbst ist also gleich der Tageste
 
 Wie man in der Abbildung unten sehen kann war die kumulative Mitteltemperatur am 4. April 2021, dem Ostersonntag, um 1.1°C höher als im langjährigen Mittel und die 19. wärmste in den letzten 72 Jahren. Die richtige Antwort für die eingangs erwähnte Diskussion wäre also, dass das Jahr 2021 bis Ostern wärmer war als die meisten der 71 Jahre davor aber nicht zu den extremsten Jahren gehörte.
 
-<img src="/images/bot/tas_cummean_austria_2021_094.jpg" width="90%">
+<img src="/images/bot/tas_cummean_austria_2021_094.jpg" width="100%">
 
-Einige andere Sache, die bei der Abbildung oben sofort ins Aufg fällt ist, dass der graue Bereich mit fortschreitendem Jahr immer enger wird. Das ist eine konsequenz aus dem Mittelwert: am Anfang des Jahres wird nur über wenige Tage gemittelt, das heißt jeder zusätzliche Tag hat vergleichsweiße viel Einfluß, während am Ende des Jahres über 300+ Tage gemittelt wird, ein einzelner Tag daher kaum mehr einen Einfluss hat. Das kann man auch bereits für 2021 an der roten Linie erkennen: anfangs schwankt sie recht starkt aber ab circa März scheint sie sich einzupendeln und bleibt relativ stabil. Was man aus der Abbildung (Werte ganz rechts) ebenfalls erkennt ist, dass die Jährliche Mitteltemperatur in Österreich etwa 6°C ist, mit einer Schwankungsbreite von etwa &plusmn;2°C.
+Einige andere Sache, die bei der Abbildung oben sofort ins Aufg fällt ist, dass der graue Bereich mit fortschreitendem Jahr immer enger wird. Das ist eine konsequenz aus dem Mittelwert: am Anfang des Jahres wird nur über wenige Tage gemittelt, das heißt jeder zusätzliche Tag hat vergleichsweiße viel Einfluß, während am Ende des Jahres über 300+ Tage gemittelt wird, ein einzelner Tag daher kaum mehr einen Einfluss hat. Das kann man auch an der roten Linie von 2021 erkennen: anfangs schwankt sie recht starkt aber ab circa März scheint sie sich einzupendeln und bleibt relativ stabil.
 
-In diesem Kontext ist es natürlich interessan die kumulative Mitteltemperatur mit der täglichen Temperature zu vergleichen. Da wir diese jeden Tag subjektiv erleben beeinflusst sie unsere Wahrnehmung auch stärker als eine über Monate gemittelte Temperatur. Die Abbildung unten ist ähnlich zur letzten Abbildung, zeigt aber für jeden Tag einfach die Temperatur an diesem Tag.
+In diesem Kontext ist es natürlich auch interessant die kumulative Mitteltemperatur mit der täglichen Temperature zu vergleichen. Da wir diese jeden Tag subjektiv erleben beeinflusst sie unsere Wahrnehmung vermutlich stärker als eine über Monate gemittelte Temperatur. Die Abbildung unten ist ähnlich zur letzten Abbildung, zeigt aber für jeden Tag einfach die Temperatur an diesem Tag.
 
-<img src="/images/bot/tas_daily_austria_2021_094.jpg" width="90%">
+<img src="/images/bot/tas_daily_austria_2021_094.jpg" width="100%">
 
-Was man sofort erkennt ist die deutlich größere Schwankung, die -anders als für die kumulative Mitteltemperatur- übers Jahr nicht abnimmt. Bis Ostern hatte 2021 tatsächlich auch bereits 6 Tage, die einen neuen Temperaturerekord in Österreich aufgestellt hatten (in der Abbildung unden markiert). Gleichzeitig hab es aber auch drei Perioden mit Temperaturen deutlich unter dem langjährigen Mittel, eine kurz vor Ostern während der sogar ein neuer Kälterekord aufgestellt wurde. Es ist also vielleicht auch nicht verwunderlich wenn der einer oder die andere in unserer Diskussion zu Ostern den Eindruck hatte als wäre 2021 bisher sehr kalt gewesen.
+Was man sofort erkennt ist die deutlich größere Schwankung, die  &ndash;anders als für die kumulative Mitteltemperatur &ndash; übers Jahr nicht abnimmt. Bis Ostern hatte 2021 tatsächlich auch bereits 6 Tage, die einen neuen Hitzerekord in Österreich aufgestellt hatten. Gleichzeitig hab es aber auch drei Perioden mit Temperaturen deutlich unter dem langjährigen Mittel, eine kurz vor Ostern während der sogar ein neuer Kälterekord aufgestellt wurde. Es ist also auch nicht wirklich verwunderlich wenn der einer oder die andere in unserer Diskussion zu Ostern den Eindruck hatte als wäre 2021 bisher eher kalt gewesen.
 
-Die Animation unten zeigt die Entwicklng der Tagesmitteltemperatur und kumulativen Mitteltemperatur in Österreich während 2021. Man sieht wie die tägliche Temperatur die kumulativen Temperatur anfangs stark beeinflusst, während der Einfluss gegen Ende des Jahres abnimmt aber. Aber gerade längere sehr warme Perioden wie zum Beispiel Mitte Juni können die kumulative Temperature weiterhin beeinflussen (in diesem Fall erhöhen). Im Jährlichen Mittel landet 2021 mit 0,8°C über dem langjährigen Mittwelwert (1950-2021) auf Rang 18/72.
+Die Animation unten zeigt die Entwicklng der Tagesmitteltemperatur und kumulativen Mitteltemperatur in Österreich während ganz 2021. Man sieht wie die tägliche Temperatur die kumulativen Temperatur anfangs stark beeinflusst, während der Einfluss gegen Ende des Jahres abnimmt aber. Aber gerade längere sehr warme Perioden wie zum Beispiel Mitte Juni können die kumulative Temperature weiterhin beeinflussen (in diesem Fall erhöhen). Im Jährlichen Mittel landet 2021 mit 0,8°C über dem langjährigen Mittwelwert (1950-2021) auf Rang 18/72.
 
-<img src="/images/bot/tas_both_austria_2021_365_stepsize-auto_delay-40_size-1000.gif" width="90%">
+<img src="/images/bot/tas_both_austria_2021_365_stepsize-auto_delay-40_size-1000.gif" width="100%">
 
 <!-- https://www.zamg.ac.at/cms/de/klima/klima-aktuell/klimamonitoring/?param=t&period=period-y-2021&ref=3 -->
 
 Der Einlfuss des Klimawandels
 ---
 
-Ich habe mich in dieser Betrachtung der Temperatur in Österreich nicht explizit mit dem Klimawandel auseinandergesetzt. Aber implizit spielt er natürlich wesentliche Rolle und ist auch in den Abbildungen, wenn auch indirekt, erkennbar. Die kummulative Temperatur ist für 2021 fast ausschließlich positiv (wie auch für die meisten anderen Jahre der letzten Dekade). In der täglichen Temperatur sieht man außerdem eine Häufung von Hitzerekorden, die man in einem Klima öhne Erwärmung nicht erwarten würde.
+Ich habe mich in dieser Betrachtung der Temperatur in Österreich nicht explizit mit dem Klimawandel auseinandergesetzt. Aber implizit spielt er natürlich eine wesentliche Rolle und ist auch in den Abbildungen bereits für ein Jahr zumindest erahnbar. In der täglichen Temperatur sieht man nämlich eine Häufung von Hitzerekorden, die man in einem Klima ohne Erwärmung nicht erwarten würde.
 
-Das kann man sich durch ein (etwas vereinfachtes) Beispiel gut vergegenwärtigen: Die Wahrscheinlichkeit, dass ein Tag in 2021 einen neuen Rekord aufstellt hängt in einem Klima ohne Änderungen nur von der Länge der Messreihe ab. Nehmen wir kurz an 2021 wäre das erste Jahr in dem wir messen, die Wahrscheinlichkeit, dass ein Tag einen neuen Rekord aufstellt ist also 100% (ziemlich trivial). Wenn wir hingegen auch Messwerte von 2020 berücksichtigen, kann 2021 darüber oder darunter liegen, hat also eine 50% Change einen neuen Rekord aufzustellen. In unserem Fall haben wir bereits Messungen von 1950-2020, das sind 71 Jahre (Anfangs- und Endjahr inkludiert). Das heißt ein Tag in 2021 hat eine Change von 1/71 oder ca. 1,4% auf einen neuen Rekord. 2021 hatte 365 Tage mal 1,4% ergibt das ca. 5 Tage. In einem Klima ohne Erwärmung erwarten wir also 5 Tage mit einem neuen Hitzerokord (übrigends auch 5 Tage mit einem neuen Kälterekord).
+Das kann man sich durch ein einfaches Beispiel gut vergegenwärtigen: Die Wahrscheinlichkeit, dass ein Tag in 2021 einen neuen Rekord aufstellt hängt in einem Klima ohne Änderungen nur von der Länge der Messreihe ab. Nehmen wir kurz an 2021 wäre das erste Jahr in dem wir messen, die Wahrscheinlichkeit, dass ein Tag einen neuen Rekord aufstellt ist also 100%. Wenn wir hingegen auch Messwerte von 2020 berücksichtigen, kann 2021 darüber oder darunter liegen, hat also eine 50% Change einen neuen Rekord aufzustellen. Im tatsächlich gezeigen Fall haben wir bereits Messungen von 1950-2020, das sind 71 Jahre (Anfangs- und Endjahr inkludiert). Das heißt ein Tag in 2021 hat eine Change von 1/71 oder ca. 1,4% auf einen neuen Rekord. 2021 hatte 365 Tage mal 1,4% ergibt das ca. 5 Tage. In einem Klima ohne Erwärmung erwarten wir also 5 Tage mit einem neuen Hitzerokord (übrigends auch 5 Tage mit einem neuen Kälterekord).
 
-Was wir in der Zeitreihe der Tagesmitteltemperatur von 2021 sehen sind aber 11 Tage mit einem neuen Hitzerekord (und ein Tag mit einem neuen Kälterekord, der allerdings nicht markiert ist). Ähnlich verhält es sich wiederum für die anderen Jahre der letzten Dekade.
+Was wir in der Zeitreihe der Tagesmitteltemperatur von 2021 sehen sind aber 11 Tage mit einem neuen Hitzerekord (und ein Tag mit einem neuen Kälterekord, der allerdings nicht markiert ist).
+
+<img src="/images/bot/tas_daily_austria_2021_365.jpg" width="100%">
 
 
 Der größere Kontext
