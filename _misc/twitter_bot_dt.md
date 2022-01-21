@@ -49,22 +49,27 @@ Was wir in der Zeitreihe der Tagesmitteltemperatur von 2021 sehen sind aber 11 T
 Österreich im größeren Kontext
 ---
 
-Äquivalent zu Österreich können wir uns auch andere Regionen und deren Temperaturverlauf anschauen. Als Beispiel verwende ich hier 3 weitere Regionen: Zentraleuropa, Europa und Global. Diese 3 Regionen stellen gewissermaßen ein herauszoomen zu immer größeren Skalen dar. Deutlich zu erkennen ist, dass die Schwankungen der Tagestemperatur mit zunehmender Regionengröße abnehmen da man über immer mehr Fläche mittelt. Für Zentraleuropa und Europa sind die Schwankungen der Temperatur aber durchaus noch mit Österreich vergleichbar, wenn auch glatter. Die Globale Temperatur schließlich weißt vergleichsweise nur noch sehr schwache Schwankungen auf und ist über weite Teile von 2021 im bereich der wärmsten 10%.
+Äquivalent zu Österreich können wir uns auch andere Regionen und deren Temperaturverlauf anschauen. Als Beispiel verwende ich hier 2 weitere Regionen: Europa und Global. Diese beiden Regionen stellen gewissermaßen ein herauszoomen zu immer größeren Skalen dar. Deutlich zu erkennen ist, dass die Schwankungen der Tagestemperatur mit zunehmender Regionengröße abnehmen da man über immer mehr Fläche mittelt. Für Europa sind die Schwankungen der Temperatur aber durchaus noch mit Österreich vergleichbar, wenn auch glatter. Die Globale Temperatur weißt vergleichsweise nur noch sehr schwache Schwankungen auf und ist über weite Teile von 2021 im Bereich der wärmsten 10%.
 
 **Wichtig:** Die y-Achse ist in allen Abbildungen unterschiedlich. Im Vergleich zu Europa weißt der Globale Fall kaum einen Jahresgang auf. Tatsächlich kann man sich fragen warum die globale Temperatur überhaupt einen Jahresgang hat, schließlich ist während des Sommers auf der Nordhalbkugel auf der Südhalbkugel Winter. Das liegt an der ungleichen verteilung der Landmassen, die im Norden mehr Fläche einnehmen und sich stärker erwärmen.
 
-<img src="/images/bot/tas_daily_wce-land_2021_365.jpg" width="100%">
 <img src="/images/bot/tas_daily_europe_2021_365.jpg" width="100%">
 <img src="/images/bot/tas_daily_global_2021_365.jpg" width="100%">
 
+Die kumulative Mitteltemperatur zeigt, dass 2021 in Österreich über weite Strecken und insbesondere auch im Jährlichen Mittel relativ kühler war als Europa oder die Erde als gesamtes. Während das Jahr 2021 in Österreich Rang 18 belegte, ist es in Europa schon Rang 8 und Global überhaupt Rang 5. Bemerkenswert ist, dass die globale kumulative Mitteltemperatur kaum noch Schwankungen aufweißt. Allerdings ist von März weg ein stetiger Aufwärztrend zu erkennen, der ein erster Indikator dafür sein könnte dass das Jahr 2022 wieder ein Rekordjahr wird.
 
-
-<img src="/images/bot/tas_cummean_wce-land_2021_365.jpg" width="100%">
 <img src="/images/bot/tas_cummean_europe_2021_365.jpg" width="100%">
 <img src="/images/bot/tas_cummean_global_2021_365.jpg" width="100%">
 
 
-Daten, Quellcode und Twitter Bot
+Daten und Quellcode
 ---
 
-TODO
+Alle Abbildungen basieren auf dem ERA5 Datensatz des Europäischen Zentrums für Mittelfristige Wettervorhersage (ECMWF). Die Daten sind für Forschungszwecke zum Beispiel vom Copernius Climate Data Store (CDS) frei verfügbar (<a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview" target="_blank">Link</a>). Ich verwende täglich gemitteltelte Daten basierend auf stündlichen Daten mit einer Auflösung von 0,25° in geographischer Länge und Breite (ca. 25km am Äquator). Für den Download verwende ich die CDS API und das Tool <a href="https://era5cli.readthedocs.io" target="_blank">era5cli</a>, für das Berechnen der Täglichen Mittelwerte verwende ich das Tool <a href="https://code.mpimet.mpg.de/projects/cdo/embedded/index.html" target="_blank">cdo</a>:
+
+```bash
+era5cli "hourly" --variables "2m_temperature" --startyear "2021"  # -> $fn
+cdo daymean $fn $fn_new
+```
+
+Der Quellcode für die Datenprocessierung und das erstellen der Abbildungen ist auf GitHub verfügbar: <a href="https://github.com/lukasbrunner/tas_to_date" target="_blank">link</a>. Die Jahre 1950-2021 sind für ausgewählte Regionen vorprozessiert, sodass Plotroutinen auch auf Heimrechnern ausführbar sein sollten. Voraussetzung ist eine aktuelle Version von Pyhthon (ich verwende 3.9) sowie einige spezialisierte Packete, die aber mit etwas vorwissen einfach zu installieren sein sollten (zum Beispiel mit <a href="https://docs.conda.io/en/latest/miniconda.html#" target="_blank">conda</a>).
