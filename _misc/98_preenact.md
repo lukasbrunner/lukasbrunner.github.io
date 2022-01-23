@@ -1,6 +1,6 @@
 ---
 title: "The Future of the Earth: an artistic interpretation of what could happen to our climate"
-excerpt: "<img src='/images/preenact/protection.jpg' width='40%'>"
+excerpt: "<img src='/images/preenact/protection.jpg' width='60%'>"
 collection: misc
 permalink: /misc/preenact
 ---

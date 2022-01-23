@@ -1,6 +1,6 @@
 ---
 title: "Writing a Twitter Bot to post temperature updates"
-excerpt: "<img src='/images/twitter_bot.png' width='40%'>"
+excerpt: "<img src='/images/twitter_bot.png' width='60%'>"
 collection: misc
 permalink: /misc/twitter_bot
 ---
