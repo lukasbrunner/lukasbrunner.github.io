@@ -20,4 +20,4 @@ Ich arbeite als Wissenschaftler in der Gruppe für Dynamik und Modellierung des 
 Ich bin ehemaliges Vorstandsmitglied und ehemaliger Präsident des <a href="http://www.club-alpbach-vorarlberg.at" target="_blanck">Club Alpbach Vorarlberg</a>, einem Verein der sich der Förderung von Dialog zwischen Fachbereichen, Generationen und Kulturen verschrieben hat und dazu Stipendien für das <a href="https://www.alpbach.org/de/" target="_blanck">Europäische Forum Alpbach</a> organisiert. Kürzlich war ich Teil eines [Kunstprojekts](/misc/preenact) das Klimawandel erlebbar macht und wenn ich die Zeit finde beschäftige ich mich kleinen Projekten wie einem [Twitter Bot](/misc/twitter_bot), der automatische Updates über Temperaturanomalien posted.
 
 
-<img src="https://github.com/lukasbrunner/lukasbrunner_data/raw/master/austria/2022/tas_both_austria_2022_014_stepsize-auto_delay-40_size-1000.gif" width="100%">
+<img src="https://github.com/lukasbrunner/lukasbrunner_data/raw/main/austria/2022/tas_both_austria_2022_newest_stepsize-auto_delay-40_size-1000.gif" width="100%">
