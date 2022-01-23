@@ -16,7 +16,7 @@ Inzwischen schreiben wir 2022 und es ist möglich sich den Verlauf über ganz 20
 
 Die kumulative Mitteltemperatur am 1. Jänner selbst ist also gleich der Tagestemperatur am 1. Jänner, während die kumulative Mitteltemperature am 31. Dezember gleich der Jährlichen Mitteltemperatur ist. Der Vergleich mit vergangenen Jahren ermöglicht eine aussage darüber ob das Jahr im Durchschnitt bisher unüblich warm oder unüblich kalt war. Ich verwende dafür zwei Metriken: die Abbweichung vom langjährigen Mittel (1950-2021) und den Rang.
 
-Wie man in der Abbildung unten sehen kann war die kumulative Mitteltemperatur am 4. April 2021, dem Ostersonntag, um 1.1°C höher als im langjährigen Mittel und die 19. wärmste in den letzten 72 Jahren. Die richtige Antwort für die eingangs erwähnte Diskussion wäre also, dass das Jahr 2021 bis Ostern wärmer war als die meisten der 71 Jahre davor aber nicht zu den extremsten Jahren gehörte.
+Wie man in der Abbildung unten sehen kann war die kumulative Mitteltemperatur am 4. April 2021, dem Ostersonntag, um 1.1°C höher als im langjährigen Mittel und die 19. wärmste in den letzten 72 Jahren. Die richtige Antwort für die eingangs erwähnte Diskussion wäre also, dass das Jahr 2021 bis Ostern wärmer war als die meisten Jahre der letzten Dekaden aber nicht zu den extremsten Jahren gehörte.
 
 <img src="/images/bot/tas_cummean_austria_2021_094.jpg" width="100%">
 
