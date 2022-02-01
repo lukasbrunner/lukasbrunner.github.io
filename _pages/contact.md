@@ -30,7 +30,7 @@ Ausrichtung: Informationen über meine Forschung
 
 
 ---
-My emails are signed used OpenPGP / Meine Mails sind mit OpenPGP signiert
+My emails are signed using OpenPGP / Meine Mails sind mit OpenPGP signiert
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
