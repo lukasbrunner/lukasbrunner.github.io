@@ -14,7 +14,7 @@ Bei Interesse an meiner Arbeit oder bei Fragen kontaktieren Sie mich gerne!
 **Dr. Lukas Brunner** <br />
 Institut für Meteorologie und Geophysik <br />
 Universität Wien <br />
-Althanstraße 14 (UZA II) <br />
+Josef-Holaubek-Platz 2 (UZA II) <br />
 1090 Wien <br />
 Zimmer: 2G555 <br />
 +43-(0)1-4277-53743 <br />
