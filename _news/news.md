@@ -5,14 +5,14 @@ author_profile: true
 share: false
 ---
 
-Upcoming
---------
+<!-- Upcoming -->
+<!-- -------- -->
 
 
 
 
-2022
-----
+<!-- 2022 -->
+<!-- ---- -->
 
 ### 4. May 2022 - Presentation at the EUCP workshop 2022
 Constraining European projections - EUCP progress towards a unified method (<a
@@ -23,7 +23,7 @@ href="https://www.eucp-project.eu/" target="_blank"><b>Link</b></a>
 <!-- <img src="" width="50%"> -->
 
 
-### 21. April 2022 - Presentation at the Austrian Klimatag 2022
+### 21. April 2022 - Poster presentation at the Austrian Klimatag 2022
 Gewichtung von Klimamodellen reduziert die prognostizierte globale Erwärmung in CMIP6 (<a
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
@@ -66,8 +66,7 @@ Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_b
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public_pic.png" width="50%">
 
 
-### January 2022 - <a
-href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank"><b>State of the Climate 2021 (NOAA)</b></a> published
+### January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank"><b>State of the Climate 2021 (NOAA)</b></a> published
 
 
 
