@@ -14,23 +14,21 @@ Upcoming
 2022
 ----
 
-## 4. May 2022 - Presentation at the EUCP workshop 2022
-- Location: virtual
-- Project homepage: <a
+### 4. May 2022 - Presentation at the EUCP workshop 2022
+Constraining European projections - EUCP progress towards a unified method - <a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a><br>
+Virtual | Project homepage: <a
 href="https://www.eucp-project.eu/" target="_blank"><b>Link</b></a>
-- Presentation: Constraining European projections - EUCP progress towards a unified method - <a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a>
 <!-- <img src="" width="50%"> -->
 
-## 21. April 2022 - Presentation at the Austrian Klimatag 2022
-- Location: Vienna, Austria
-- Conference homepage (in German): - <a
-href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022" target="_blank"><b>Link</b></a>
-- Poster: Gewichtung von Klimamodellen reduziert die prognostizierte globale Erwärmung in CMIP6<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>
+### 21. April 2022 - Presentation at the Austrian Klimatag 2022
+Gewichtung von Klimamodellen reduziert die prognostizierte globale Erwärmung in CMIP6<a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a><br>
+Vienna, Austria | Conference homepage (in German): - <a
+href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022" target="_blank"><b>Link</b></a><br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Klimatag_pic.jpeg" width="50%">
 
-### 21. April 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreischischer Klimabericht 2021</b></a> published
+#### 21. April 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreischischer Klimabericht 2021</b></a> published
 
 ## 4. February 2022 - Presentation at the DACH Quality control methods meeting
 - Location: virtual
