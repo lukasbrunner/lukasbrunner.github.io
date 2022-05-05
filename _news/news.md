@@ -55,7 +55,7 @@ German summary: <a
 href="https://climate.copernicus.eu/sites/default/files/custom-uploads/ESOTC2021/Europe/Summary%20graphics-branded/C3S_ESOTC_PressRelease_final_GER.pdf" target="_blank"><b>PDF</b></a>
 
 
-### 4. April 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreischischer Klimabericht 2021</b></a> published
+### 4. April 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreichischer Klimabericht 2021</b></a> published
 
 
 ### 4. February 2022 - Presentation at the DACH Quality control methods meeting
@@ -79,8 +79,8 @@ Weighting models by performance and independence - Effects on projections of fut
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_blank"><b>Link</b></a>
-<br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public_pic.png" width="50%">
+<!-- <br> -->
+<!-- <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public_pic.png" width="50%"> -->
 
 
 ### January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank"><b>State of the Climate 2021 (NOAA)</b></a> published
