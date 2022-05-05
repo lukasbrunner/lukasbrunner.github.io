@@ -8,11 +8,28 @@ share: false
 <!-- Upcoming -->
 <!-- -------- -->
 
-
+<!-- ### 00. Month 2022 - What and where -->
+<!-- Title <a href="" target="_blank"><b>PDF</b></a>  -->
+<!-- <br> -->
+<!-- Location | Conference homepage: <a href="" target="_blank"><b>Link</b></a> -->
+<!-- <img src="" width="50%"> -->
 
 
 <!-- 2022 -->
 <!-- ---- -->
+
+### 27. May 2022 - Presentation at the EGU General Assembly 2022
+Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
+<br>
+Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_blank"><b>Link</b></a>
+
+### 12. May 2022 - Poster presentation at the Climate Informatics Conference
+Classifying climate models based on temperature patterns from a single day using a convolutional neural network <br>
+Virtual | Conference homepage: <a href="https://ncics.org/news/events/ci2022/" target="_blank"><b>Link</b></a>
+
+### 4. May 2022 - Presentation at nextGEMS meeting
+Separating models and observations based on daily temperatures using machine learning <br>
+Virtual | Project homepage: <a href="https://nextgems-h2020.eu/" target="_blank"><b>Link</b></a>
 
 ### 4. May 2022 - Presentation at the EUCP workshop 2022
 Constraining European projections - EUCP progress towards a unified method (<a
