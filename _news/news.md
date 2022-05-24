@@ -29,7 +29,7 @@ Investigating 25 years of coupled climate modeling | Abstract: <a href="https://
 Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_blank"><b>Link</b></a>
 
 ### 19. May 2022 - <span style="color:red">New preprint</span>
-Brunner L., Sippel S. (2022):
+Brunner L. and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
 submitted to _Env. Data Sci._ / available on EarthArXiv,
