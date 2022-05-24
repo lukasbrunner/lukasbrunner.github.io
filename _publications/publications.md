@@ -10,10 +10,10 @@ For a summary of my activity as reviewer you can also have a look at my <a href=
 Preprint
 --------
 
-- Brunner L., Sippel S. (submitted):
+- Brunner L., Sippel S. (2020):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
-_Env. Data Sci._,
+submitted to _Env. Data Sci._ / available on EarthArXiv,
 <a href="https://lukasbrunner.github.io/files/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
 
 
@@ -134,3 +134,11 @@ Blogging Climate Change: A Case Study, In: Addressing the Challenges in Communic
 Stratospheric ozone and temperature evolution over the past decades (Master's thesis),
 _Wegener Center Verlag Graz_,
 <a href="https://lukasbrunner.github.io/files/Brunner2014.pdf" target="_blank"><b>PDF</b></a>
+
+
+Supervision
+-----------
+
+- Horat, N. (2021): Why does interannual precipitation variability change in a warming climate? - spatial structure and underlying mechanisms (Master's thesis; co-supervision with Flavio Lehner)
+- Gimmi, L. (2020): Assessing climate model uncertainties – an encounter with CMIP6 (Bachelor thesis)
+- Hirsig, A. (2019): Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (Bachelor thesis)
