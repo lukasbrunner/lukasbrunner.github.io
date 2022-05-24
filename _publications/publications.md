@@ -10,7 +10,7 @@ For a summary of my activity as reviewer you can have a look at my <a href="http
 Preprint
 --------
 
-- Brunner L., Sippel S. (2022):
+- Brunner L. and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
 submitted to _Env. Data Sci._ / available on EarthArXiv,
