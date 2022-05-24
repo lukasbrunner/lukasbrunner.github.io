@@ -17,11 +17,24 @@ share: false
 
 <!-- 2022 -->
 <!-- ---- -->
+### 28. Juni - 2. July - Participation at the NextGEMS hackathon
+Vienna, Austria
+
+### 15.-18. Juni - Participation at the _The Future of the Earth_ performance
+Pratteln, Switzerland & online | Project homepage (in German) and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
 
 ### 27. May 2022 - Presentation at the EGU General Assembly 2022
 Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
 <br>
 Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_blank"><b>Link</b></a>
+
+### 19. May 2022 - <span style="color:red">New preprint</span>
+Brunner L., Sippel S. (2022):
+<a href="https://doi.org/10.31223/X53M0J" target="_blank">
+Separation of climate models and observations based on daily output using machine learning</a>,
+submitted to _Env. Data Sci._ / available on EarthArXiv,
+<a href="https://lukasbrunner.github.io/files/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
+
 
 ### 12. May 2022 - Poster presentation at the Climate Informatics Conference
 Classifying climate models based on temperature patterns from a single day using a convolutional neural network <br>
