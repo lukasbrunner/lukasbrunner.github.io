@@ -31,7 +31,7 @@ _Geophys. Res. Lett._,
 Vienna, Austria
 
 ### 15.-18. Juni - Participation at the _The Future of the Earth_ performance
-Pratteln, Switzerland & online | Project homepage (in German) and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
+Pratteln, Switzerland & online | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
 
 ### 27. May 2022 - Presentation at the EGU General Assembly 2022
 Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
