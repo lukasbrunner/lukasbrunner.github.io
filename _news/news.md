@@ -17,6 +17,16 @@ share: false
 
 <!-- 2022 -->
 <!-- ---- -->
+### 11. Juli 2022 - kinderuni: Mittendrin im Klimalabor
+Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank"><b>Link</b></a>
+
+### 25. June 2022 - <span style="color:red">New publication</span>
+Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
+<a href="https://doi.org/10.1029/2022GL098568" target="_blank">
+Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
+_Geophys. Res. Lett._,
+<!-- <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
+
 ### 28. Juni - 2. July - Participation at the NextGEMS hackathon
 Vienna, Austria
 
@@ -29,7 +39,7 @@ Investigating 25 years of coupled climate modeling | Abstract: <a href="https://
 Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_blank"><b>Link</b></a>
 
 ### 19. May 2022 - <span style="color:red">New preprint</span>
-Brunner L. and Sippel S. (2022):
+**Brunner L**. and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
 submitted to _Env. Data Sci._ / available on EarthArXiv,
