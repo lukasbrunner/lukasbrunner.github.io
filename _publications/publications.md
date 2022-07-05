@@ -24,12 +24,18 @@ Peer-reviewed
 <!-- / Unsicherheiten in zukünftigen Klima -->
 
 <!-- template
-- :
+- (20):
 <a href="" target="_blank">
 </a>,
 __,
 <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a>
 -->
+
+- Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
+<a href="https://doi.org/10.1029/2022GL098568" target="_blank">
+Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
+_Geophys. Res. Lett._,
+<!-- <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
 
 - Hegerl G. C., Ballinger A. P., Booth B. B. B., Borchert L. F., **Brunner L.**, Donat M. G., Doblas-Reyes F., Harris G., Lowe J., Mahmood R., Mignot J., Murphy J., Swingedouw D., and Weisheimer A. (2021):
 <a href="https://doi.org/10.3389/fclim.2021.678109" target="_blank">
