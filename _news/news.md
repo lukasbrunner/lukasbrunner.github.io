@@ -29,6 +29,8 @@ _Geophys. Res. Lett._,
 
 ### 28. Juni - 2. July - Participation at the NextGEMS hackathon
 Vienna, Austria
+<br>
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.jpg" width="50%">
 
 ### 15.-18. Juni - Participation at the _The Future of the Earth_ performance
 Pratteln, Switzerland & online | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
