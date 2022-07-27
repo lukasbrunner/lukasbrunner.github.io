@@ -21,7 +21,7 @@ share: false
 Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank"><b>Link</b></a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/kinderuni2022.jpg" width="50%">
-<span style="color:gray;font-size:10px">P. Griwank</span>
+<br><span style="color:gray;font-size:10px">Picture: &#169; P. Griwank</span>
 
 ### 25. June 2022 - <span style="color:red">New publication</span>
 Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
@@ -34,6 +34,7 @@ _Geophys. Res. Lett._,
 Vienna, Austria
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.jpg" width="50%">
+<br><span style="color:gray;font-size:10px">Picture: &#169; NextGEMS</span>
 
 ### 15.-18. Juni - Participation at the _The Future of the Earth_ performance
 Pratteln, Switzerland & online | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
