@@ -27,11 +27,11 @@ Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at
 Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
 <a href="https://doi.org/10.1029/2022GL098568" target="_blank">
 Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
-_Geophys. Res. Lett._,
-<!-- <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
+_Geophys. Res. Lett._
+<!-- , <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="50%">
-<br><span style="color:gray;font-size:10px">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span>
+<br><span style="color:gray;font-size:10px;line-height: 11px">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span>
 
 ### 28. Juni - 2. July - Participation at the NextGEMS hackathon
 Vienna, Austria
@@ -42,7 +42,7 @@ Vienna, Austria
 ### 15.-18. Juni - Participation at the _The Future of the Earth_ performance
 Pratteln, Switzerland & online | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/summary.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/summary.JPG" width="50%">
 
 ### 27. May 2022 - Presentation at the EGU General Assembly 2022
 Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
@@ -56,7 +56,7 @@ Separation of climate models and observations based on daily output using machin
 submitted to _Env. Data Sci._ / available on EarthArXiv,
 <a href="https://lukasbrunner.github.io/files/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2022.jpg" width="50%">
 <br><span style="color:gray;font-size:10px">Logistic regression coefficients learned from daily data in the period 1950-1999 and used to separate daily temperature maps from models and observations.</span>
 
 ### 12. May 2022 - Poster presentation at the Climate Informatics Conference
