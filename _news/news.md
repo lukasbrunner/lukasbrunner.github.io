@@ -32,7 +32,7 @@ _Geophys. Res. Lett._
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="75%">
 <br>
-<p style="line-height:11px">
+<p style="line-height:12px">
 <span style="color:gray;font-size:10pt">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span></p>
 
 ### 28. Juni - 2. July - Participation at the NextGEMS hackathon
@@ -60,7 +60,7 @@ Separation of climate models and observations based on daily output using machin
 submitted to _Env. Data Sci._ / available on EarthArXiv,
 <a href="https://lukasbrunner.github.io/files/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2022.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2022.jpg" width="75%">
 <br><span style="color:gray;font-size:10px">Logistic regression coefficients learned from daily data in the period 1950-1999 and used to separate daily temperature maps from models and observations.</span>
 
 ### 12. May 2022 - Poster presentation at the Climate Informatics Conference
