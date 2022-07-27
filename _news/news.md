@@ -31,7 +31,7 @@ _Geophys. Res. Lett._
 <!-- , <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="50%">
-<br><span style="color:gray;font-size:10px;line-height:10px">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span>
+<br><span style="color:gray;font-size:10px;line-height:1px">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span>
 
 ### 28. Juni - 2. July - Participation at the NextGEMS hackathon
 Vienna, Austria
