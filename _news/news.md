@@ -30,17 +30,19 @@ Combination of decadal predictions and climate projections in time: Challenges a
 _Geophys. Res. Lett._
 <!-- , <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="75%">
 <br><span style="color:gray;font-size:10pt;line-height:1pt">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span>
 
 ### 28. Juni - 2. July - Participation at the NextGEMS hackathon
 Vienna, Austria
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.jpg" width="50%">
-<br><span style="color:gray;font-size:10px">Picture: &#169; NextGEMS</span>
+<br><span style="color:gray;font-size:5px">Picture: &#169; NextGEMS</span>
 
 ### 15.-18. Juni - Participation at the _The Future of the Earth_ performance
-Pratteln, Switzerland & online | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
+Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
+<br>
+More impressions [here](/misc/tfote)
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/summary.JPG" width="50%">
 
