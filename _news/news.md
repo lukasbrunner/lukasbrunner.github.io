@@ -17,6 +17,13 @@ share: false
 
 <!-- 2022 -->
 <!-- ---- -->
+### 3. August 2022 - <span style="color:red">New preprint</span>
+Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2022):
+<a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
+Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
+_Earth Syst. Dynam. Diss._,
+<a href="https://lukasbrunner.github.io/files/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
+
 ### 11. Juli 2022 - kinderuni: Mittendrin im Klimalabor
 Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank"><b>Link</b></a>
 <br>

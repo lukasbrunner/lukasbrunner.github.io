@@ -10,6 +10,12 @@ For a summary of my activity as reviewer you can have a look at my <a href="http
 Preprint
 --------
 
+- Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2022):
+<a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
+Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
+_Earth Syst. Dynam. Diss._,
+<a href="https://lukasbrunner.github.io/files/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
+
 - Brunner L. and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
