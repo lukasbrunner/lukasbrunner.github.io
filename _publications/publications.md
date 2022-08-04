@@ -16,7 +16,7 @@ Performance based sub-selection of CMIP6 models for impact assessments in Europe
 _Earth Syst. Dynam. Diss._,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
 
-- Brunner L. and Sippel S. (2022):
+- **Brunner L.** and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
 submitted to _Env. Data Sci._ / available on EarthArXiv,
