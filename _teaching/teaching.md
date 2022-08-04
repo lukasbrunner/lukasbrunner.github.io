@@ -22,4 +22,4 @@ Former Courses
 
 - 2020-2021: [**Exercises Systemanalyse**](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021W&lerneinheitId=147269&ansicht=LEHRVERANSTALTUNGEN), ETH Zurich, German
 
-<img src="https://github.com/lukasbrunner/lukasbrunner_data/raw/main/teaching/euler_vorwaerts.gif.gif" width="100%">
+<img src="https://github.com/lukasbrunner/lukasbrunner_data/raw/main/teaching/euler_vorwaerts.gif" width="100%">
