@@ -14,7 +14,7 @@ Preprint
 <a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam. Diss._,
-<a href="https://lukasbrunner.github.io/files/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
 
 - Brunner L. and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">

@@ -22,7 +22,7 @@ Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **B
 <a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam. Diss._,
-<a href="https://lukasbrunner.github.io/files/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
 
 ### 11. Juli 2022 - kinderuni: Mittendrin im Klimalabor
 Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank"><b>Link</b></a>
