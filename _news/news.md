@@ -35,7 +35,7 @@ Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Balli
 <a href="https://doi.org/10.1029/2022GL098568" target="_blank">
 Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
 _Geophys. Res. Lett._
-<!-- , <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a> -->
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.pdf" target="_blank"><b>PDF</b></a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Befort2022.jpg" width="75%">
 <br>
