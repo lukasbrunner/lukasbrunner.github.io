@@ -5,7 +5,7 @@ author_profile: true
 share: false
 ---
 
-For a summary of my activity as reviewer you can have a look at my <a href="https://publons.com/researcher/3679169/lukas-brunner/peer-review/" target="_blank">publons</a> page.
+For a summary of my activity as reviewer you can have a look at <a href="[https://publons.com/researcher/3679169/lukas-brunner/peer-review/](https://www.webofscience.com/wos/author/record/2088248)" target="_blank">Web of Science</a> page.
 
 Preprint
 --------
