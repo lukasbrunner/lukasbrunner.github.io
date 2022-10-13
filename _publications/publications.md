@@ -37,6 +37,12 @@ __,
 <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a>
 -->
 
+- Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022):
+<a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
+Rarest rainfall events will see the greatest relative increase in magnitude under future climate change</a>,
+_communications earth & environment_
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
+
 - Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
 <a href="https://doi.org/10.1029/2022GL098568" target="_blank">
 Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,

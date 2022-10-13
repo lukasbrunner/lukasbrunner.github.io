@@ -17,6 +17,16 @@ share: false
 
 <!-- 2022 -->
 <!-- ---- -->
+### 10. October 2022 - <span style="color:red">New publication</span>
+Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
+Rarest rainfall events will see the greatest relative increase in magnitude under future climate change</a>,
+_communications earth & environment_
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
+
+### 07. October 2022 - Workshop Inspirationstag der Erzdiözese Wien
+Vienna, Austria | Topic: Naturwissenschafltiche Grundlage der Klimakrise
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
+
 ### 3. August 2022 - <span style="color:red">New preprint</span>
 Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2022):
 <a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
@@ -31,7 +41,7 @@ Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at
 <br><span style="color:gray;font-size:10px">Picture: &#169; Griwank</span>
 
 ### 25. June 2022 - <span style="color:red">New publication</span>
-Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
+Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., and Murphy J. M. (2022):
 <a href="https://doi.org/10.1029/2022GL098568" target="_blank">
 Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
 _Geophys. Res. Lett._
