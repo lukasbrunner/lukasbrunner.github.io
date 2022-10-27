@@ -21,13 +21,13 @@ share: false
 Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank"><b>Link</b></a>
 
 
-- 27. October 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank"><b>UN environment programme Emissions Gap Report 2022</b></a> published
+27. October 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank"><b>UN environment programme Emissions Gap Report 2022</b></a> published
 
 
-- 26. October 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank"><b>Climate Action Tracker State of Climate Action 2022</b></a> report published
+26. October 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank"><b>Climate Action Tracker State of Climate Action 2022</b></a> report published
 
 
-- 26. October 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank"><b>WMO State of the Global Climate 2021</b></a> report published
+26. October 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank"><b>WMO State of the Global Climate 2021</b></a> report published
 
 ### 10. October 2022 - <span style="color:red">New publication</span>
 Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
