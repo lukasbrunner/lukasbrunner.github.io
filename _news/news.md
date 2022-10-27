@@ -17,7 +17,7 @@ share: false
 
 <!-- 2022 -->
 <!-- ---- -->
-### November 6 - 19, 2022  - UN Climate Conference (COP27)
+### November 6 - 19, 2022  - Observer at the UN Climate Conference (COP27)
 Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank"><b>Link</b></a>
 
 
