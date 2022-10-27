@@ -46,7 +46,7 @@ Performance based sub-selection of CMIP6 models for impact assessments in Europe
 _Earth Syst. Dynam. Diss._,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
 
-### July 11, 2022 - kinderuni: Mittendrin im Klimalabor
+### July 11, 2022 - Participation kinderuni: Mittendrin im Klimalabor
 Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank"><b>Link</b></a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/kinderuni2022.jpg" width="50%">
