@@ -21,13 +21,13 @@ share: false
 Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank"><b>Link</b></a>
 
 
-October 27, 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank"><b>UN environment programme Emissions Gap Report 2022</b></a> published
+October, 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank"><b>UN environment programme Emissions Gap Report 2022</b></a>
 
 
-October 26, 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank"><b>Climate Action Tracker State of Climate Action 2022</b></a> report published
+October, 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank"><b>Climate Action Tracker State of Climate Action 2022</b></a> report
 
 
-October 26, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank"><b>WMO State of the Global Climate 2021</b></a> report published
+October, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank"><b>WMO State of the Global Climate 2021</b></a> report
 
 ### October 10, 2022 - <span style="color:red">New publication</span>
 Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
@@ -119,12 +119,12 @@ href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022"
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Klimatag_pic.jpeg" width="50%">
 
 
-April 22, 2022 - <a href="https://climate.copernicus.eu/esotc/2021" target="_blank"><b>European State of the Climate 2021</b></a> published
+April 22, 2022 - <a href="https://climate.copernicus.eu/esotc/2021" target="_blank"><b>European State of the Climate 2021</b></a>
 German summary: <a
 href="https://climate.copernicus.eu/sites/default/files/custom-uploads/ESOTC2021/Europe/Summary%20graphics-branded/C3S_ESOTC_PressRelease_final_GER.pdf" target="_blank"><b>PDF</b></a>
 
 
-April 4, 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreichischer Klimabericht 2021</b></a> published
+April 4, 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreichischer Klimabericht 2021</b></a>
 
 
 ### February 4, 2022 - Presentation at the DACH Quality control methods meeting
@@ -152,7 +152,7 @@ Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_b
 <!-- <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public_pic.png" width="50%"> -->
 
 
-January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank"><b>State of the Climate 2021 (NOAA)</b></a> published
+January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank"><b>State of the Climate 2021 (NOAA)</b></a>
 
 
 
