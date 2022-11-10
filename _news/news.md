@@ -124,23 +124,23 @@ href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022"
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Klimatag_pic.jpeg" width="50%">
 
 
-April 22, 2022 - <a href="https://climate.copernicus.eu/esotc/2021" target="_blank"><b>European State of the Climate 2021</b></a>
+April 22, 2022 - <a href="https://climate.copernicus.eu/esotc/2021" target="_blank">European State of the Climate 2021</a><br>
 German summary: <a
 href="https://climate.copernicus.eu/sites/default/files/custom-uploads/ESOTC2021/Europe/Summary%20graphics-branded/C3S_ESOTC_PressRelease_final_GER.pdf" target="_blank"><b>PDF</b></a>
 
 
-April 4, 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank"><b>Österreichischer Klimabericht 2021</b></a>
+April 4, 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank">Österreichischer Klimabericht 2021</a>
 
 
 ### February 4, 2022 - Presentation at the DACH Quality control methods meeting
-Constraining Future European Climate from GCMs - Methods, Results, and Ways Forward (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202202_presentation_DACH.pdf" target="_blank"><b>PDF</b></a>)<br>
+Constraining Future European Climate from GCMs - Methods, Results, and Ways Forward, <a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202202_presentation_DACH.pdf" target="_blank"><b>PDF</b></a><br>
 Virtual
 
 
 ### February 3 - 4, 2022 - Session chair and presentation at the CliMatters workshop
-Uncertainty in climate modeling and projections (session) | Separating Uncertainties in Projections of Future Climate – Importance, Lessons, and Solutions (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>)
+Uncertainty in climate modeling and projections (session) | Separating Uncertainties in Projections of Future Climate – Importance, Lessons, and Solutions, <a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Workshop homepage: <a
 href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-workshops/final-workshop/" target="_blank">Link</a>
@@ -149,8 +149,8 @@ href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-worksho
 
 
 ### January 18, 2022 - Presentation at the University of Vienna Meteorological/Geophysical Colloquium
-Weighting models by performance and independence - Effects on projections of future climate (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>)
+Weighting models by performance and independence - Effects on projections of future climate, <a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_blank">Link</a>
 <!-- <br> -->
@@ -165,7 +165,7 @@ Older (selection)
 -----------------
 
 ### November 16,  2021 - Keynote at the EC-Earth meeting
-Uncertainties in multi-model assessments of future climate (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>)
+Uncertainties in multi-model assessments of future climate, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Meeting homepage: <a
 href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/" target="_blank">Link</a>
@@ -174,8 +174,8 @@ href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/"
 
 
 ### October 21, 2021 - Invited talk at the Wegener Center Common Space seminar (University of Graz)
-Weighting models by performance and independence - Effects on projections of future climate (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>)
+Weighting models by performance and independence - Effects on projections of future climate, <a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Institute homepage: <a
 href="https://wegcenter.uni-graz.at/en/" target="_blank">Link</a>
