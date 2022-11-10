@@ -157,7 +157,7 @@ Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_b
 <!-- <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public_pic.png" width="50%"> -->
 
 
-January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank"><b>State of the Climate 2021 (NOAA)</b></a>
+January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank">State of the Climate 2021 (NOAA)</a>
 
 
 
