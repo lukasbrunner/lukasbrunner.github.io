@@ -17,9 +17,14 @@ share: false
 
 <!-- 2022 -->
 <!-- ---- -->
-### November 6 - 19, 2022  - Observer at the UN Climate Conference (COP27)
+### November 14 - 19, 2022  - Participation at the UN Climate Conference (COP27)
 Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank"><b>Link</b></a>
 
+### November 7, 2022 - Article Rudolphina
+<a href="https://rudolphina.univie.ac.at/klimakonferenz-cop27-hitze-duerre-flut-extremwetter-katastrophen" target="_blank"><b>Hitze, Dürre, Flut: Sind Katastrophen das neue Normal?</b></a> (in German)
+
+### October 27, 2022 - Interview Ö1 Kinderuni
+<a href="https://oe1.orf.at/programm/20221027/695314/Wie-entstehen-Wolken" target="_blank"><b>Wie entstehen Wolken?</b></a> (in German)
 
 October, 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank"><b>UN environment programme Emissions Gap Report 2022</b></a>
 
