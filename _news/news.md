@@ -18,21 +18,21 @@ share: false
 <!-- 2022 -->
 <!-- ---- -->
 ### November 14 - 19, 2022  - Participation at the UN Climate Conference (COP27)
-Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank"><b>Link</b></a>
+Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank">Link</a>
 
 ### November 7, 2022 - Article Rudolphina
-<a href="https://rudolphina.univie.ac.at/klimakonferenz-cop27-hitze-duerre-flut-extremwetter-katastrophen" target="_blank"><b>Hitze, Dürre, Flut: Sind Katastrophen das neue Normal?</b></a> (in German)
+<a href="https://rudolphina.univie.ac.at/klimakonferenz-cop27-hitze-duerre-flut-extremwetter-katastrophen" target="_blank">Hitze, Dürre, Flut: Sind Katastrophen das neue Normal?</a> (in German)
 
 ### October 27, 2022 - Interview Ö1 Kinderuni
-<a href="https://oe1.orf.at/programm/20221027/695314/Wie-entstehen-Wolken" target="_blank"><b>Wie entstehen Wolken?</b></a> (in German)
+<a href="https://oe1.orf.at/programm/20221027/695314/Wie-entstehen-Wolken" target="_blank">Wie entstehen Wolken?</a> (in German)
 
-October, 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank"><b>UN environment programme Emissions Gap Report 2022</b></a>
-
-
-October, 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank"><b>Climate Action Tracker State of Climate Action 2022</b></a> report
+October, 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank">UN environment programme Emissions Gap Report 2022</a>
 
 
-October, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank"><b>WMO State of the Global Climate 2021</b></a> report
+October, 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank">Climate Action Tracker State of Climate Action 2022</a> report
+
+
+October, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank">WMO State of the Global Climate 2021</a> report
 
 ### October 10, 2022 - <span style="color:red">New publication</span>
 Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
@@ -52,7 +52,7 @@ _Earth Syst. Dynam. Diss._,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
 
 ### July 11, 2022 - Participation kinderuni: Mittendrin im Klimalabor
-Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank"><b>Link</b></a>
+Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank">Link</a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/kinderuni2022.jpg" width="50%">
 <br><span style="color:gray;font-size:10px">Picture: &#169; Griwank</span>
@@ -76,7 +76,7 @@ Vienna, Austria
 <br><span style="color:gray;font-size:5px">Picture: &#169; NextGEMS</span>
 
 ### June 15 - 18, 2022 - Participation at the _The Future of the Earth_ performance
-Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank"><b>Link</b></a>
+Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank">Link</a>
 <br>
 More impressions [here](/misc/tfote)
 <br>
@@ -85,7 +85,7 @@ More impressions [here](/misc/tfote)
 ### May 27, 2022 - Presentation at the EGU General Assembly 2022
 Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
 <br>
-Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_blank"><b>Link</b></a>
+Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_blank">Link</a>
 
 ### May 19, 2022 - <span style="color:red">New preprint</span>
 **Brunner L**. and Sippel S. (2022):
@@ -99,18 +99,18 @@ submitted to _Env. Data Sci._ / available on EarthArXiv,
 
 ### May 12, 2022 - Poster presentation at the Climate Informatics Conference
 Classifying climate models based on temperature patterns from a single day using a convolutional neural network <br>
-Virtual | Conference homepage: <a href="https://ncics.org/news/events/ci2022/" target="_blank"><b>Link</b></a>
+Virtual | Conference homepage: <a href="https://ncics.org/news/events/ci2022/" target="_blank">Link</a>
 
 ### May 4, 2022 - Presentation at nextGEMS meeting
 Separating models and observations based on daily temperatures using machine learning <br>
-Virtual | Project homepage: <a href="https://nextgems-h2020.eu/" target="_blank"><b>Link</b></a>
+Virtual | Project homepage: <a href="https://nextgems-h2020.eu/" target="_blank">Link</a>
 
 ### May 4, 2022 - Presentation at the EUCP workshop 2022
 Constraining European projections - EUCP progress towards a unified method (<a
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Project homepage: <a
-href="https://www.eucp-project.eu/" target="_blank"><b>Link</b></a>
+href="https://www.eucp-project.eu/" target="_blank">Link</a>
 <!-- <img src="" width="50%"> -->
 
 
@@ -119,7 +119,7 @@ Gewichtung von Klimamodellen reduziert die prognostizierte globale Erwärmung in
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): - <a
-href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022" target="_blank"><b>Link</b></a>
+href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022" target="_blank">Link</a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/Klimatag_pic.jpeg" width="50%">
 
@@ -143,7 +143,7 @@ Uncertainty in climate modeling and projections (session) | Separating Uncertain
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Workshop homepage: <a
-href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-workshops/final-workshop/" target="_blank"><b>Link</b></a>
+href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-workshops/final-workshop/" target="_blank">Link</a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/CliMatters_pic.png" width="50%">
 
@@ -152,7 +152,7 @@ href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-worksho
 Weighting models by performance and independence - Effects on projections of future climate (<a
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>)
 <br>
-Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_blank"><b>Link</b></a>
+Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_blank">Link</a>
 <!-- <br> -->
 <!-- <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202201_presentation_UniWien_public_pic.png" width="50%"> -->
 
@@ -168,7 +168,7 @@ Older (selection)
 Uncertainties in multi-model assessments of future climate (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Meeting homepage: <a
-href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/" target="_blank"><b>Link</b></a>
+href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/" target="_blank">Link</a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202111_presentation_MMEs_EC-Earth_public_pic2.png" width="50%">
 
@@ -178,4 +178,4 @@ Weighting models by performance and independence - Effects on projections of fut
 href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Institute homepage: <a
-href="https://wegcenter.uni-graz.at/en/" target="_blank"><b>Link</b></a>
+href="https://wegcenter.uni-graz.at/en/" target="_blank">Link</a>
