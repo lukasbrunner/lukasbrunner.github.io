@@ -8,15 +8,22 @@ share: false
 <!-- Upcoming -->
 <!-- -------- -->
 
-<!-- ### 00. Month 2022 - What and where -->
+<!-- ### 00. Month 2023 - What and where -->
 <!-- Title <a href="" target="_blank"><b>PDF</b></a>  -->
 <!-- <br> -->
 <!-- Location | Conference homepage: <a href="" target="_blank"><b>Link</b></a> -->
 <!-- <img src="" width="50%"> -->
 
+<!-- 20213 -->
+### January 18, 2023 - Guest speaker in Green Finance seminar
+Vienna, Austria | u:find entry: <a href="https://ufind.univie.ac.at/de/course.html?lv=030513&semester=2022W" target="_blank"><b>Link</b></a>
+Naturwissenschaftliche Grundlagen der Klimakrise
+<img src="images/juridicum.jpg" width="50%">
+
+### January 13, 2023 - Klimaszenarien.AT kick-off
+Online | News item (in German): <a href="https://klimaszenarien.at/2023/01/19/999/" target="_blank"><b>Link</b></a>
 
 <!-- 2022 -->
-<!-- ---- -->
 ### November 14 - 19, 2022  - Participation at the UN Climate Conference (COP27)
 Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank">Link</a>
 
