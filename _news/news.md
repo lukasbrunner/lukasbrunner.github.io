@@ -17,7 +17,7 @@ share: false
 <!-- 20213 -->
 ### January 18, 2023 - Guest speaker in Green Finance seminar
 Vienna, Austria | u:find entry: <a href="https://ufind.univie.ac.at/de/course.html?lv=030513&semester=2022W" target="_blank"><b>Link</b></a><br>
-Naturwissenschaftliche Grundlagen der Klimakrise<br>
+Topic: Naturwissenschaftliche Grundlagen der Klimakrise: <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202301_presentation_GreenFinance_169-1.pdf" target="_blank"><b>PDF</b></a><br>
 <img src="/images/juridicum.jpg" width="50%">
 
 ### January 13, 2023 - Klimaszenarien.AT kick-off
@@ -25,7 +25,8 @@ Online | News item (in German): <a href="https://klimaszenarien.at/2023/01/19/99
 
 <!-- 2022 -->
 ### November 14 - 19, 2022  - Participation at the UN Climate Conference (COP27)
-Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank">Link</a>
+Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank">Link</a> <br>
+univie Blog article:  <a href="https://blog.univie.ac.at/en/research/cop27-in-sharm-el-sheikh-report-by-lukas-brunner/" target="_blank">Link</a>
 
 ### November 7, 2022 - Article Rudolphina
 <a href="https://rudolphina.univie.ac.at/klimakonferenz-cop27-hitze-duerre-flut-extremwetter-katastrophen" target="_blank">Hitze, Dürre, Flut: Sind Katastrophen das neue Normal?</a> (in German)
@@ -39,7 +40,7 @@ October, 2022 - <a href="https://www.unep.org/events/publication-launch/emission
 October, 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank">Climate Action Tracker State of Climate Action 2022</a> report
 
 
-October, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank">WMO State of the Global Climate 2021</a> report
+October, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank">WMO State of the Global Climate 2022</a> report
 
 ### October 10, 2022 - <span style="color:red">New publication</span>
 Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
