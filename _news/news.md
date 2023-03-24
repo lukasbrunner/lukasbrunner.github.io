@@ -16,8 +16,8 @@ share: false
 
 <!-- 20213 -->
 ### April 28, 2023 - Presentation at EGU23
-Session: <a href="https://meetingorganizer.copernicus.org/EGU23/session/47140" target="_blank"><b>Machine Learning for Climate Science</b></a><br>
-<a href="https://doi.org/10.5194/egusphere-egu23-492" target="_blank"><b>Separation of climate models and observations based on daily output using two machine learning classifiers</b></a><br>
+Session: <a href="https://meetingorganizer.copernicus.org/EGU23/session/47140" target="_blank">Machine Learning for Climate Science</a><br>
+<a href="https://doi.org/10.5194/egusphere-egu23-492" target="_blank">Separation of climate models and observations based on daily output using two machine learning classifiers</a><br>
 
 
 ### March 24, 2023 - Invited talk Global Carbon Budget workshop
@@ -25,7 +25,7 @@ Online <br>
 Some practical thoughts on model weighting <br>
 
 ### January 18, 2023 - Guest speaker in Green Finance seminar
-Vienna, Austria | u:find entry: <a href="https://ufind.univie.ac.at/de/course.html?lv=030513&semester=2022W" target="_blank"><b>Link</b></a><br>
+Vienna, Austria | u:find entry: <a href="https://ufind.univie.ac.at/de/course.html?lv=030513&semester=2022W" target="_blank">Link</a><br>
 Naturwissenschaftliche Grundlagen der Klimakrise: <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202301_presentation_GreenFinance_169-1.pdf" target="_blank"><b>PDF</b></a><br>
 <img src="/images/juridicum.jpg" width="50%">
 
