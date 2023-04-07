@@ -179,25 +179,27 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
+  # research:
+  #   output: true
+  #   permalink: /:collection/:path/
   news:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # misc:
+  #   output: true
+  #   permalink: /:collection/:path/
+  blog:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  misc:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -268,6 +270,15 @@ defaults:
   - scope:
       path: ""
       type: misc
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
     values:
       layout: single
       author_profile: true
