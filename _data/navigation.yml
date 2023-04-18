@@ -6,11 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
-
-  # - title: "Teaching"
-  #   url: /teaching/
+  # - title: "Research"
+  #   url: /research/
 
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -24,8 +21,11 @@ main:
   - title: "Open Science"
     url: /open_science/
 
-  - title: "Misc"
-    url: /misc/
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Blog"
+    url: /blog/
 
   - title: "Contact"
     url: /contact/
