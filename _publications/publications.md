@@ -21,7 +21,8 @@ _Earth Syst. Dynam. Diss._,
 
 - **Brunner L.** and Sippel S. (in review):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
-Separation of climate models and observations based on daily output using machine learning</a>,
+Identifying climate models based on their daily output using
+machine learning</a>,
 submitted to _Env. Data Sci._ / available on EarthArXiv,
 <a href="https://lukasbrunner.github.io/files/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
 
