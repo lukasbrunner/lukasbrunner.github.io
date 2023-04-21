@@ -15,10 +15,18 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 20213 -->
+### May 2023 - Research stay FU Berlin
+
 ### April 28, 2023 - Presentation at EGU23
 Session: <a href="https://meetingorganizer.copernicus.org/EGU23/session/47140" target="_blank">Machine Learning for Climate Science</a><br>
 <a href="https://doi.org/10.5194/egusphere-egu23-492" target="_blank">Separation of climate models and observations based on daily output using two machine learning classifiers</a><br>
 
+### April 21, 2023 - <span style="color:red">New publication</span>
+Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
+<a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
+Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
+_Earth Syst. Dynam.,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
 
 ### March 24, 2023 - Invited talk Global Carbon Budget workshop
 Online <br>

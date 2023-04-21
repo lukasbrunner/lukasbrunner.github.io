@@ -12,13 +12,6 @@ Preprint
 - Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (in review): <a href="https://doi.org/10.5194/egusphere-2022-1520" target="_blank">CMIP subselection by performance, independence, and climatic mean state change spread for regional applicationse</a>,
 _Geosci. Model Dev. Diss._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMDD.pdf" target="_blank"><b>PDF</b></a>
 
-
-- Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (accepted):
-<a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
-Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
-_Earth Syst. Dynam. Diss._,
-<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
-
 - **Brunner L.** and Sippel S. (in review):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Identifying climate models based on their daily output using
@@ -40,6 +33,12 @@ Peer-reviewed
 __,
 <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a>
 -->
+
+- Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
+<a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
+Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
+_Earth Syst. Dynam.,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
 
 - Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022):
 <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
