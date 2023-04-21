@@ -25,7 +25,7 @@ Session: <a href="https://meetingorganizer.copernicus.org/EGU23/session/47140" t
 Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
-_Earth Syst. Dynam.,
+_Earth Syst. Dynam._,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
 
 ### March 24, 2023 - Invited talk Global Carbon Budget workshop
