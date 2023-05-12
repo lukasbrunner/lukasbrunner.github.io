@@ -5,7 +5,7 @@ collection: misc
 permalink: /misc/tfote
 ---
 
-In June 2022 the second iteration of The Future of the Earth performance took place in Basel (Swizerland). For more information see the <a href="thefutureoftheearth.ch" target="_blank">project homepage</a>, this <a href="https://fgga.univie.ac.at/news/news-views/detailansicht/news/the-future-of-the-earth-interactive-theater-livestream/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=25462874a277c9f7443d41f37bea2fa3" target="_blank">news article</a> from the University of Vienna, or [my blog post from last year](/misc/preenact), here are some impressions from this year.
+In June 2022 the second iteration of The Future of the Earth performance took place in Basel (Swizerland). For more information see the <a href="https://thefutureoftheearth.ch" target="_blank">project homepage</a>, this <a href="https://fgga.univie.ac.at/news/news-views/detailansicht/news/the-future-of-the-earth-interactive-theater-livestream/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=25462874a277c9f7443d41f37bea2fa3" target="_blank">news article</a> from the University of Vienna, or [my blog post from last year](/misc/preenact), here are some impressions from this year.
 
 
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/ice1.JPG" width="75%">
