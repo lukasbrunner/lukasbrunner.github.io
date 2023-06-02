@@ -13,7 +13,7 @@ Preprint
 - Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (in review): <a href="https://doi.org/10.5194/egusphere-2022-1520" target="_blank">CMIP subselection by performance, independence, and climatic mean state change spread for regional applicationse</a>,
 _Geosci. Model Dev. Diss._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMDD.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.** and Sippel S. (in review):
+- **Brunner L.** and Sippel S. (accepted):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Identifying climate models based on their daily output using
 machine learning</a>,
