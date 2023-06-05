@@ -73,13 +73,13 @@ _Front. Water_,
 <a href="https://doi.org/10.5194/esd-11-995-2020" target="_blank">
 Reduced global warming from CMIP6 projections when weighting models by performance and independence</a>,
 _Earth Syst. Dynam._,
-<a href="https://lukasbrunner.github.io/files/Brunner2020b" target="_blank"><b>PDF</b></a>
+<a href="https://lukasbrunner.github.io/files/Brunner2020b.pdf" target="_blank"><b>PDF</b></a>
 
 - **Brunner L.**, McSweeney C., Ballinger A. P., Befort D. J., Benassi M., Booth B. B. B., Coppola E., de Vries H., Harris G., Hegerl G. C., Knutti R., Lenderink G., Lowe J., Nogherotto R., O'Reilly C., Qasmi S., Ribes A., Stocchi P., and Undorf S. (2020):
 <a href="https://doi.org/10.1175/JCLI-D-19-0953.1" target="_blank">
 Comparing methods to constrain future European climate projections using a consistent framework</a>,
 _J. Climate_,
-<a href="https://lukasbrunner.github.io/files/Brunner2020c" target="_blank"><b>PDF</b></a>
+<a href="https://lukasbrunner.github.io/files/Brunner2020c.pdf" target="_blank"><b>PDF</b></a>
 
 - Merrifield A. L., **Brunner L.**, Lorenz R., Medhaug I., and Knutti R. (2020):
 <a href="https://doi.org/10.5194/esd-11-807-2020" target="_blank">
