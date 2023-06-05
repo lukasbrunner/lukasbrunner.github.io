@@ -15,6 +15,9 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 20213 -->
+### May 2023 - Research price 2023 for young scientists from the state of Vorarlberg
+Press release: <a href="https://presse.vorarlberg.at/land/public/Sportwissenschafter-Martin-Burtscher-und-Erich-M-ller-erhalten-Wissenschaftspreis-2023" target="_blank">link</a><br> (in German)
+
 ### May 25, 2023 - Talk Leipzig Institute for Meteorology, Leipzig University
 
 ### May 15, 2023 - Talk Institute for Meteorology Colloqium, FU Berlin
