@@ -27,7 +27,7 @@ Session:  <a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=ti
 Identifying climate models based on their daily output using
 machine learning</a>,
 _Env. Data Sci._,
-<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank"><b>PDF</b></a><br>
+<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="https://lukasbrunner.github.io/files/Brunner2023_sup.pdf" target="_blank"><b>Supplement</b></a>
 
 ### May 2023 - Research price 2023 for young scientists from the state of Vorarlberg
