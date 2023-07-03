@@ -14,7 +14,21 @@ share: false
 <!-- Location | Conference homepage: <a href="" target="_blank"><b>Link</b></a> -->
 <!-- <img src="" width="50%"> -->
 
+
+
 <!-- 20213 -->
+### July 16, 2023 - Presentation at IUGG 2023
+Session:  <a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=timeslot&objectId=6454189ab2c0aecc9ee50731&type=detail" target="_blank">Diagnosing and Reducing Errors and Biases in Weather and Climate Models</a><br>
+<a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=timeslot&objectId=645caeb4766b06839373a54d&type=detail" target="_blank">Distinguishing climate models on short time scales using a neural network</a>
+
+### July 3, 2023 - <span style="color:red">New publication</span>
+- **Brunner L.** and Sippel S. (2023):
+<a href="https://doi.org/10.1017/eds.2023.23" target="_blank">
+Identifying climate models based on their daily output using
+machine learning</a>,
+_Env. Data Sci._,
+<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank"><b>PDF</b></a>
+
 ### May 2023 - Research price 2023 for young scientists from the state of Vorarlberg
 Press release: <a href="https://presse.vorarlberg.at/land/public/Sportwissenschafter-Martin-Burtscher-und-Erich-M-ller-erhalten-Wissenschaftspreis-2023" target="_blank">link</a> (in German)
 
