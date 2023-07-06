@@ -32,7 +32,8 @@ __,
 Identifying climate models based on their daily output using
 machine learning</a>,
 _Env. Data Sci._,
-<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank"><b>PDF</b></a>
+<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
+<a href="https://lukasbrunner.github.io/files/Brunner2023_sup.pdf" target="_blank"><b>Supplement</b></a>
 
 
 - Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
