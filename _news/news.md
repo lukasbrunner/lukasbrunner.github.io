@@ -29,6 +29,12 @@ machine learning</a>,
 _Env. Data Sci._,
 <a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="https://lukasbrunner.github.io/files/Brunner2023_sup.pdf" target="_blank"><b>Supplement</b></a>
+<br>
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner/main/images/confusion.gif" width="75%">
+<br>
+<p style="line-height:12px">
+<span style="color:gray;font-size:10pt">Confusion matrix showing the frequency of predicted versus true labels. The main diagonal shows correct predictions using green shading, purple shading indicates misclassifications within a
+model family, and red shading indicates other misclassifications. Two cases are singled out: assignments within the HadGEM family and confusions between models and the two reanalyses ERA5 and MERRA2.</span></p>
 
 ### May 2023 - Research price 2023 for young scientists from the state of Vorarlberg
 Press release: <a href="https://presse.vorarlberg.at/land/public/Sportwissenschafter-Martin-Burtscher-und-Erich-M-ller-erhalten-Wissenschaftspreis-2023" target="_blank">link</a> (in German)
