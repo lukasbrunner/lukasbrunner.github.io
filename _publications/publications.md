@@ -10,7 +10,7 @@ I have published 15 peer-reviewed articles, which have been cited more than 800 
 
 Preprint
 --------
-- Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (in review): <a href="https://doi.org/10.5194/egusphere-2022-1520" target="_blank">CMIP subselection by performance, independence, and climatic mean state change spread for regional applicationse</a>,
+- Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (accepted): <a href="https://doi.org/10.5194/egusphere-2022-1520" target="_blank">Climate model Selection by Independence, Performance, and Spread (ClimSIPS) for regional applications</a>,
 _Geosci. Model Dev. Diss._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMDD.pdf" target="_blank"><b>PDF</b></a>
 
 
