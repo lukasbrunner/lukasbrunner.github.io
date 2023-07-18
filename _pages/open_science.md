@@ -28,6 +28,11 @@ If you publish scientific work based on material I provide please consider citin
 Code
 ----
 
+### Model Learning: Data and Code for identifying climate models
+
+Model learning combines the terms climate model and machine learning providing a framework to disdinguish models and observations based on output maps. The backgrounds are described in Brunner and Sippel (<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank">2023</a>), the data and code version used for the publication are available from <a href="https://doi.org/10.5281/zenodo.7998436" target="_blank">Zotero</a>, and the most recent version of the code can be found on <a href="https://github.com/lukasbrunner/model_learning" target="_blank">GitHub</a>.
+
+
 ### Global blocking detection
 
 During my PhD I implemented a blocking detection algorithm in Python and manly based on [xarray](https://xarray.pydata.org). It enables the classification of atmospheric blocks based on global geopotential height fields and following different definitions from the literature. A detailed description can be found in section 3.2 (page 25f) of my <a href="/files/Brunner2018_PhD.pdf" target="_blank">PhD-thesis</a>. The code is freely available under a MIT license on GitHub:
