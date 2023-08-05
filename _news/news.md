@@ -16,9 +16,12 @@ share: false
 
 
 
-<!-- 20213 -->
+<!-- 2023 -->
+### August 2023
+Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023</a>
+
 ### July 2023
-Blog article about a visit at the Vienna Scientific Cluster during the Lecture Modelling and Data anaysis: <a href="https://eurocc-austria.at/projekte/klimamodelle-vsc" target="_blank">Klimamodelle am Vienna Scientific Cluster </a>
+Blog article about a visit at the Vienna Scientific Cluster during the Lecture Modelling and Data anaysis: <a href="https://eurocc-austria.at/projekte/klimamodelle-vsc" target="_blank">Klimamodelle am Vienna Scientific Cluster</a>
 
 ### July 16, 2023 - Presentation at IUGG 2023
 Session:  <a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=timeslot&objectId=6454189ab2c0aecc9ee50731&type=detail" target="_blank">Diagnosing and Reducing Errors and Biases in Weather and Climate Models</a><br>
