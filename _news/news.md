@@ -17,8 +17,12 @@ share: false
 
 
 <!-- 2023 -->
+### August 24, 2023 - Food For Though session at the EFA23
+Session on "Data sparks action: the role of information in tackling the climate crisis" together with David Jablonski.><br>
+<img src="/images/EFA23_FoodForThought.jpg.jpg" width="50%">
+
 ### August 2023
-Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023</a>
+Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023 (EFA23)</a>
 
 ### July 2023
 Blog article about a visit at the Vienna Scientific Cluster during the Lecture Modelling and Data anaysis: <a href="https://eurocc-austria.at/projekte/klimamodelle-vsc" target="_blank">Klimamodelle am Vienna Scientific Cluster</a>
