@@ -19,7 +19,7 @@ share: false
 <!-- 2023 -->
 ### August 24, 2023 - Food For Though session at the EFA23
 Session on "Data sparks action: the role of information in tackling the climate crisis" together with David Jablonski.><br>
-<img src="/images/EFA23_FoodForThought.jpg.jpg" width="50%">
+<img src="/images/EFA23_FoodForThought.jpg" width="50%">
 
 ### August 2023
 Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023 (EFA23)</a>
