@@ -9,10 +9,9 @@ I have published 15 peer-reviewed articles, which have been cited more than 800 
 
 <object data="h-index.txt"></object>
 
-Preprint
---------
-- Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (accepted): <a href="https://doi.org/10.5194/egusphere-2022-1520" target="_blank">Climate model Selection by Independence, Performance, and Spread (ClimSIPS) for regional applications</a>,
-_Geosci. Model Dev. Diss._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMDD.pdf" target="_blank"><b>PDF</b></a>
+<!-- Preprint -->
+<!-- -------- -->
+
 
 
 Peer-reviewed
@@ -28,6 +27,10 @@ Peer-reviewed
 __,
 <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a>
 -->
+
+- Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
+_Geosci. Model Dev._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMD.pdf" target="_blank"><b>PDF</b></a>, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMD_sup.pdf" target="_blank"><b>Supplement</b></a>
+
 - **Brunner L.** and Sippel S. (2023):
 <a href="https://doi.org/10.1017/eds.2023.23" target="_blank">
 Identifying climate models based on their daily output using
