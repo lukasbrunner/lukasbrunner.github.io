@@ -17,6 +17,14 @@ share: false
 
 
 <!-- 2023 -->
+### November 16, 2023 - Guest speaker in Green Finance seminar
+Naturwissenschaftliche Grundlagen der Klimakrise
+<!-- <img src="/images/juridicum.jpg" width="50%"> -->
+
+### November 13, 2023 - Research price Vorarlberg for young researchers
+Press release (in German): <a href="https://presse.vorarlberg.at/land/public/Land-Vorarlberg-zeichnete-wissenschaftliche-Leistungen-aus" target="_blank">link</a> <br>
+<img src="/images/Wissenschaftspreis.jpg" width="50%">
+
 ### August 23, 2023 - <span style="color:red">New publication</span>
 Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMD.pdf" target="_blank"><b>PDF</b></a>,
