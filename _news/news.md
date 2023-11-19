@@ -23,7 +23,9 @@ Naturwissenschaftliche Grundlagen der Klimakrise
 
 ### November 13, 2023 - Research price Vorarlberg for young researchers
 Press release (in German): <a href="https://presse.vorarlberg.at/land/public/Land-Vorarlberg-zeichnete-wissenschaftliche-Leistungen-aus" target="_blank">link</a> <br>
-<img src="/images/Wissenschaftspreis.jpg" width="50%">
+<img src="/images/Wissenschaftspreis.jpg" width="50%"><br>
+<p style="line-height:12px">
+<span style="color:gray;font-size:10pt">Land Vorarlberg/A. Serra</span></p>
 
 ### August 23, 2023 - <span style="color:red">New publication</span>
 Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
