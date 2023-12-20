@@ -9,9 +9,12 @@ I have published 17 peer-reviewed articles, which have been cited more than 1000
 
 <object data="h-index.txt"></object>
 
-<!-- Preprint -->
-<!-- -------- -->
+Coming up
+---------
 
+- <b>Brunner, L</b>. and Voigt A. (2023): Pitfalls in diagnosing temperature extremes, in review.
+
+- Sobolowski S. et al. (2023): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_, in review
 
 
 Peer-reviewed
