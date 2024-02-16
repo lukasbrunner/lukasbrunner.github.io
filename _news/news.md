@@ -14,7 +14,20 @@ share: false
 <!-- Location | Conference homepage: <a href="" target="_blank"><b>Link</b></a> -->
 <!-- <img src="" width="50%"> -->
 
+<!-- 2024 -->
+### February 13, 224 - Talk Climate Analytics
+Pitfalls in diagnosing temperature extremes
 
+### January, 2024 - <span style="color:red">Project funded</span>
+Title: High-resolution machine learning for the climate community in Austria (HighResLearn) <br>
+Funding call: Austrian Climate Research Programme (ACRP) 2023 <br>
+Partners: University of Innsbruck, GeoSphere Austria, Change Centre Austria (CCCA) <br>
+Cooperations: Klimadashboard - Verein zur Förderung datenbasierter Berichterstattung und Bewusstseinsbildung zur Klimakrise, University of Graz, Max-Planck-Institute for Meteorology, University of Leipzig <br>
+<a href="https://klimaszenarien.at/en/projects/data-usability/target="_blank">More information</a> <br>
+<img src="/images/NextGEMS_earth.png" width="50%">
+<br>
+<p style="line-height:12px">
+<span style="color:gray;font-size:10pt">(c) MPI-M/DKRZ</span></p>
 
 <!-- 2023 -->
 ### November 16, 2023 - Guest speaker in Green Finance seminar

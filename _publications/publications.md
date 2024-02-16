@@ -12,9 +12,9 @@ I have published 17 peer-reviewed articles, which have been cited more than 1000
 Coming up
 ---------
 
-- <b>Brunner, L</b>. and Voigt A. (2023): Pitfalls in diagnosing temperature extremes, in review.
+- <b>Brunner, L</b>. and Voigt A. (accepted): Pitfalls in diagnosing temperature extremes, _Nature Commun._
 
-- Sobolowski S. et al. (2023): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_, accepted
+- Sobolowski S. et al. (accepted): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 
 
 Peer-reviewed
@@ -169,6 +169,10 @@ _Wegener Center Verlag Graz_,
 Supervision
 -----------
 
+- Merio, J. (ongoing): Explaining AI to reveal patterns relevant for separating models and observations (working title; Master's thesis)
+- Meindl, M. (ongoing): 3-dimensional heatwave metrics and their changes (working title; Master's thesis)
+- Domenig, J. (ongoing): Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (Bachelor thesis)
+- Hajek, S. (ongoing): Analyse eines Fehlers in der Definition der Hitzemetrik Cummulative Heat (Bachelor thesis)
 - Horat, N. (2021): Why does interannual precipitation variability change in a warming climate? - spatial structure and underlying mechanisms (Master's thesis; co-supervision with Flavio Lehner)
 - Gimmi, L. (2020): Assessing climate model uncertainties – an encounter with CMIP6 (Bachelor thesis)
 - Hirsig, A. (2019): Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (Bachelor thesis)
