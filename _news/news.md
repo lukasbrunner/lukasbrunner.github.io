@@ -23,7 +23,7 @@ Title: High-resolution machine learning for the climate community in Austria (Hi
 Funding call: Austrian Climate Research Programme (ACRP) 2023 <br>
 Partners: University of Innsbruck, GeoSphere Austria, Change Centre Austria (CCCA) <br>
 Cooperations: Klimadashboard - Verein zur Förderung datenbasierter Berichterstattung und Bewusstseinsbildung zur Klimakrise, University of Graz, Max-Planck-Institute for Meteorology, University of Leipzig <br>
-<a href="https://klimaszenarien.at/en/projects/data-usability/target="_blank">More information</a> <br>
+<a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blank">More information</a> <br>
 <img src="/images/NextGEMS_earth.png" width="50%">
 <br>
 <p style="line-height:12px">
