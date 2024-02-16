@@ -18,7 +18,7 @@ share: false
 ### February 13, 224 - Talk Climate Analytics
 Pitfalls in diagnosing temperature extremes
 
-### January, 2024 - <span style="color:red">Project funded</span>
+### January, 2024 - <span style="color:red">PI project funded</span>
 Title: High-resolution machine learning for the climate community in Austria (HighResLearn) <br>
 Funding call: Austrian Climate Research Programme (ACRP) 2023 <br>
 Partners: University of Innsbruck, GeoSphere Austria, Change Centre Austria (CCCA) <br>
