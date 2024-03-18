@@ -23,15 +23,17 @@ _Nature Communications_,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024.pdf" target="_blank"><b>PDF</b></a>,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
-<br>
+<br><br>
 Related work: <br>
-Hajek S. (2024):
+- Hajek S. (2024):
 Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelor thesis supervised by **L. Brunner** and A. Voigt,
 <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Hajek2024.pdf" target="_blank"><b>PDF</b></a> (in German)
-<br>
-Meindl M. (in preparation): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt
+- Meindl M. (in preparation): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt
 <!-- <a href="https://lukasbrunner.github.io/files/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
+
 <br>
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/images/Brunner2024_fig1c.png" width="30%">
+
 
 ### March 13, 2024 - Talk Deutsche Klimatagung (Potsdam, Germany)
 Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a><br>
