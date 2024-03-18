@@ -15,7 +15,31 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2024 -->
-### February 13, 224 - Talk Climate Analytics
+
+### March 18, 2024 - <span style="color:red">New publication</span>
+**Brunner L.** and Voigt A. (2024):
+<a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
+_Nature Communications_,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024.pdf" target="_blank"><b>PDF</b></a>,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
+<br>
+Related work: <br>
+Hajek S. (2024):
+Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelor thesis supervised by **L. Brunner** and A. Voigt,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Hajek2024.pdf" target="_blank"><b>PDF</b></a> (in German)
+<br>
+Meindl M. (in preparation): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt
+<!-- <a href="https://lukasbrunner.github.io/files/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
+<br>
+
+### March 13, 2024 - Talk Deutsche Klimatagung (Potsdam, Germany)
+Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a><br>
+Systematic errors in temperature extreme definitions and their impacts
+
+### March 4-8, 2024 - Participation 4th km-scale Hackathon (Hamburg, Germany)
+
+### February 13, 2024 - Talk Climate Analytics (Berlin, Germany)
 Pitfalls in diagnosing temperature extremes
 
 ### January, 2024 - <span style="color:red">PI project funded</span>

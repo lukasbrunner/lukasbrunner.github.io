@@ -12,16 +12,12 @@ I have published 17 peer-reviewed articles, which have been cited more than 1000
 Coming up
 ---------
 
-- <b>Brunner, L</b>. and Voigt A. (accepted): Pitfalls in diagnosing temperature extremes, _Nature Commun._
-
 - Sobolowski S. et al. (accepted): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 
 
 Peer-reviewed
 -------------
 
-### Uncertainties in future climate
-<!-- / Unsicherheiten in zukünftigen Klima -->
 
 <!-- template
 - (20):
@@ -30,6 +26,14 @@ Peer-reviewed
 __,
 <a href="https://lukasbrunner.github.io/files/" target="_blank"><b>PDF</b></a>
 -->
+
+
+- **Brunner L.** and Voigt A. (2024):
+<a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
+_Nature Communications_,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024.pdf" target="_blank"><b>PDF</b></a>,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
+<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
 
 - Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMD.pdf" target="_blank"><b>PDF</b></a>, <a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/papers/Merrifield2023_GMD_sup.pdf" target="_blank"><b>Supplement</b></a>
@@ -106,9 +110,6 @@ _Earth Syst. Dynam._,
 Quantifying uncertainty in European climate projections using combined performance-independence weighting</a>,
 _Eniron. Res. Lett._,
 <a href="https://lukasbrunner.github.io/files/Brunner2019.pdf" target="_blank"><b>PDF</b></a>
-
-### Atmospheric blocking and temperature extremes
-<!-- / Hochdrucklagen und Temperaturextreme -->
 
 - **Brunner L.**, Schaller N., Anstey J., Sillmann J., and Steiner A. K. (2018):
 <a href="https://doi.org/10.1029/2018GL077837" target="_blank">
