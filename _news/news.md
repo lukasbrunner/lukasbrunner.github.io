@@ -33,7 +33,9 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/images/Brunner2024_fig1c.png" width="50%">
-
+<br>
+<p style="line-height:12px">
+<span style="color:gray;font-size:10pt">Daily maximum air temperature over 30 seasonal cycles (thin black lines), thresholds (thick red line), exceedances (red shading), and monthly averaged frequencies (bars) for a selected grid cell in the North Atlantic (figure 1c in the main paper).</span></p>
 
 ### March 13, 2024 - Talk Deutsche Klimatagung (Potsdam, Germany)
 Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a><br>
