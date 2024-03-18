@@ -32,7 +32,7 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 <!-- <a href="https://lukasbrunner.github.io/files/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
 
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/images/Brunner2024_fig1c.png" width="30%">
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/images/Brunner2024_fig1c.png" width="50%">
 
 
 ### March 13, 2024 - Talk Deutsche Klimatagung (Potsdam, Germany)
