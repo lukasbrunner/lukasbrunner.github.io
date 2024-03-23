@@ -16,6 +16,9 @@ share: false
 
 <!-- 2024 -->
 
+### March 20, 2024 - Mentioned in Media
+Die Presse (in German): <a href="https://www.diepresse.com/18290185/irrtum-der-experten-es-gibt-mehr-hitzetage" target="_blank">Irrtum der Experten: Es gibt mehr Hitzetage</a>
+
 ### March 18, 2024 - <span style="color:red">New publication</span>
 **Brunner L.** and Voigt A. (2024):
 <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
