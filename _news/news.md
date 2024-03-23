@@ -50,10 +50,10 @@ Systematic errors in temperature extreme definitions and their impacts
 Pitfalls in diagnosing temperature extremes
 
 ### January, 2024 - <span style="color:red">PI project funded</span>
-Title: High-resolution machine learning for the climate community in Austria (HighResLearn) <br>
-Funding call: Austrian Climate Research Programme (ACRP) 2023 <br>
-Partners: University of Innsbruck, GeoSphere Austria, Change Centre Austria (CCCA) <br>
-Cooperations: Klimadashboard - Verein zur Förderung datenbasierter Berichterstattung und Bewusstseinsbildung zur Klimakrise, University of Graz, Max-Planck-Institute for Meteorology, University of Leipzig <br>
+- Title: High-resolution machine learning for the climate community in Austria (HighResLearn) <br>
+- Funding call: Austrian Climate Research Programme (ACRP) 2023 <br>
+- Partners: University of Innsbruck, GeoSphere Austria, Change Centre Austria (CCCA) <br>
+- Cooperation: Klimadashboard - Verein zur Förderung datenbasierter Berichterstattung und Bewusstseinsbildung zur Klimakrise, University of Graz, Max-Planck-Institute for Meteorology (Hamburg), University of Leipzig <br>
 <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blank">More information</a> <br>
 <img src="/images/NextGEMS_earth.png" width="30%">
 <br>
