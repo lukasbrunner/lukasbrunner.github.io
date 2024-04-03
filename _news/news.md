@@ -18,7 +18,7 @@ share: false
 
 ### April 3-4, 2025 - Presentation Österreichischer Klimatag
 Revealing a systematic bias in temperature extremes and its implications (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/204204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): - <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2024" target="_blank">Link</a>
