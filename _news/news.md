@@ -16,6 +16,14 @@ share: false
 
 <!-- 2024 -->
 
+### April 3-4, 2025 - Presentation Österreichischer Klimatag
+Revealing a systematic bias in temperature extremes and its implications (<a
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/204204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+<br>
+Vienna, Austria | Conference homepage (in German): - <a
+href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2024" target="_blank">Link</a>
+
+
 ### March 20, 2024 - Mentioned in Media
 Die Presse (in German): <a href="https://www.diepresse.com/18290185/irrtum-der-experten-es-gibt-mehr-hitzetage" target="_blank">Irrtum der Experten: Es gibt mehr Hitzetage</a>
 
