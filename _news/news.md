@@ -17,8 +17,7 @@ share: false
 <!-- 2024 -->
 
 ### April 3-4, 2025 - Presentation Österreichischer Klimatag
-Revealing a systematic bias in temperature extremes and its implications (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+Revealing a systematic bias in temperature extremes and its implications (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): - <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2024" target="_blank">Link</a>
@@ -49,8 +48,7 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 <span style="color:gray;font-size:10pt">Daily maximum air temperature over 30 seasonal cycles (thin black lines), thresholds (thick red line), exceedances (red shading), and monthly averaged frequencies (bars) for a selected grid cell in the North Atlantic (figure 1c in the main paper).</span></p>
 
 ### March 13, 2024 - Keynote Deutsche Klimatagung (Potsdam, Germany)
-Systematic errors in temperature extreme definitions and their impacts  (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)<br>
+Systematic errors in temperature extreme definitions and their impacts  (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)<br>
 Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a>
 
 ### March 4-8, 2024 - Participation 4th km-scale Hackathon (Hamburg, Germany)
