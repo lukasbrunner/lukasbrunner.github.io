@@ -50,7 +50,7 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 
 ### March 13, 2024 - Keynote Deutsche Klimatagung (Potsdam, Germany)
 Systematic errors in temperature extreme definitions and their impacts  (<a
-href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>) <br>
+href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)<br>
 Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a>
 
 ### March 4-8, 2024 - Participation 4th km-scale Hackathon (Hamburg, Germany)
