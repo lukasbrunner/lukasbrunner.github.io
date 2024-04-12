@@ -55,6 +55,7 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 <!-- <a href="https://lukasbrunner.github.io/files/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
 - Poster (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 - Presentation (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
+- Short presentation (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
 
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/images/Brunner2024_fig1c.png" width="50%">
