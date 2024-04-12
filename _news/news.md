@@ -16,10 +16,23 @@ share: false
 
 <!-- 2024 -->
 
-### April 3-4, 2025 - Presentation Österreichischer Klimatag
+### April 15-19, 2024 - EGU24
+Session convener: Regional Climate Modeling, Including CORDEX and Constraining Global Multi-Model Ensembles:  <a
+href="https://meetingorganizer.copernicus.org/EGU24/session/49396" target="_blank">Link</a><br>
+
+Oral presentation: Revealing a systematic bias in percentile-based temperature extremes (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
+<br>
+Vienna, Austria | Abstract on the conference homepage: <a
+href="https://meetingorganizer.copernicus.org/EGU24/EGU24-1722.html" target="_blank">Link</a><br>
+
+Mentor in the EGU mentoring programme: <a
+href="https://www.egu.eu/outreach/mentoring/" target="_blank">Link</a>
+
+
+### April 3-4, 2024 - Presentation Österreichischer Klimatag
 Revealing a systematic bias in temperature extremes and its implications (<a href="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
-Vienna, Austria | Conference homepage (in German): - <a
+Vienna, Austria | Conference homepage (in German): <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2024" target="_blank">Link</a>
 
 
