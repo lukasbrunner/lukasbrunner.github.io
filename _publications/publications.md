@@ -12,7 +12,9 @@ I have published 17 peer-reviewed articles, which have been cited more than 1000
 Coming up
 ---------
 
-- Sobolowski S. et al. (accepted): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
+- Sobolowski S. et al. (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
+
+- O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (accepted): Assessing observational constraints on future European climate in an out-of-sample framework" _npj Climate and Atmospheric Science_
 
 
 Peer-reviewed
@@ -171,9 +173,9 @@ Supervision
 -----------
 
 - Merio, J. (ongoing): Explaining AI to reveal patterns relevant for separating models and observations (working title; Master's thesis)
-- Meindl, M. (ongoing): 3-dimensional heatwave metrics and their changes (working title; Master's thesis)
-- Domenig, J. (ongoing): Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (Bachelor thesis)
-- Hajek, S. (ongoing): Analyse eines Fehlers in der Definition der Hitzemetrik Cummulative Heat (Bachelor thesis)
+- Meindl, M. (2024): 3-dimensional heatwave metrics and their changes (working title; Master's thesis)
+- Domenig, J. (2024): Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (Bachelor thesis)
+- Hajek, S. (2024): Analyse eines Fehlers in der Definition der Hitzemetrik Cummulative Heat (Bachelor thesis)
 - Horat, N. (2021): Why does interannual precipitation variability change in a warming climate? - spatial structure and underlying mechanisms (Master's thesis; co-supervision with Flavio Lehner)
 - Gimmi, L. (2020): Assessing climate model uncertainties – an encounter with CMIP6 (Bachelor thesis)
 - Hirsig, A. (2019): Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (Bachelor thesis)
