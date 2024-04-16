@@ -14,13 +14,6 @@ I am happy to supervise bachelor and master theses on topics related to
 Feel free to reach out to me. I am also teaching several courses on mathematical and computational methods in meteorology and climate sciences at the [Department of Meteorology and Geophysics](https://img.univie.ac.at/en/studies/), University of Vienna.
 
 
-Ongoing supervision
--------------------
-- Work on changing heatwave properties under climate change (masters' thesis)
-- Work on explainable machine learning to separate climate models and observations (masters' thesis)
-- Work on detecting climate change on short time scales (bachelor thesis)
-- Work on biases in percentile-based temperature extremes (bachelor thesis)
-
 Winter term (University of Vienna)
 ---------------------------------------
 
@@ -29,8 +22,15 @@ Winter term (University of Vienna)
 - **Numerische Methoden**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_77.pdf" target="_blank">Bachelor Meteorology</a>, German
 - **Paper Club**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_78.pdf" target="_blank">Master Meteorology</a>, with Blaž Gasparini, English
 
+Ongoing supervision
+-------------------
+- Work on explainable machine learning to separate climate models and observations (masters' thesis)
+
 Finished thesis
 ---------------
+- Changes in heatwave properties under climate change (master's thesis)
+- Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (bachelor thesis)
+- Analyse eines Fehlers in der Definition der Hitzemetrik Cummulative Heat (bachelor thesis)
 - Interannual to decadal precipitation variability in a warming climate: spatial structure and underlying mechanisms (master’s thesis; co-supervision)
 - Assessing climate model uncertainties – an encounter with CMIP6 (bachelor thesis)
 - Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (bachelor thesis)

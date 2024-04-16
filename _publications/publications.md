@@ -173,7 +173,7 @@ Supervision
 -----------
 
 - Merio, J. (ongoing): Explaining AI to reveal patterns relevant for separating models and observations (working title; Master's thesis)
-- Meindl, M. (2024): 3-dimensional heatwave metrics and their changes (working title; Master's thesis)
+- Meindl, M. (2024): Changes in heatwave properties under climate change (Master's thesis)
 - Domenig, J. (2024): Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (Bachelor thesis)
 - Hajek, S. (2024): Analyse eines Fehlers in der Definition der Hitzemetrik Cummulative Heat (Bachelor thesis)
 - Horat, N. (2021): Why does interannual precipitation variability change in a warming climate? - spatial structure and underlying mechanisms (Master's thesis; co-supervision with Flavio Lehner)
