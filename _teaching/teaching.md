@@ -14,7 +14,7 @@ I am happy to supervise bachelor and master theses on topics related to
 - future climate model projections and their uncertainties and,
 - machine learning for climate sciences.
 
-If you consider writing a thesis with me please have a look at **[my supervision approach (PDF)](/thesis/supervision_approach.pdf)**. Feel free to reach out anytime to discuss potential topics or if you have any questions.
+If you consider writing a thesis with me please have a look at <a href="/thesis/supervision_approach.pdf" target="_blank"><b>**my supervision approach (PDF)**</b></a>. Feel free to reach out anytime to discuss potential topics or if you have any questions.
 
 
 ### Scientific writing guide for students
@@ -26,7 +26,7 @@ Since I see many of my students struggling with similar things when writing thei
 ).
 The guide is by no means comprehensive or finished but I provide it here in the hope it might be helpful to some. If you have any feedback or suggestions for changes or additions feel free to reach out.
 
-**[Thesis guidelines (PDF)](/thesis/thesis_guidelines.pdf)**
+**[Thesis guidelines (PDF)](/thesis/thesis_guidelines.pdf){:target="_blank"}**
 
 ---
 
