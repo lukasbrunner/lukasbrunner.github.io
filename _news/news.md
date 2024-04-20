@@ -20,7 +20,7 @@ share: false
 Session convener: Regional Climate Modeling, Including CORDEX and Constraining Global Multi-Model Ensembles:  <a
 href="https://meetingorganizer.copernicus.org/EGU24/session/49396" target="_blank">Link</a><br>
 
-Oral presentation: Revealing a systematic bias in percentile-based temperature extremes (<a href="https://lukasbrunner.github.io/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
+Oral presentation: Revealing a systematic bias in percentile-based temperature extremes (<a href="/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Abstract on the conference homepage: <a
 href="https://meetingorganizer.copernicus.org/EGU24/EGU24-1722.html" target="_blank">Link</a><br>
@@ -30,7 +30,7 @@ href="https://www.egu.eu/outreach/mentoring/" target="_blank">Link</a>
 
 
 ### April 3-4, 2024 - Presentation Österreichischer Klimatag
-Revealing a systematic bias in temperature extremes and its implications (<a href="https://lukasbrunner.github.io/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+Revealing a systematic bias in temperature extremes and its implications (<a href="/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2024" target="_blank">Link</a>
@@ -44,28 +44,28 @@ Die Presse (in German): <a href="https://www.diepresse.com/18290185/irrtum-der-e
 <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
 _Nature Communications_,
 <a href="/publications/Brunner2024.pdf" target="_blank"><b>PDF</b></a>,
-<a href="https://lukasbrunner.github.io/publications/supplement/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
-<a href="https://lukasbrunner.github.io/publications/supplement/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
+<a href="/publications/supplement/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
+<a href="/publications/supplement/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
 <br><br>
 Related material: <br>
 - Hajek S. (2024):
 Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelor thesis supervised by **L. Brunner** and A. Voigt,
-<a href="https://lukasbrunner.github.io/publications/Hajek2024.pdf" target="_blank"><b>PDF</b></a> (in German)
+<a href="/publications/Hajek2024.pdf" target="_blank"><b>PDF</b></a> (in German)
 - Meindl M. (2024): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt
-<!-- <a href="https://lukasbrunner.github.io/publications/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
-- Poster (<a href="https://lukasbrunner.github.io/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
-- Presentation (<a href="https://lukasbrunner.github.io/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
-- Short presentation (<a href="https://lukasbrunner.github.io/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
+<!-- <a href="/publications/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
+- Poster (<a href="/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+- Presentation (<a href="/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
+- Short presentation (<a href="/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
 
 <br>
-<img src="https://lukasbrunner.github.io/images/Brunner2024_fig1c.png" width="50%">
+<img src="/images/Brunner2024_fig1c.png" width="50%">
 <br>
 <p style="line-height:12px">
 <span style="color:gray;font-size:10pt">Daily maximum air temperature over 30 seasonal cycles (thin black lines), thresholds (thick red line), exceedances (red shading), and monthly averaged frequencies (bars) for a selected grid cell in the North Atlantic (figure 1c in the main paper).</span></p>
 
 ### March 13, 2024 - Keynote Deutsche Klimatagung (Potsdam, Germany)
 Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a><br>
-Systematic errors in temperature extreme definitions and their impacts (<a href="https://lukasbrunner.github.io/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
+Systematic errors in temperature extreme definitions and their impacts (<a href="/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 
 ### March 4-8, 2024 - Participation 4th km-scale Hackathon (Hamburg, Germany)
@@ -87,23 +87,23 @@ Pitfalls in diagnosing temperature extremes
 <!-- 2023 -->
 ### November 16, 2023 - Guest speaker in Green Finance seminar
 Naturwissenschaftliche Grundlagen der Klimakrise
-<!-- <img src="/images/juridicum.jpg" width="50%"> -->
+<!-- <img src="/images/juridicum.png" width="50%"> -->
 
 ### November 13, 2023 - Research price Vorarlberg for young researchers
 Press release (in German): <a href="https://presse.vorarlberg.at/land/public/Land-Vorarlberg-zeichnete-wissenschaftliche-Leistungen-aus" target="_blank">link</a> <br>
-<img src="/images/Wissenschaftspreis.jpg" width="50%">
+<img src="/images/Wissenschaftspreis.png" width="50%">
 
 ### October 19, 2023 - Guest talk by Katharine Hayhoe
 I managed to invite Katharine Hayhoe for a keynote on very short notice. Here's a summary of her talk:  <a href="https://imgw.univie.ac.at/en/news-events/more-items/keynote-by-katharine-hayhoe-from-worried-to-activated" target="_blank">link</a> <br>
 
 ### August 23, 2023 - <span style="color:red">New publication</span>
 Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
-_Geosci. Model Dev._, <a href="https://lukasbrunner.github.io/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
-<a href="https://lukasbrunner.github.io/publications/supplement/Merrifield2023.pdf" target="_blank"><b>Supplement</b></a>
+_Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Merrifield2023.pdf" target="_blank"><b>Supplement</b></a>
 
 ### August 24, 2023 - Food For Though session at the EFA23
 Session on "Data sparks action: the role of information in tackling the climate crisis" together with David Jablonski<br>
-<img src="/images/EFA23_FoodForThought.jpg" width="50%">
+<img src="/images/EFA23_FoodForThought.png" width="50%">
 
 ### August 2023
 Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023 (EFA23)</a>
@@ -121,8 +121,8 @@ Session:  <a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=ti
 Identifying climate models based on their daily output using
 machine learning</a>,
 _Env. Data Sci._,
-<a href="https://lukasbrunner.github.io/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
-<a href="https://lukasbrunner.github.io/publications/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
+<a href="/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
 <br>
 <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner/main/images/confusion.gif" width="75%">
 <br>
@@ -150,7 +150,7 @@ Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **B
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam._,
-<a href="https://lukasbrunner.github.io/publications/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
 
 ### March 24, 2023 - Invited talk Global Carbon Budget workshop
 Online <br>
@@ -158,8 +158,8 @@ Some practical thoughts on model weighting <br>
 
 ### January 18, 2023 - Guest speaker in Green Finance seminar
 Vienna, Austria | u:find entry: <a href="https://ufind.univie.ac.at/de/course.html?lv=030513&semester=2022W" target="_blank">Link</a><br>
-Naturwissenschaftliche Grundlagen der Klimakrise: <a href="https://lukasbrunner.github.io/presentations/202301_presentation_GreenFinance_169-1.pdf" target="_blank"><b>PDF</b></a><br>
-<img src="/images/juridicum.jpg" width="50%">
+Naturwissenschaftliche Grundlagen der Klimakrise: <a href="/presentations/202301_presentation_GreenFinance_169-1.pdf" target="_blank"><b>PDF</b></a><br>
+<img src="/images/juridicum.png" width="50%">
 
 ### January 13, 2023 - Klimaszenarien.AT kick-off
 Online | News item (in German): <a href="https://klimaszenarien.at/2023/01/19/999/" target="_blank"><b>Link</b></a>
@@ -175,35 +175,28 @@ univie Blog article:  <a href="https://blog.univie.ac.at/en/research/cop27-in-sh
 ### October 27, 2022 - Interview Ö1 Kinderuni
 <a href="https://oe1.orf.at/programm/20221027/695314/Wie-entstehen-Wolken" target="_blank">Wie entstehen Wolken?</a> (in German)
 
-October, 2022 - <a href="https://www.unep.org/events/publication-launch/emissions-gap-report-2022" target="_blank">UN environment programme Emissions Gap Report 2022</a>
-
-
-October, 2022 -  <a href="https://climateactiontracker.org/publications/state-of-climate-action-2022/" target="_blank">Climate Action Tracker State of Climate Action 2022</a> report
-
-
-October, 2022 -  <a href="https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate" target="_blank">WMO State of the Global Climate 2022</a> report
 
 ### October 10, 2022 - <span style="color:red">New publication</span>
 Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
 Rarest rainfall events will see the greatest relative increase in magnitude under future climate change</a>,
 _communications earth & environment_
-<a href="https://lukasbrunner.github.io/publications/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
 
 ### October 7, 2022 - Workshop Inspirationstag der Erzdiözese Wien
 Vienna, Austria | Topic: Naturwissenschafltiche Grundlage der Klimakrise
-<a href="https://lukasbrunner.github.io/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
+<a href="/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
 
 ### August 3, 2022 - <span style="color:red">New preprint</span>
 Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2022):
 <a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam. Diss._,
-<a href="https://lukasbrunner.github.io/publications/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/Palmer2022_ESDD.pdf" target="_blank"><b>PDF</b></a>
 
 ### July 11, 2022 - Participation kinderuni: Mittendrin im Klimalabor
 Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank">Link</a>
 <br>
-<img src="https://lukasbrunner.github.io/presentations/kinderuni2022.jpg" width="50%">
+<img src="/images/kinderuni2022.png" width="50%">
 <br><span style="color:gray;font-size:10px">Picture: &#169; Griwank</span>
 
 ### June 25, 2022 - <span style="color:red">New publication</span>
@@ -211,9 +204,9 @@ Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Balli
 <a href="https://doi.org/10.1029/2022GL098568" target="_blank">
 Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
 _Geophys. Res. Lett._
-<a href="https://lukasbrunner.github.io/publications/Befort2022.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/Befort2022.pdf" target="_blank"><b>PDF</b></a>
 <br>
-<img src="https://lukasbrunner.github.io/publications/Befort2022.jpg" width="75%">
+<img src="/images/Befort2022.png" width="75%">
 <br>
 <p style="line-height:12px">
 <span style="color:gray;font-size:10pt">Example of inconsistencies introduced by concatenation of decadal predictions and climate projections. Time series of near-surface air temperatures over Northern Europe region (NEU) for a) uninitialized climate projections from 1976 to 2001 b) decadal predictions from 1976 to 1985 (initialized in 1975) and climate projections from 1986 to 2001.</span></p>
@@ -221,7 +214,7 @@ _Geophys. Res. Lett._
 ### June 28 - July 2, 2022 - Participation at the NextGEMS hackathon
 Vienna, Austria
 <br>
-<img src="https://lukasbrunner.github.io/presentations/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.jpg" width="50%">
+<img src="/presentations/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.png" width="50%">
 <br><span style="color:gray;font-size:5px">Picture: &#169; NextGEMS</span>
 
 ### June 15 - 18, 2022 - Participation at the _The Future of the Earth_ performance
@@ -229,7 +222,7 @@ Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="the
 <br>
 More impressions [here](/misc/tfote)
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/summary.JPG" width="50%">
+<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/summary.PNG" width="50%">
 
 ### May 27, 2022 - Presentation at the EGU General Assembly 2022
 Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
@@ -241,9 +234,9 @@ Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
 submitted to _Env. Data Sci._ / available on EarthArXiv,
-<a href="https://lukasbrunner.github.io/publications/superseeded/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/superseeded/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
 <br>
-<img src="https://lukasbrunner.github.io/publications/Brunner2022.jpg" width="75%">
+<img src="/images/Brunner2022.png" width="75%">
 <br><span style="color:gray;font-size:10px">Logistic regression coefficients learned from daily data in the period 1950-1999 and used to separate daily temperature maps from models and observations.</span>
 
 ### May 12, 2022 - Poster presentation at the Climate Informatics Conference
@@ -256,7 +249,7 @@ Virtual | Project homepage: <a href="https://nextgems-h2020.eu/" target="_blank"
 
 ### May 4, 2022 - Presentation at the EUCP workshop 2022
 Constraining European projections - EUCP progress towards a unified method (<a
-href="https://lukasbrunner.github.io/presentations/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a>)
+href="/presentations/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Project homepage: <a
 href="https://www.eucp-project.eu/" target="_blank">Link</a>
@@ -265,66 +258,52 @@ href="https://www.eucp-project.eu/" target="_blank">Link</a>
 
 ### April 21, 2022 - Poster presentation at the Austrian Klimatag 2022
 Gewichtung von Klimamodellen reduziert die prognostizierte globale Erwärmung in CMIP6 (<a
-href="https://lukasbrunner.github.io/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+href="/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): - <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022" target="_blank">Link</a>
 <br>
-<img src="https://lukasbrunner.github.io/presentations/Klimatag_pic.jpeg" width="50%">
-
-
-April 22, 2022 - <a href="https://climate.copernicus.eu/esotc/2021" target="_blank">European State of the Climate 2021</a><br>
-German summary: <a
-href="https://climate.copernicus.eu/sites/default/files/custom-uploads/ESOTC2021/Europe/Summary%20graphics-branded/C3S_ESOTC_PressRelease_final_GER.pdf" target="_blank"><b>PDF</b></a>
-
-
-April 4, 2022 - <a href="https://ccca.ac.at/wissenstransfer/klimastatusbericht/klimastatusbericht-2021" target="_blank">Österreichischer Klimabericht 2021</a>
+<img src="/images/Klimatag_pic.png" width="50%">
 
 
 ### February 4, 2022 - Presentation at the DACH Quality control methods meeting
 Constraining Future European Climate from GCMs - Methods, Results, and Ways Forward, <a
-href="https://lukasbrunner.github.io/presentations/202202_presentation_DACH.pdf" target="_blank"><b>PDF</b></a><br>
+href="/presentations/202202_presentation_DACH.pdf" target="_blank"><b>PDF</b></a><br>
 Virtual
 
 
 ### February 3 - 4, 2022 - Session chair and presentation at the CliMatters workshop
 Uncertainty in climate modeling and projections (session) | Separating Uncertainties in Projections of Future Climate – Importance, Lessons, and Solutions, <a
-href="https://lukasbrunner.github.io/presentations/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>
+href="/presentations/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Workshop homepage: <a
 href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-workshops/final-workshop/" target="_blank">Link</a>
 <br>
-<img src="https://lukasbrunner.github.io/presentations/CliMatters_pic.png" width="50%">
+<img src="/images/CliMatters_pic.png" width="50%">
 
 
 ### January 18, 2022 - Presentation at the University of Vienna Meteorological/Geophysical Colloquium
 Weighting models by performance and independence - Effects on projections of future climate, <a
-href="https://lukasbrunner.github.io/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>
+href="/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_blank">Link</a>
-<!-- <br> -->
-<!-- <img src="https://lukasbrunner.github.io/presentations/202201_presentation_UniWien_public_pic.png" width="50%"> -->
-
-
-January 2022 - <a href="https://www.ncdc.noaa.gov/sotc/global/202113State" target="_blank">State of the Climate 2021 (NOAA)</a>
-
 
 
 Older (selection)
 -----------------
 
 ### November 16,  2021 - Keynote at the EC-Earth meeting
-Uncertainties in multi-model assessments of future climate, <a href="https://lukasbrunner.github.io/presentations/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>
+Uncertainties in multi-model assessments of future climate, <a href="/presentations/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Meeting homepage: <a
 href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/" target="_blank">Link</a>
 <br>
-<img src="https://lukasbrunner.github.io/presentations/202111_presentation_MMEs_EC-Earth_public_pic2.png" width="50%">
+<img src="/images/202111_presentation_MMEs_EC-Earth_public_pic2.png" width="50%">
 
 
 ### October 21, 2021 - Invited talk at the Wegener Center Common Space seminar (University of Graz)
 Weighting models by performance and independence - Effects on projections of future climate, <a
-href="https://lukasbrunner.github.io/presentations/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>
+href="/presentations/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Institute homepage: <a
 href="https://wegcenter.uni-graz.at/en/" target="_blank">Link</a>
