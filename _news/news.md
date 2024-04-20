@@ -59,7 +59,7 @@ _Nature Communications_,
 Related material: <br>
 - Hajek S. (2024):
 Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelor thesis supervised by **L. Brunner** and A. Voigt,
-<a href="/thesis/Hajek2024.pdf" target="_blank"><b>PDF</b></a> (in German)
+<a href="/thesis/Bachelorarbeit_Hajek.pdf" target="_blank"><b>PDF</b></a> (in German)
 - Meindl M. (2024): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt
 <!-- <a href="/publications/Meindl2024.pdf" target="_blank"><b>PDF</b></a> -->
 - Poster (<a href="/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
