@@ -26,7 +26,7 @@ Since I see many of my students struggling with similar things when writing thei
 ).
 The guide is by no means comprehensive or finished but I provide it here in the hope it might be helpful to some. If you have any feedback or suggestions for changes or additions feel free to reach out.
 
-**[Thesis guidelines (PDF)](thesis/thesis_guidelines.pdf)**
+**[Thesis guidelines (PDF)](/thesis/thesis_guidelines.pdf)**
 
 ---
 
