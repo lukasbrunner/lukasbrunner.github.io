@@ -16,6 +16,11 @@ share: false
 
 <!-- 2024 -->
 
+### April 17, 2024 - Mentioned in Media
+- Der Standard (in German):  <a href="https://www.derstandard.at/story/3000000216379/hohe-wahrscheinlichkeit-fuer-noch-extremere-hitzewellen-in-europa" target="_blank">Hohe Wahrscheinlichkeit für noch extremere Hitzewellen in Europa</a>
+- Die Presse (in German): <a href="https://www.diepresse.com/18378518/forscher-europa-muss-mit-laengeren-und-intensiveren-hitzewellen-rechnen" target="_blank">Forscher: Europa muss mit längeren und intensiveren Hitzewellen rechnen</a>
+- orf.at (in German): <a href="https://science.orf.at/stories/3224642/" target="_blank">Europa drohen extreme Hitzewellen</a>
+
 ### April 15-19, 2024 - EGU24
 Session convener: Regional Climate Modeling, Including CORDEX and Constraining Global Multi-Model Ensembles:  <a
 href="https://meetingorganizer.copernicus.org/EGU24/session/49396" target="_blank">Link</a><br>
@@ -27,6 +32,10 @@ href="https://meetingorganizer.copernicus.org/EGU24/EGU24-1722.html" target="_bl
 
 Mentor in the EGU mentoring programme: <a
 href="https://www.egu.eu/outreach/mentoring/" target="_blank">Link</a>
+
+<br>
+<img src="/images/EGU24.png" width="50%">
+<br>
 
 
 ### April 3-4, 2024 - Presentation Österreichischer Klimatag
@@ -214,7 +223,7 @@ _Geophys. Res. Lett._
 ### June 28 - July 2, 2022 - Participation at the NextGEMS hackathon
 Vienna, Austria
 <br>
-<img src="/presentations/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.png" width="50%">
+<img src="/images/Groupphoto_C2-Hackathon-2022-Vienna-LT-vostry-S.png" width="50%">
 <br><span style="color:gray;font-size:5px">Picture: &#169; NextGEMS</span>
 
 ### June 15 - 18, 2022 - Participation at the _The Future of the Earth_ performance
@@ -222,7 +231,7 @@ Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="the
 <br>
 More impressions [here](/misc/tfote)
 <br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/main/tfote/summary.PNG" width="50%">
+<img src="/images/tfote.png" width="50%">
 
 ### May 27, 2022 - Presentation at the EGU General Assembly 2022
 Investigating 25 years of coupled climate modeling | Abstract: <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-846.html?pdf" target="_blank"><b>PDF</b></a>
