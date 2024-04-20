@@ -14,7 +14,7 @@ I am happy to supervise bachelor and master theses on topics related to
 - future climate model projections and their uncertainties and,
 - machine learning for climate sciences.
 
-If you consider writing a thesis with me please have a look at **[my supervision approach (PDF)](/thesis/supervision.pdf)**. Feel free to reach out anytime to discuss potential topics or if you have any questions.
+If you consider writing a thesis with me please have a look at **[my supervision approach (PDF)](/thesis/supervision_approach.pdf)**. Feel free to reach out anytime to discuss potential topics or if you have any questions.
 
 
 ### Scientific writing guide for students
@@ -34,11 +34,11 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 
 - Work on explainable machine learning to separate climate models and observations (masters' thesis)
 
-### Finished thesis
+### Finished theses
 
 - Changes in heatwave properties under climate change (master's thesis)
 - Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (bachelor thesis)
-- Analyse eines Fehlers in der Definition der Hitzemetrik Cummulative Heat (bachelor thesis)
+- Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat (bachelor thesis)
 - Interannual to decadal precipitation variability in a warming climate: spatial structure and underlying mechanisms (master’s thesis; co-supervision)
 - Assessing climate model uncertainties – an encounter with CMIP6 (bachelor thesis)
 - Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (bachelor thesis)
