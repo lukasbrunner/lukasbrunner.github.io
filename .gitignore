@@ -5,3 +5,5 @@
 
 # jekyll
 _site/
+
+.ipynb_checkpoints/
