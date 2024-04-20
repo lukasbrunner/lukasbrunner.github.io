@@ -17,7 +17,7 @@ I am happy to supervise bachelor and master theses on topics related to
 If you consider writing a thesis with me please have a look at **[my supervision approach (PDF)](/thesis/supervision.pdf)**. Feel free to reach out anytime to discuss potential topics or if you have any questions.
 
 
-### Scientific writing
+### Scientific writing guide for students
 
 Since I see many of my students struggling with similar things when writing their thesis and with scientific writing in general, I've started to compile a document with some guidelines for scientific writing. It draws on my own experience as well as on several other grey literature sources (e.g.,
 <a href="https://www.kuwi.europa-uni.de/en/lehrstuhl/vs/politik-JP/Hinweise-fuer-Studierende/index.html"  target="_blank">here</a>,
@@ -59,4 +59,4 @@ Teaching
 ### Former Courses
 
 
-- 2020-2021: <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021W&lerneinheitId=147269&ansicht=LEHRVERANSTALTUNGEN" target="_blank">**Exercises Systemanalyse**</a>, ETH Zurich, German
+- 2020-2021: <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021W&lerneinheitId=147269&ansicht=LEHRVERANSTALTUNGEN" target="_blank">Exercises Systemanalyse</a>, ETH Zurich, German
