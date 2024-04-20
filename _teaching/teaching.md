@@ -8,19 +8,18 @@ share: false
 Supervision
 -----------
 
-I am happy to supervise bachelor and master theses on
+I am happy to supervise bachelor and master theses on topics related to
 - temperature extremes,
 - atmospheric blocking,
 - future climate model projections and their uncertainties and,
-- machine learning for climate sciences,
-- any related topics (reach you to discuss).
+- machine learning for climate sciences.
 
 If you consider writing a thesis with me please have a look at **[my supervision approach (PDF)](/thesis/supervision.pdf)**. Feel free to reach out anytime to discuss potential topics or if you have any questions.
 
 
 ### Scientific writing
 
-Since I see many of my students struggling with similar things when writing their thesis, I've started to compile a document with some guidelines for scientific writing. It draws on my own experience as well as on several other grey literature sources (e.g.,
+Since I see many of my students struggling with similar things when writing their thesis and with scientific writing in general, I've started to compile a document with some guidelines for scientific writing. It draws on my own experience as well as on several other grey literature sources (e.g.,
 <a href="https://www.kuwi.europa-uni.de/en/lehrstuhl/vs/politik-JP/Hinweise-fuer-Studierende/index.html"  target="_blank">here</a>,
 <a href="https://klimadynamik.univie.ac.at/?page_id=14"  target="_blank">here</a>, and
 <a href="https://x.com/cesifoti/status/1773388661893017897"  target="_blank">here</a>
