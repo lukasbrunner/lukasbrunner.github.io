@@ -16,6 +16,13 @@ share: false
 
 <!-- 2024 -->
 
+### April 26, 2024 - <span style="color:red">New publication</span>
+O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (2024):
+<a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Climate and Atmospheric Science_,
+<a href="/publications/OReilly2024.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/OReilly2024_supplement.pdf" target="_blank">Supplement</a>
+
+
 ### April 17, 2024 - Mentioned in Media
 - Der Standard (in German):  <a href="https://www.derstandard.at/story/3000000216379/hohe-wahrscheinlichkeit-fuer-noch-extremere-hitzewellen-in-europa" target="_blank">Hohe Wahrscheinlichkeit für noch extremere Hitzewellen in Europa</a>
 - Die Presse (in German): <a href="https://www.diepresse.com/18378518/forscher-europa-muss-mit-laengeren-und-intensiveren-hitzewellen-rechnen" target="_blank">Forscher: Europa muss mit längeren und intensiveren Hitzewellen rechnen</a>
