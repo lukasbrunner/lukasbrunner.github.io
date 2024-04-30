@@ -5,7 +5,7 @@ author_profile: true
 share: false
 ---
 
-I have published 18 peer-reviewed articles, which have been cited more than 1000 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 13. I have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate.
+I have published 19 peer-reviewed articles, which have been cited more than 1000 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 13. I have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate.
 
 <object data="h-index.txt"></object>
 
@@ -13,9 +13,6 @@ Coming up
 ---------
 
 - Sobolowski S. et al. (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
-
-- O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (accepted): Assessing observational constraints on future European climate in an out-of-sample framework" _npj Climate and Atmospheric Science_
-
 
 Peer-reviewed
 -------------
@@ -29,6 +26,10 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
+- O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (2024):
+<a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Climate and Atmospheric Science_,
+<a href="/publications/OReilly2024.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/OReilly2024_supplement.pdf" target="_blank">Supplement</a>
 
 - **Brunner L.** and Voigt A. (2024):
 <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
