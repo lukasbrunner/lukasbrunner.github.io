@@ -61,7 +61,7 @@ Related material: <br>
 Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelor thesis supervised by **L. Brunner** and A. Voigt,
 <a href="/thesis/Bachelorarbeit_Hajek.pdf" target="_blank"><b>PDF</b></a> (in German)
 - Meindl M. (2024): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt,
-<a href="/publications/Masterthesis_Meindl2024.pdf" target="_blank"><b>PDF</b></a>
+<a href="/thesis/Masterthesis_Meindl2024.pdf" target="_blank"><b>PDF</b></a>
 - Poster (<a href="/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 - Presentation (<a href="/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
 - Short presentation (<a href="/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
