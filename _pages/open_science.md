@@ -15,18 +15,12 @@ You are free to use any of the material I provide following the rules of the ind
 
 If you publish scientific work based on material I provide please consider citing some of my papers and putting me in the acknowledgements if appropriate.
 
-<!-- Impact -->
-<!-- ------ -->
-
-<!-- - Climate Model Projections of 21st Century Global Warming Constrained Using the Observed Warming Trend (Liang et al. 2020): "We acknowledge Lukas Brunner and Ruth Lorenz for publishing their weighting code." -->
-
-<!-- - "We thank Urs Beyerle, Jan Sedláček, Ruth Lorenz, and Lukas Brunner for retrieving and preprocessing the CMIP data" -->
-<!-- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL086812 -->
-
-
-
 Code
 ----
+
+### Running window bias: data and code accompanying Brunner et al <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">2024</a>
+
+In our 2024 paper we identify and discuss a bias merging from the use of too long seasonal windows when defining temperature extremes &ndash; the running window bias. The code and the most important datasets to recreate the figures from the paper and to play around with are freely available on <a href="https://github.com/lukasbrunner/running_window_bias" target="_blank">GitHub</a>.
 
 ### Model Learning: Data and Code for identifying climate models
 
