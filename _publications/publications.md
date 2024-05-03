@@ -154,7 +154,7 @@ The ETH Zurich CMIP6 next generation archive: technical documentation</a>,
 - **Brunner L.** (2018):
 A new perspective on atmopsheric blocking from observations &ndash; detection, analysis, and impacts (PhD thesis),
 _Wegener Center Verlag Graz_,
-<a href="/publications/Brunner2018_PhD.pdf" target="_blank"><b>PDF</b></a>
+<a href="/thesis/Brunner2018_PhD.pdf" target="_blank"><b>PDF</b></a>
 
 - Mohankumar S. E. P., Mintz-Woo K., Damert M., **Brunner L.**, and Eise J. (2018):
 <a href="https://doi.org/10.1007/978-3-319-98294-6" target="_blank">
@@ -164,7 +164,7 @@ Blogging Climate Change: A Case Study, In: Addressing the Challenges in Communic
 - **Brunner L.** (2014):
 Stratospheric ozone and temperature evolution over the past decades (Master's thesis),
 _Wegener Center Verlag Graz_,
-<a href="/publications/Brunner2014.pdf" target="_blank"><b>PDF</b></a>
+<a href="/thesis/Brunner2014.pdf" target="_blank"><b>PDF</b></a>
 
 
 Supervision
