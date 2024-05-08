@@ -13,7 +13,7 @@ redirect_from:
 I am a climate scientist working in the <a href="https://www.fnk.uni-hamburg.de/2-research/research-group-climate-extremes.html" target="_blanck">Climate Extremes group</a> at the University of Hamburg. My research focuses on
 better understanding temperature extremes and their drivers
 (e.g.,
-Brunner et al. <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blanck">2024</a>,
+Brunner and Voigt <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blanck">2024</a>,
 Brunner et al. <a href="https://doi.org/10.1029/2018GL077837" target="_blanck">2018</a>),
 on quantifying changes in the climate system and their uncertainties
 (e.g.,
@@ -21,7 +21,7 @@ Brunner et al. <a href="https://doi.org/10.5194/esd-11-995-2020" target="_blanck
 Brunner et al. <a href="https://doi.org/10.1175/JCLI-D-19-0953.1" target="_blanck">2020</a>),
 as well as on applications of machine learning to climate science
 (e.g.,
-(Brunner et al. <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
+(Brunner and Sippel <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
 PI project <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blanck">HighResLearn</a>)
 ).
 I am part of the Cluster of Excellence "Climate, Climatic Change, and Society" ( <a href="https://www.cliccs.uni-hamburg.de/about-cliccs.html" target="_blanck">CLICCS</a>) and I am involved in teaching and supervision at the University of Hamburg.
@@ -34,7 +34,7 @@ I am passionate about interdisciplinary collaboration, engaging with actors outs
 Ich bin Klimawissenschaftler und arbeite in der <a href="https://www.fnk.uni-hamburg.de/2-research/research-group-climate-extremes.html" target="_blanck">Gruppe für Klimaextreme</a> an der Universität Hamburg. Meine Forschung beschäftigt sich
 mit dem besseren Verständnis von Temperaturextremen und ihren Ursachen
 (z.B.,
-Brunner et al. <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blanck">2024</a>,
+Brunner und Voigt <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blanck">2024</a>,
 Brunner et al. <a href="https://doi.org/10.1029/2018GL077837" target="_blanck">2018</a>),
 der Quantifizierung von Klimaänderungen und ihren Unsicherheiten
 (z.B.,
@@ -42,7 +42,7 @@ Brunner et al. <a href="https://doi.org/10.5194/esd-11-995-2020" target="_blanck
 Brunner et al. <a href="https://doi.org/10.1175/JCLI-D-19-0953.1" target="_blanck">2020</a>) und
 der Anwendung von maschinellem Lernen für die Klimawissenschaften
 (z.B.,
-(Brunner et al. <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
+(Brunner und Sippel <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
 Projekt <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blanck">HighResLearn</a>)
 ).
 Ich bin Teil des Exzellenzclusters "Climate, Climatic Change, and Society" ( <a href="https://www.cliccs.uni-hamburg.de/about-cliccs.html" target="_blanck">CLICCS</a>) und involviert in die Lehre und Betreuung an der Universität Hamburg.
