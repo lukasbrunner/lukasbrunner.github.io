@@ -18,8 +18,8 @@ share: false
 
 ### May 1, 2024 - <span style="color:red">New position at Universität Hamburg</span>
 
-Climate Extremes group, Research Unit Sustainability and Climate Risks,
-<a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2024-05-16-lukas-welcome.html" target="_blank">News article</a>,
+Climate Extremes group, Research Unit Sustainability and Climate Risks: 
+<a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2024-05-16-lukas-welcome.html" target="_blank">News article</a>
 
 ### April 26, 2024 - <span style="color:red">New publication</span>
 O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (2024):
