@@ -32,13 +32,12 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 
 ### Open topics
 
-See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8iEz1b4m1onsod26o/edit?usp=sharing" target="_blank"><b>here</b></a> for a list of open topics and a short description. Below is a summary of the topics:
+See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8iEz1b4m1onsod26o/edit?usp=sharing" target="_blank"><b>here</b></a> for a list of open topics and a short description. Below is a summary:
 
 - Heatwave properties in km-scale global models
 - Link between blocking in different locations and temperature extremes
 - Discriminate climate observations, predictions, and projections using (explainable) machine learning methods
 - Daily temperature increments in models and observations
-
 
 
 ### Ongoing supervision
