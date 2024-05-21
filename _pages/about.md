@@ -21,10 +21,9 @@ Brunner et al. <a href="https://doi.org/10.5194/esd-11-995-2020" target="_blanck
 Brunner et al. <a href="https://doi.org/10.1175/JCLI-D-19-0953.1" target="_blanck">2020</a>),
 as well as on applications of machine learning to climate science
 (e.g.,
-(Brunner and Sippel <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
-PI project <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blanck">HighResLearn</a>)
-).
-I am part of the Cluster of Excellence "Climate, Climatic Change, and Society" ( <a href="https://www.cliccs.uni-hamburg.de/about-cliccs.html" target="_blanck">CLICCS</a>) and I am involved in teaching and supervision at the University of Hamburg.
+Brunner and Sippel <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
+PI project <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blanck">HighResLearn</a>).
+I am part of the Cluster of Excellence "Climate, Climatic Change, and Society" (<a href="https://www.cliccs.uni-hamburg.de/about-cliccs.html" target="_blanck">CLICCS</a>) and I am involved in teaching and supervision at the University of Hamburg.
 
 I am passionate about interdisciplinary collaboration, engaging with actors outside of science, and making scientific results relevant for broader audiences. Among other things, I am a former board member and former president of <a href="http://www.club-alpbach-vorarlberg.at" target="_blanck">Club Alpbach Vorarlberg</a> (link in German), a non-profit dedicated to enabling dialog between communities, generations, and cultures by providing scholarships for the <a href="https://www.alpbach.org/en/" target="_blanck">European Forum Alpbach</a> where I am still engaged. During my time at the University of Vienna, I was a member of the steering committee of the <a href="https://klimaszenarien.at/" target="_blanck">Austrian Climate Scenarios</a>, a member of the University of Vienna <a href="https://nachhaltigkeit.univie.ac.at/team/nachhaltigkeitsbeirat/sustainability" target="_blanck">Sustainability Advisory Board</a> and participated in the <a href="https://kinderuni.at/en/vienna-childrens-university/" target="_blanck">Vienna Children's University</a>. From 2021-2022 I participated in an art project about [The Future of the Earth](/misc/preenact) that makes climate change experienceable.
 
