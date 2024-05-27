@@ -16,6 +16,16 @@ I am happy to supervise bachelor and master theses on topics related to
 
 If you consider writing a thesis with me please have a look at <a href="/thesis/supervision_approach.pdf" target="_blank"><b>**my supervision approach (PDF)**</b></a>. Feel free to reach out anytime to discuss potential topics or if you have any questions.
 
+---
+
+### Open topics
+
+See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8iEz1b4m1onsod26o/edit?usp=sharing" target="_blank"><b>here</b></a> for a list of open topics and a short description.
+
+### Ongoing supervision
+
+- Work on explainable machine learning to separate climate models and observations (master's thesis)
+- Work on changes in cooling and heating degree days in Canada under climate change (master's thesis)
 
 ### Scientific writing guide for students
 
@@ -28,15 +38,6 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 
 **[Thesis guidelines (PDF)](/thesis/thesis_guidelines.pdf){:target="_blank"}**
 
----
-
-### Open topics
-
-See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8iEz1b4m1onsod26o/edit?usp=sharing" target="_blank"><b>here</b></a> for a list of open topics and a short description. 
-
-### Ongoing supervision
-
-- Work on explainable machine learning to separate climate models and observations (masters' thesis)
 
 ### Finished theses
 
@@ -48,19 +49,20 @@ See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8
 - Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (bachelor thesis)
 
 
+
 Teaching
 --------
 
-### Winter term (University of Vienna)
+### Courses in the summer semester 2024 (Universiät Hamburg)
+
+- **Weather and Climate Extremes**, seminar together with Jana Sillmann and Benjamin Poschold
+- **Climate Modeling**, seminar together with Leonard Borchert, Christopher Kadow and Simon Lentz
 
 
-- **Exercises Introduction to Computational Meteorology**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_59.pdf"  target="_blank">Master Computational Science</a>, English
-- **Modelling and Data Analysis**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_78.pdf" target="_blank">Master Meteorology</a>, with Blaž Gasparini (2023) Marina Dütsch (2022), English
-- **Numerische Methoden**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_77.pdf" target="_blank">Bachelor Meteorology</a>, German
-- **Paper Club**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_78.pdf" target="_blank">Master Meteorology</a>, with Blaž Gasparini, English
+### Earlier courses
 
-
-### Former Courses
-
-
+- 2022-2023: **Exercises Introduction to Computational Meteorology**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_59.pdf"  target="_blank">Master Computational Science</a>, English, University of Vienna
+- 2022-2023: **Modelling and Data Analysis**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_78.pdf" target="_blank">Master Meteorology</a>, with Blaž Gasparini (2023) Marina Dütsch (2022), English, University of Vienna
+- 2022-2023: **Numerische Methoden**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_77.pdf" target="_blank">Bachelor Meteorology</a>, German, University of Vienna
+- 2022-2023: **Paper Club**, <a href="https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_78.pdf" target="_blank">Master Meteorology</a>, with Blaž Gasparini, English, University of Vienna
 - 2020-2021: <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021W&lerneinheitId=147269&ansicht=LEHRVERANSTALTUNGEN" target="_blank">Exercises Systemanalyse</a>, ETH Zurich, German
