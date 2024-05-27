@@ -16,8 +16,6 @@ I am happy to supervise bachelor and master theses on topics related to
 
 If you consider writing a thesis with me please have a look at <a href="/thesis/supervision_approach.pdf" target="_blank"><b>**my supervision approach (PDF)**</b></a>. Feel free to reach out anytime to discuss potential topics or if you have any questions.
 
----
-
 ### Open topics
 
 See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8iEz1b4m1onsod26o/edit?usp=sharing" target="_blank"><b>here</b></a> for a list of open topics and a short description.
