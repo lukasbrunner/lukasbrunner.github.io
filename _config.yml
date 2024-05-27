@@ -84,11 +84,11 @@ author:
   avatar           : "picture_formal1_q.png"
   bio              : "Climate scientist | Climate Extremes group | Universität Hamburg"
   location         :
-  employer         : "University of Vienna"
-  employer_url     : "https://img.univie.ac.at/forschung/dynamik-und-modellierung-des-klimasystems"
+  employer         : "Universität Hamburg"
+  employer_url     : "https://www.fnk.uni-hamburg.de/2-research/research-group-climate-extremes.html"
   pubmed           :
   googlescholar    : "https://scholar.google.ch/citations?user=dHMZRfwAAAAJ&hl=en"
-  email            : "l.brunner@univie.ac.at"
+  email            : "lukas.brunner@uni-hamburg.de"
   researchgate     :
   uri              :
   bitbucket        :
@@ -111,6 +111,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "luki_brunner"
+  bluesky          : "https://bsky.app/profile/lukasbrunner.bsky.social"
   vine             :
   weibo            :
   xing             :
