@@ -5,12 +5,21 @@ author_profile: true
 share: false
 ---
 
+
+<br>
+<img src="/images/ClimateModeling2024_PosterSession.jpg" width="50%">
+<br>
+<p style="line-height:12px">
+<span style="color:gray;font-size:10pt">Student poster session on climate indices in the Climate Modeling course 2024.</span></p>
+
+
 Supervision
 -----------
 
 I am happy to supervise bachelor and master theses on topics related to
-- temperature extremes,
-- atmospheric blocking,
+- temperature extremes and their drivers,
+- atmospheric blocking and connected impacts,
+- statistical climate model evaluation and comparison,
 - future climate model projections and their uncertainties and,
 - machine learning for climate sciences.
 

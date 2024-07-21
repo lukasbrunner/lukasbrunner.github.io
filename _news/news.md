@@ -16,9 +16,17 @@ share: false
 
 <!-- 2024 -->
 
+### July 18, 2024 - Guest lecture / Invited talk Universität Freiburg
+ClimateGeography talk: Are we miscalculating how heatwaves change?
+
+### July 12, 2024 - Blog post on the nextGEMS blog
+
+nextGEMS blog post about Brunner and Sippel (2023):
+<a href="https://nextgems-h2020.eu/using-machine-learning-to-identify-climate-models/" target="_blank">Using Machine Learning to identify climate models</a>
+
 ### May 1, 2024 - <span style="color:red">New position at Universität Hamburg</span>
 
-Climate Extremes group, Research Unit Sustainability and Climate Risks: 
+Climate Extremes group, Research Unit Sustainability and Climate Risks:
 <a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2024-05-16-lukas-welcome.html" target="_blank">News article</a>
 
 ### April 26, 2024 - <span style="color:red">New publication</span>
