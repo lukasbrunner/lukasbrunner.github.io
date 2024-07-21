@@ -12,7 +12,7 @@ I have published 19 peer-reviewed articles, which have been cited more than 1000
 Coming up
 ---------
 
-- **Brunner L.**, Gosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation):  Toward Digital Twins of Earth: Tracing three decades of climate model improvements
+- **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation):  Toward Digital Twins of Earth: Tracing three decades of climate model improvements
 - Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (under review): A non-stationary climate-informed weather generator for assessing of future flood risks, _Adv. Stat. Climatol. Meteorol. Oceanogr._
 - Sobolowski S. et al. including **Brunner L.** (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 
