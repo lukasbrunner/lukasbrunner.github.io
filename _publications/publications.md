@@ -5,14 +5,16 @@ author_profile: true
 share: false
 ---
 
-I have published 19 peer-reviewed articles, which have been cited more than 1000 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 13. I have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate.
+I have published 19 peer-reviewed articles, which have been cited more than 1000 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 15. I have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate.
 
 <object data="h-index.txt"></object>
 
 Coming up
 ---------
 
-- Sobolowski S. et al. (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
+- **Brunner L.**, Gosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation):  Toward Digital Twins of Earth: Tracing three decades of climate model improvements
+- Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (under review): A non-stationary climate-informed weather generator for assessing of future flood risks, _Adv. Stat. Climatol. Meteorol. Oceanogr._
+- Sobolowski S. et al. including **Brunner L.** (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 
 Peer-reviewed
 -------------
