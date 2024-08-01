@@ -167,9 +167,3 @@ Blogging Climate Change: A Case Study, In: Addressing the Challenges in Communic
 Stratospheric ozone and temperature evolution over the past decades (Master's thesis),
 _Wegener Center Verlag Graz_,
 <a href="/thesis/Brunner2014.pdf" target="_blank"><b>PDF</b></a>
-
-
-Supervision
------------
-
-See [teaching](/teaching)
