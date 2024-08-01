@@ -60,7 +60,7 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 Teaching
 --------
 
-### Courses in the summer semester 2024 (Universiät Hamburg)
+### Courses in the summer semester 2024 (Universität Hamburg)
 
 - **Weather and Climate Extremes**, seminar together with Jana Sillmann and Benjamin Poschold
 - **Climate Modeling**, seminar together with Leonard Borchert, Christopher Kadow and Simon Lentz
