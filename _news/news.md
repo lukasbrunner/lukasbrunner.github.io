@@ -16,6 +16,17 @@ share: false
 
 <!-- 2024 -->
 
+### October 28, 2024 - Invited talk at the NCKF Climate Research Symposium, Copenhagen, Denmark
+Extreme events in climate models: Diagnosing temperature extremes in climate models: pitfalls and prospects
+
+### October 14-18, 2024 - Participation at the nextGMES Hazard Hackathon, Wageningen, Netherlands
+Co-lead of the data handling/extreme index challenge
+
+### October 11, 2024 - Guest lecture University of Vienna
+Klimarecht im intra- und interdisziplinären Dialog: Naturwissenschaftliche Grundlagen der Klimakrise
+
+### October 3, 2024 - HighResLearn Kick Off
+
 ### July 18, 2024 - Guest lecture / Invited talk Universität Freiburg
 ClimateGeography talk: Are we miscalculating how heatwaves change?
 

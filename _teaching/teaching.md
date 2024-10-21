@@ -18,7 +18,7 @@ Supervision
 
 I am happy to supervise bachelor and master theses on topics related to
 - temperature extremes and their drivers,
-- atmospheric blocking and connected impacts,
+- atmospheric blocking and connected extremes,
 - statistical climate model evaluation and comparison,
 - future climate model projections and their uncertainties and,
 - machine learning for climate sciences.
@@ -48,13 +48,13 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 
 ### Finished theses
 
-- Changes in heatwave properties under climate change (master's thesis)
+- Exploring Classifier Skill in Distinguishing Climate Model and Observational Data (master's thesis): **[PDF](/thesis/Masterthesis_Merio2024.pdf)**
+- Changes in heatwave properties under climate change (master's thesis): **[PDF](/thesis/Masterthesis_Meindl2024.pdf)**
 - Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (bachelor thesis)
-- Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat (bachelor thesis)
+- Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat (bachelor thesis): **[PDF](/thesis/Bachelorarbeit_Hajek.pdf)** (in German)
 - Interannual to decadal precipitation variability in a warming climate: spatial structure and underlying mechanisms (master’s thesis; co-supervision)
 - Assessing climate model uncertainties – an encounter with CMIP6 (bachelor thesis)
 - Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (bachelor thesis)
-
 
 
 Teaching
