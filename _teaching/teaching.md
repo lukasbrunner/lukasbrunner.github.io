@@ -31,8 +31,8 @@ See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8
 
 ### Ongoing supervision
 
-- Work on explainable machine learning to separate climate models and observations (master's thesis)
-- Work on changes in cooling and heating degree days in Canada under climate change (master's thesis)
+- Work on local and remote drivers of European heatwaves (master's thesis)
+- Work on partitioning uncertainties in climate extreme indices (master's thesis)
 
 ### Scientific writing guide for students
 
@@ -48,11 +48,12 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 
 ### Finished theses
 
+- Effect of climate variability and extremes on heating and cooling energy demand in Canada (master's thesis; co-supervision with Jana Sillmann)
 - Exploring Classifier Skill in Distinguishing Climate Model and Observational Data (master's thesis): **[PDF](/thesis/Masterthesis_Merio2024.pdf)**
-- Changes in heatwave properties under climate change (master's thesis): **[PDF](/thesis/Masterthesis_Meindl2024.pdf)**
+- Changes in heatwave properties under climate change (master's thesis; co-supervison with Aiko Voigt): **[PDF](/thesis/Masterthesis_Meindl2024.pdf)**
 - Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (bachelor thesis)
 - Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat (bachelor thesis): **[PDF](/thesis/Bachelorarbeit_Hajek.pdf)** (in German)
-- Interannual to decadal precipitation variability in a warming climate: spatial structure and underlying mechanisms (master’s thesis; co-supervision)
+- Interannual to decadal precipitation variability in a warming climate: spatial structure and underlying mechanisms (master’s thesis; co-supervision with Flavio Lehner)
 - Assessing climate model uncertainties – an encounter with CMIP6 (bachelor thesis)
 - Changes in northern hemisphere blocking occurrence under 2×CO2 based on CESM (bachelor thesis)
 
