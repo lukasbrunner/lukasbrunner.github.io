@@ -28,7 +28,7 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
--Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (2024):
+- Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (2024):
 <a href="https://doi.org/10.5194/ascmo-10-195-2024" target="_blank">A non-stationary climate-informed weather generator for assessing future flood risks</a>,
 _Adv. Stat. Climatol. Meteorol. Oceanogr._,
 <a href="/publications/Nguyen2024.pdf" target="_blank"><b>PDF</b></a>,
