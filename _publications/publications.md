@@ -12,9 +12,9 @@ I have published 19 peer-reviewed articles, which have been cited more than 1000
 Coming up
 ---------
 
-- Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (accepted): A non-stationary climate-informed weather generator for assessing of future flood risks, _Adv. Stat. Climatol. Meteorol. Oceanogr._
 - Sobolowski S. et al. including **Brunner L.** (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (submitted):  Toward Digital Twins of Earth: Tracing three decades of climate model improvements
+- Nicola Maher, Adam S. Phillips, Clara Deser, Robert C. Jnglin Wills, Flavio Lehner, John Fasullo, Julie M. Caron, Lukas Brunner, and Urs Beyerle (submitted): The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change, _Geosci. Model Dev. Discuss._
 
 Peer-reviewed
 -------------
@@ -28,9 +28,15 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
+-Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (2024):
+<a href="https://doi.org/10.5194/ascmo-10-195-2024" target="_blank">A non-stationary climate-informed weather generator for assessing future flood risks</a>,
+_Adv. Stat. Climatol. Meteorol. Oceanogr._,
+<a href="/publications/Nguyen2024.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Nguyen2024_supplement.pdf" target="_blank">Supplement</a>
+
 - O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (2024):
 <a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Climate and Atmospheric Science_,
-<a href="/publications/OReilly2024.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/OReilly2024.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/OReilly2024_supplement.pdf" target="_blank">Supplement</a>
 
 - **Brunner L.** and Voigt A. (2024):
