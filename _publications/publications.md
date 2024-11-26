@@ -14,7 +14,7 @@ Coming up
 
 - Sobolowski S. et al. including **Brunner L.** (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (submitted):  Toward Digital Twins of Earth: Tracing three decades of climate model improvements
-- Nicola Maher, Adam S. Phillips, Clara Deser, Robert C. Jnglin Wills, Flavio Lehner, John Fasullo, Julie M. Caron, Lukas Brunner, and Urs Beyerle (submitted): The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change, _Geosci. Model Dev. Discuss._
+- Nicola Maher, Adam S. Phillips, Clara Deser, Robert C. Jnglin Wills, Flavio Lehner, John Fasullo, Julie M. Caron, **Lukas Brunner**, and Urs Beyerle (submitted): The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change, _Geosci. Model Dev. Discuss._
 
 Peer-reviewed
 -------------
