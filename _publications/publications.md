@@ -12,9 +12,9 @@ I have published 20 peer-reviewed articles, which have been cited more than 1000
 Coming up
 ---------
 
-- Sobolowski S. et al. including **Brunner L.** (under review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
-- **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (submitted):  Toward Digital Twins of Earth: Tracing three decades of climate model improvements
-- Nicola Maher, Adam S. Phillips, Clara Deser, Robert C. Jnglin Wills, Flavio Lehner, John Fasullo, Julie M. Caron, **Lukas Brunner**, and Urs Beyerle (submitted): The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change, _Geosci. Model Dev. Discuss._
+- Sobolowski S. et al. including **Brunner L.** (in review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
+- **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in review):  First climate models simulate global surface temperature patterns indistinguishable from observations
+- Nicola M., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, and Beyerle U. (in review): <a href="https://doi.org/10.5194/egusphere-2024-3684" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change</a>, _Geosci. Model Dev. Discuss._
 
 Peer-reviewed
 -------------
