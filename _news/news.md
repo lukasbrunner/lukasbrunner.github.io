@@ -15,12 +15,18 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2024 -->
+### December 2024 - Joined the ATC activity of the World Climate Research Programme (WCRP)
+The <a href="https://www.aparc-climate.org/activities/temperature-changes/" target="_blank">Atmospheric Temperature Changes and their Drivers (ATC)</a> activity is part of the Atmospheric Processes And the Role in Climate (APARC) project of the WCRP
+
+### December 2024 - Joined the Scientific Advisory Board of the Austrian Climate Scenarios
+The Austrian Climate Scenenarios  <a href="https://klimaszenarien.at/mitwirkende/" target="_blank">Klimaszenarien.AT</a> are a community-driven effort to develop the next generation of regional climate projections for Austria
+
 
 ### October 28, 2024 - Invited talk at the NCKF Climate Research Symposium, Copenhagen, Denmark
 Extreme events in climate models: Diagnosing temperature extremes in climate models: pitfalls and prospects
 
 ### October 14-18, 2024 - Participation at the nextGMES Hazard Hackathon, Wageningen, Netherlands
-Co-lead of the data handling/extreme index challenge
+Co-lead of the data handling/extreme index challenge. See <a href="https://nextgems-h2020.eu/the-future-of-climate-modeling-insights-from-the-nextgems-hazard-hackathon/" target="_blank">NextGEMS blog</a>.
 
 ### October 11, 2024 - Guest lecture University of Vienna
 Klimarecht im intra- und interdisziplinären Dialog: Naturwissenschaftliche Grundlagen der Klimakrise
