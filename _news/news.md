@@ -19,7 +19,7 @@ share: false
 The <a href="https://www.aparc-climate.org/activities/temperature-changes/" target="_blank">Atmospheric Temperature Changes and their Drivers (ATC)</a> activity is part of the Atmospheric Processes And the Role in Climate (APARC) project of the WCRP
 
 ### December 2024 - Joined the Scientific Advisory Board of the Austrian Climate Scenarios
-The Austrian Climate Scenenarios  <a href="https://klimaszenarien.at/mitwirkende/" target="_blank">Klimaszenarien.AT</a> are a community-driven effort to develop the next generation of regional climate projections for Austria
+The Austrian Climate Scenarios <a href="https://klimaszenarien.at/mitwirkende/" target="_blank">Klimaszenarien.AT</a> are a community-driven effort to develop the next generation of regional climate projections for Austria
 
 
 ### October 28, 2024 - Invited talk at the NCKF Climate Research Symposium, Copenhagen, Denmark
