@@ -16,7 +16,7 @@ share: false
 
 <!-- 2025 -->
 ### January 22, 2025 - School lecture: Wetter- und Klimaextreme im Kontext des Klimawandels
-  Wir wollen's wissen, <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
+  Wir wollen's wissen; <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
 
 <!-- 2024 -->
 ### December 2024 - Joined the ATC activity of the World Climate Research Programme (WCRP)
