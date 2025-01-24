@@ -19,7 +19,7 @@ share: false
   Wir wollen's wissen; <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
 
 <br>
-<img src="/images/WirWollensWisswen.png" width="50%">
+<img src="/images/WirWollensWissen.jpg" width="50%">
 <br>
 
 <!-- 2024 -->
