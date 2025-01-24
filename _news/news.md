@@ -18,6 +18,10 @@ share: false
 ### January 22, 2025 - School lecture: Wetter- und Klimaextreme im Kontext des Klimawandels
   Wir wollen's wissen; <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
 
+<br>
+<img src="/images/WirWollensWisswen.png" width="50%">
+<br>
+
 <!-- 2024 -->
 ### December 2024 - Joined the ATC activity of the World Climate Research Programme (WCRP)
 The <a href="https://www.aparc-climate.org/activities/temperature-changes/" target="_blank">Atmospheric Temperature Changes and their Drivers (ATC)</a> activity is part of the Atmospheric Processes And the Role in Climate (APARC) project of the WCRP
