@@ -15,8 +15,13 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
+### January 29, 2025- Invited talk at the University of Innsbruck, Department of Atmospheric and Cryospheric Sciences
+Title: Are global km-scale climate models becoming indistinguishable from observations?
+
+Short abstract <a href="https://www.uibk.ac.at/en/acinn/graduate-seminar/graduate-seminar-ws-2024-25/2025-01-29_brunner/" target="_blank">here</a>
+
 ### January 22, 2025 - School lecture: Wetter- und Klimaextreme im Kontext des Klimawandels
-  Wir wollen's wissen; <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
+  Wir wollen's wissen <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German) and <a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2025-01-27-lukas-wir-wollens-wissen.html" target="_blank">news article</a>.
 
 <br>
 <img src="/images/WirWollensWissen.jpg" width="50%">
