@@ -13,8 +13,10 @@ Coming up
 ---------
 
 - Sobolowski S. et al. including **Brunner L.** (in review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
-- **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in review):  First climate models simulate global surface temperature patterns indistinguishable from observations
 - Nicola M., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, and Beyerle U. (in review): <a href="https://doi.org/10.5194/egusphere-2024-3684" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change</a>, _Geosci. Model Dev. Discuss._
+- Segura H. et al. including **Brunner L.** (in review):  <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-509/" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev. Discuss._
+- **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation):  First climate models simulate global surface temperature patterns indistinguishable from observations
+- **Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (in preparation): Global km-scale models: Added value for impacts
 
 Peer-reviewed
 -------------
