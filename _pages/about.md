@@ -41,8 +41,8 @@ Brunner et al. <a href="https://doi.org/10.5194/esd-11-995-2020" target="_blanck
 Brunner et al. <a href="https://doi.org/10.1175/JCLI-D-19-0953.1" target="_blanck">2020</a>) und
 der Anwendung von maschinellem Lernen für die Klimawissenschaften
 (z.B.,
-(Brunner und Sippel <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
-Projekt <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blanck">HighResLearn</a>)
+Brunner und Sippel <a href="https://doi.org/10.1017/eds.2023.23" target="_blanck">2023</a>,
+Projekt <a href="https://klimaszenarien.at/en/projects/data-usability/" target="_blanck">HighResLearn</a>
 ).
 Ich bin Teil des Exzellenzclusters "Climate, Climatic Change, and Society" ( <a href="https://www.cliccs.uni-hamburg.de/about-cliccs.html" target="_blanck">CLICCS</a>), des _World Climate Research Programme_ (WCRP) Programms <a href="https://www.aparc-climate.org/activities/temperature-changes/" target="_blank">_Atmospheric Temperature Changes and their Drivers_ (ATC)</a> und des wissenschaftlichen Beirat der Österreichischen Klimaszenarien <a href="https://klimaszenarien.at/" target="_blank">Klimaszenarien.AT</a>. Ich bin in [Lehre und Betreuung](/teaching) an der Universität Hamburg involviert und gebe immer wieder Gastvorträge an anderen Universitäten
 
