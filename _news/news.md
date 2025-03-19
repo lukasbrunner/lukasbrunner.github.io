@@ -15,7 +15,10 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
-### January 29, 2025- Invited talk at the University of Innsbruck, Department of Atmospheric and Cryospheric Sciences
+### March 12, 2025 - Talk in the Colloquium in Atmosphere, Climate and Earth Observation, University of Bern
+Are global km-scale climate models becoming indistinguishable from observations?
+
+### January 29, 2025 - Talk at the University of Innsbruck, Department of Atmospheric and Cryospheric Sciences
 Title: Are global km-scale climate models becoming indistinguishable from observations?
 
 Short abstract <a href="https://www.uibk.ac.at/en/acinn/graduate-seminar/graduate-seminar-ws-2024-25/2025-01-29_brunner/" target="_blank">here</a>
