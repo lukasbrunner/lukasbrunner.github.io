@@ -24,9 +24,13 @@ Oral presentation: Are global km-scale climate models becoming indistinguishable
 
 Oral presentation (Highlight talk): Improving extreme temperature definitions until they are wrong (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-5951.html" target="_blank">Abstract</a>)
 
-Poster presentation (presenting author): Output regridding can lead to Moiré pattern in km-scale global climate model data from ICON (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-15826.html" target="_blank">Abstract</a>)
+Poster presentation (presenting author): Output regridding can lead to Moiré pattern in km-scale global climate model data from ICON
+- <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-15826.html" target="_blank">Abstract</a>
+- <a href="/presentations/202504_poster_EGU25_Moire.pdf" target="_blank"><b>Poster</b></a>
 
-Poster presentation (presenting author): Quantifying changes in seasonal temperature variations using a functional data analysis approach (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17493.html" target="_blank">Abstract</a>)
+Poster presentation (presenting author): Quantifying changes in seasonal temperature variations using a functional data analysis approach
+- <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17493.html" target="_blank">Abstract</a>
+- <a href="/presentations/202504_poster_EGU25_sc.pdf" target="_blank"><b>Poster</b></a>
 
 ### April 23 - 25, 2025 | WCRP: APARC ATC spring meeting
 Beyond global mean changes: local temperature scaling in km-scale models
