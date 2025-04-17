@@ -16,17 +16,17 @@ share: false
 
 <!-- 2025 -->
 ### April 28 - March 2 | EGU25
-Session co-convener: New developments in Earth system modelling: model evaluation, benchmarking, and constraining (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52390" target="_blank"><b>Session</b></a>)
+Session co-convener: New developments in Earth system modelling: model evaluation, benchmarking, and constraining (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52390" target="_blank">Session</a>)
 
-Session co-convener: Up-Goer Five Challenge: Making Big Ideas Simpler by Talking About Them in Words We Use a Lot (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52032" target="_blank"><b>Session</b></a>)
+Session co-convener: Up-Goer Five Challenge: Making Big Ideas Simpler by Talking About Them in Words We Use a Lot (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52032" target="_blank">Session</a>)
 
-Oral presentation: Are global km-scale climate models becoming indistinguishable from observations? (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-11601.html" target="_blank"><b>Abstract</b></a>)
+Oral presentation: Are global km-scale climate models becoming indistinguishable from observations? (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-11601.html" target="_blank">Abstract</a>)
 
-Oral presentation (Highlight talk): Improving extreme temperature definitions until they are wrong (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-5951.html" target="_blank"><b>Abstract</b></a>)
+Oral presentation (Highlight talk): Improving extreme temperature definitions until they are wrong (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-5951.html" target="_blank">Abstract</a>)
 
-Poster presentation (presenting author): Output regridding can lead to Moiré pattern in km-scale global climate model data from ICON (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-15826.html" target="_blank"><b>Abstract</b></a>)
+Poster presentation (presenting author): Output regridding can lead to Moiré pattern in km-scale global climate model data from ICON (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-15826.html" target="_blank">Abstract</a>)
 
-Poster presentation (presenting author): Quantifying changes in seasonal temperature variations using a functional data analysis approach (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17493.html" target="_blank"><b>Abstract</b></a>)
+Poster presentation (presenting author): Quantifying changes in seasonal temperature variations using a functional data analysis approach (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17493.html" target="_blank">Abstract</a>)
 
 ### April 23 - 25, 2025 | WCRP: APARC ATC spring meeting
 Beyond global mean changes: local temperature scaling in km-scale models
