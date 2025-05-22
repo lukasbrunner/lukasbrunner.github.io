@@ -15,7 +15,14 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
-### April 28 - March 2 | EGU25
+### March 12 - 16, 2025 | WCRP global km-scale hackathon
+Science group lead: Global representation of local extremes (hk25-LocExt) (<a href="https://digital-earths-global-hackathon.github.io/hk25/scienceteams/" target="_blank"><b>hackathon homepage</b></a>)
+
+<br>
+<img src="/images/GlobalHackathon_LocExtTeam.jpg" width="50%">
+<br>
+
+### April 28 - March 2, 2025 | EGU25
 Session co-convener: New developments in Earth system modelling: model evaluation, benchmarking, and constraining (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52390" target="_blank">Session</a>)
 
 Session co-convener: Up-Goer Five Challenge: Making Big Ideas Simpler by Talking About Them in Words We Use a Lot (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52032" target="_blank">Session</a>)
