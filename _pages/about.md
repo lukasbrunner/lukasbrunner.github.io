@@ -50,6 +50,6 @@ Ich begeistere mich für interdisziplinäre Kollaboration, Interaktionen mit Akt
 
 {% include youtube.html id="R5laSSVHUAk" %}
 
-<br>
-<img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/refs/heads/main/hamburg/tas_hamburg.gif" width="75%">
-<br>
+<!-- <br> -->
+<!-- <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/refs/heads/main/hamburg/tas_hamburg.gif" width="75%"> -->
+<!-- <br> -->

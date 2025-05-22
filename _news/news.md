@@ -16,7 +16,7 @@ share: false
 
 <!-- 2025 -->
 ### March 12 - 16, 2025 | WCRP global km-scale hackathon
-Science group lead: Global representation of local extremes (hk25-LocExt) (<a href="https://digital-earths-global-hackathon.github.io/hk25/scienceteams/" target="_blank"><b>hackathon homepage</b></a>)
+Group lead: Global representation of local extremes (hk25-LocExt) (<a href="https://digital-earths-global-hackathon.github.io/hk25/scienceteams/" target="_blank">hackathon homepage</a>)
 
 <br>
 <img src="/images/GlobalHackathon_LocExtTeam.jpg" width="50%">
