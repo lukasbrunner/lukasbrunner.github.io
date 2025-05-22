@@ -48,6 +48,8 @@ Ich bin Teil des Exzellenzclusters "Climate, Climatic Change, and Society" ( <a 
 
 Ich begeistere mich für interdisziplinäre Kollaboration, Interaktionen mit Akteuren außerhalb der Wissenschaft und dafür Forschungsergebnisse für eine breite Öffentlichkeit relevant zu machen. Ich bin, unter anderem, ehemaliges Vorstandsmitglied und ehemaliger Präsident des <a href="http://www.club-alpbach-vorarlberg.at" target="_blanck">Club Alpbach Vorarlberg</a>, einem Verein der sich der Förderung von Dialog zwischen Fachbereichen, Generationen und Kulturen verschrieben hat und dazu Stipendien für das <a href="https://www.alpbach.org/de/" target="_blanck">Europäische Forum Alpbach</a> organisiert, dem ich weiterhin verbunden bin. Ich vermittle Wissenschaft in Schule im Rahmen der Programme <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blanck">"Wir Wollen's Wissen!"</a> und <a href="https://www.lifeteachus.org/" target="_blanck">LifeTeachUs</a>. Von 2021 bis 20222 war ich Teil eines Kunstprojekts das versucht [Klimawandel erlebbar zu machen](/misc/preenact).
 
+<br>
+
 {% include youtube.html id="R5laSSVHUAk" %}
 
 <br>
