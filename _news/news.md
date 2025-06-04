@@ -15,14 +15,18 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
-### March 12 - 16, 2025 | WCRP global km-scale hackathon
+### June 2 - 3, 2025 | Workshop: Interdisciplinary approaches to study human responses to extreme weather events, Zurich
+
+### March 12 - 16, 2025 | WCRP global km-scale hackathon, Hamburg
 Group lead: Global representation of local extremes (hk25-LocExt) (<a href="https://digital-earths-global-hackathon.github.io/hk25/scienceteams/" target="_blank">hackathon homepage</a>)
+
+FNK news blog: <a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2025-05-28-global-hackathon.html" target="_blank">Link</a>
 
 <br>
 <img src="/images/GlobalHackathon_LocExtTeam.jpg" width="50%">
 <br>
 
-### April 28 - March 2, 2025 | EGU25
+### April 28 - March 2, 2025 | EGU25, Vienna
 Session co-convener: New developments in Earth system modelling: model evaluation, benchmarking, and constraining (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52390" target="_blank">Session</a>)
 
 Session co-convener: Up-Goer Five Challenge: Making Big Ideas Simpler by Talking About Them in Words We Use a Lot (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52032" target="_blank">Session</a>)
@@ -39,7 +43,7 @@ Poster presentation (presenting author): Quantifying changes in seasonal tempera
 - <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17493.html" target="_blank">Abstract</a>
 - <a href="/presentations/202504_poster_EGU25_sc.pdf" target="_blank"><b>Poster</b></a>
 
-### April 23 - 25, 2025 | WCRP: APARC ATC spring meeting
+### April 23 - 25, 2025 | WCRP: APARC ATC spring meeting, Graz
 Beyond global mean changes: local temperature scaling in km-scale models
 
 ### April 15, 2025 - Talk in the Klimacampus Kolloquium, MPI-M/University of Hamburg
