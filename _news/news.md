@@ -16,7 +16,7 @@ share: false
 
 <!-- 2025 -->
 ### June 6, 2025 - <span style="color:red">New publication</span>
-**Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1efA" target="_blank">global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._
+**Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1efA" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._
 <!-- , -->
 <!-- <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>, -->
 <!-- <a href="/publications/supplement/Brunner2025_supplement.pdf" target="_blank">Supplement</a> -->
