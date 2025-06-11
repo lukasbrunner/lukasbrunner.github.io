@@ -15,6 +15,16 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
+### June 6, 2025 - <span style="color:red">New publication</span>
+**Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1efA" target="_blank">global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett.,
+<!-- <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>, -->
+<!-- <a href="/publications/supplement/Brunner2025_supplement.pdf" target="_blank">Supplement</a> -->
+
+### May 26, 2025 - <span style="color:red">New publication</span>
+Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen, O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1EURO-CORDEX" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_,
+<!-- <a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>, -->
+<!-- <a href="/publications/supplement/Sobolowski2025_supplement.pdf" target="_blank">Supplement</a> -->
+
 ### June 2 - 3, 2025 | Workshop: Interdisciplinary approaches to study human responses to extreme weather events, Zurich
 
 ### March 12 - 16, 2025 | WCRP global km-scale hackathon, Hamburg

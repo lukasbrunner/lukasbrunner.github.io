@@ -11,12 +11,10 @@ I have published 20 peer-reviewed articles, which have been cited more than 1500
 
 Coming up
 ---------
-
-- Sobolowski S. et al. including **Brunner L.** (in review): EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations, _BAMS_
 - Nicola M., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, and Beyerle U. (in review): <a href="https://doi.org/10.5194/egusphere-2024-3684" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change</a>, _Geosci. Model Dev. Discuss._
 - Segura H. et al. including **Brunner L.** (in review):  <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-509/" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev. Discuss._
 - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation):  First climate models simulate global surface temperature patterns indistinguishable from observations
-- **Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (submitted): A global perspective on the spatial representation of climate extremes from km-scale models
+
 
 Peer-reviewed
 -------------
@@ -29,6 +27,14 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+
+- **Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1efA" target="_blank">global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett.,
+<!-- <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>, -->
+<!-- <a href="/publications/supplement/Brunner2025_supplement.pdf" target="_blank">Supplement</a> -->
+
+-  Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen, O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1EURO-CORDEX" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_,
+<!-- <a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>, -->
+<!-- <a href="/publications/supplement/Sobolowski2025_supplement.pdf" target="_blank">Supplement</a> -->
 
 - Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (2024):
 <a href="https://doi.org/10.5194/ascmo-10-195-2024" target="_blank">A non-stationary climate-informed weather generator for assessing future flood risks</a>,
@@ -59,7 +65,6 @@ machine learning</a>,
 _Env. Data Sci._,
 <a href="/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
-
 
 - Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
