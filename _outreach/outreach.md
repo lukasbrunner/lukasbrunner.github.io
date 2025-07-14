@@ -5,7 +5,9 @@ author_profile: true
 share: false
 ---
 
-# List of outreach activities
+Whenever possible I try to communicate my general research area or individual projects for general audience. Below you find some of my outreach activities, media mentions, and public talks (many of them in German).
+
+Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.
 
 ### June 19, 2025 - Öffentliche Vortrag: Vorlesung für alle (Universität Hamburg)
 Wie ändern sich Wetterextreme mit dem Klimawandel?
@@ -50,7 +52,7 @@ I managed to invite Katharine Hayhoe for a keynote on very short notice. Here's 
 
 ### August 24, 2023 - Food For Though session at the EFA23
 Session on "Data sparks action: the role of information in tackling the climate crisis" together with David Jablonski<br>
-<img src="/images/EFA23_FoodForThought.png" width="50%">
+<img src="/images/EFA23_FoodForThought.png" width="100%">
 
 ### August 2023
 Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023 (EFA23)</a>
@@ -67,7 +69,7 @@ Naturwissenschaftliche Grundlage der Klimakrise
 ### July 11, 2022 - Wiener kinderuni
 Mittendrin im Klimalabor, Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank">Link</a>
 <br>
-<img src="/images/kinderuni2022.png" width="50%">
+<img src="/images/kinderuni2022.png" width="100%">
 <br><span style="color:gray;font-size:10px">Picture: &#169; Griwank</span>
 
 ### June 15 - 18, 2022 - Teilname am interaktiven Teater _The Future of the Earth_ (Pratteln, Schweiz)
@@ -75,4 +77,4 @@ Projeht Homepage: <a href="thefutureoftheearth.ch" target="_blank">Link</a>
 <br>
 More impressions [here](/misc/tfote)
 <br>
-<img src="/images/tfote.png" width="50%">
+<img src="/images/tfote.png" width="100%">
