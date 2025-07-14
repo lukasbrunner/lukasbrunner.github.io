@@ -114,6 +114,7 @@ O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Be
 <a href="/publications/supplement/OReilly2024_supplement.pdf" target="_blank">Supplement</a>
 
 
+
 ### April 17, 2024 - Mentioned in Media
 - Der Standard (in German):  <a href="https://www.derstandard.at/story/3000000216379/hohe-wahrscheinlichkeit-fuer-noch-extremere-hitzewellen-in-europa" target="_blank">Hohe Wahrscheinlichkeit für noch extremere Hitzewellen in Europa</a>
 - Die Presse (in German): <a href="https://www.diepresse.com/18378518/forscher-europa-muss-mit-laengeren-und-intensiveren-hitzewellen-rechnen" target="_blank">Forscher: Europa muss mit längeren und intensiveren Hitzewellen rechnen</a>
@@ -290,7 +291,7 @@ _communications earth & environment_
 <a href="/publications/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
 
 ### October 7, 2022 - Workshop Inspirationstag der Erzdiözese Wien
-Vienna, Austria | Topic: Naturwissenschafltiche Grundlage der Klimakrise
+Vienna, Austria | Topic: Naturwissenschaftliche Grundlage der Klimakrise
 <a href="/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
 
 ### August 3, 2022 - <span style="color:red">New preprint</span>
