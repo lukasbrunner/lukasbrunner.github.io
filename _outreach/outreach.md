@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: outreach/
 title: "Outreach"
 author_profile: true
 share: false
-redirect_from:
-    - /outreach.html
 ---
 
 # List of outreach activities
