@@ -15,6 +15,15 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
+
+### June 19, 2025 - Public talk: Vorlesung für alle
+Topic: Wie ändern sich Wetterextreme mit dem Klimawandel
+
+<!-- Wissen für alle <a href="" target="_blank">homepage</a> (in German)-->
+
+<br>
+{% include youtube.html id="0KGi4Y6J2Ls" %}
+
 ### June 6, 2025 - <span style="color:red">New publication</span>
 **Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._,
 <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>,

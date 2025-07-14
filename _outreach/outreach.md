@@ -18,7 +18,7 @@ Wetter- und Klimaextreme im Kontext des Klimawandels
 Mehr Information: <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">Event homepage</a> (in German) and <a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2025-01-27-lukas-wir-wollens-wissen.html" target="_blank">news article</a> (in English).
 
 <br>
-<img src="/images/WirWollensWissen.jpg" width="50%">
+<img src="/images/WirWollensWissen.jpg" width="100%">
 <br>
 <br>
 
