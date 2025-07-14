@@ -10,10 +10,6 @@ Whenever possible I try to communicate my general research area or individual pr
 Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.
 
 ### June 19, 2025 - Öffentliche Vortrag: Vorlesung für alle (Universität Hamburg)
-Wie ändern sich Wetterextreme mit dem Klimawandel?
-
-<br>
-
 {% include youtube.html id="0KGi4Y6J2Ls" %}
 
 ### January 22, 2025 - Schulvortrag: Wir wollen's wissen (Universität Hamburg)
@@ -27,22 +23,16 @@ Mehr Information: <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wolle
 <br>
 
 ### May 19, 2025 - Visualisierung
-<br>
-
 {% include youtube.html id="R5laSSVHUAk" %}
-
-<br>
 
 ### October 11, 2024 - Gastvortrag: Klimarecht im intra- und interdisziplinären Dialog (Universität Wien)
 Naturwissenschaftliche Grundlagen der Klimakrise
-
 
 ### April 17, 2024 - Erwähnung in Medien
 Der Standard (in German):  <a href="https://www.derstandard.at/story/3000000216379/hohe-wahrscheinlichkeit-fuer-noch-extremere-hitzewellen-in-europa" target="_blank">Hohe Wahrscheinlichkeit für noch extremere Hitzewellen in Europa</a>
 
 Die Presse (in German): <a href="https://www.diepresse.com/18378518/forscher-europa-muss-mit-laengeren-und-intensiveren-hitzewellen-rechnen" target="_blank">Forscher: Europa muss mit längeren und intensiveren Hitzewellen rechnen</a>
 - orf.at (in German): <a href="https://science.orf.at/stories/3224642/" target="_blank">Europa drohen extreme Hitzewellen</a>
-
 
 ### March 20, 2024 - Erwähnung in Medien
 Die Presse (in German): <a href="https://www.diepresse.com/18290185/irrtum-der-experten-es-gibt-mehr-hitzetage" target="_blank">Irrtum der Experten: Es gibt mehr Hitzetage</a>
