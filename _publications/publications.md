@@ -11,6 +11,7 @@ I have published 22 peer-reviewed articles, which have been cited more than 1500
 
 Coming up
 ---------
+-Holtanová E., Koláček J., and **Brunner L.** (in review): <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3360/" target="_blank">Quantifying changes in seasonal temperature variations using a functional data analysis approach</a>, _EGUsphere_
 - Yoon A., Hohenegger C., Bao J., and **Brunner L.** (in review):  <a href="https://doi.org/10.5194/egusphere-2025-3221" target="_blank">Extreme events in the Amazon after deforestation</a>, _EGUsphere_
 - Segura H. et al. including **Brunner L.** (in review):  <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-509/" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev. Discuss._
 <!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
