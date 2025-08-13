@@ -10,6 +10,10 @@ Whenever possible I try to communicate my general research area or individual pr
 Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.
 
 ### June 19, 2025 - Öffentliche Vortrag: Vorlesung für alle (Universität Hamburg)
+Wie ändern sich Wetterextreme mit dem Klimawandel?
+
+Mehr Informationen: <a href="https://www.uni-hamburg.de/wissen-fuer-alle/vorlesung-fuer-alle/videos/lukas-brunner.html" target="_blank">Event homepage</a>
+
 {% include youtube.html id="0KGi4Y6J2Ls" %}
 
 ### January 22, 2025 - Schulvortrag: Wir wollen's wissen (Universität Hamburg)
