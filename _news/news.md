@@ -16,6 +16,9 @@ share: false
 
 <!-- 2025 -->
 
+### July 16, 2025 - Panel discussion: Diverse Climates Hamburg
+Topic: Failure in academia
+
 ### June 19, 2025 - Public talk: Vorlesung für alle
 Topic: Wie ändern sich Wetterextreme mit dem Klimawandel
 

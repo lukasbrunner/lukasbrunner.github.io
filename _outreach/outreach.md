@@ -11,6 +11,14 @@ Whenever possible I try to communicate my general research area or individual pr
 
 Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.
 
+### August 15, 2025 - Visualisierung
+
+{% include youtube.html id="fzA92tSF4ZM" %}
+
+
+### July 16, 2025 - Panel discussion: Diverse Climates Hamburg
+Topic: Failure in academia
+
 ### June 19, 2025 - Öffentliche Vortrag: Vorlesung für alle (Universität Hamburg)
 Wie ändern sich Wetterextreme mit dem Klimawandel?
 
