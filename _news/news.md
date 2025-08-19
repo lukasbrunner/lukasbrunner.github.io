@@ -16,6 +16,10 @@ share: false
 
 <!-- 2025 -->
 
+### August 15, 2025 - Visualisierung
+
+{% include youtube.html id="fzA92tSF4ZM" %}
+
 ### July 16, 2025 - Panel discussion: Diverse Climates Hamburg
 Topic: Failure in academia
 
