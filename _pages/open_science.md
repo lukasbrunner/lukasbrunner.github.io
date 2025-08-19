@@ -18,6 +18,15 @@ If you publish scientific work based on material I provide please consider citin
 Code
 ----
 
+### Sub-grid variability: code accompanying Brunner et al <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">2025</a>
+
+In our 2025 paper we developed the concepts of sub-grid variability and sub-gird anomaly to quantify the information missed at coarse (CMIP6-like) resolutions compared to new km-scale models.
+    The code to calculate these metrics and to recreate the figures from the paper <a href="https://github.com/lukasbrunner/Brunner_etal_2025_ERL" target="_blank">GitHub</a> or in the code freeze for the paper on <a href="https://doi.org/10.5281/zenodo.15613611" target="_blank">Zenodo</a>.
+
+### Scripts for calculating ETCCDI indices
+
+A collection of bash scripts to calculate the indices suggested by the Expert Team on Climate Change Detection and Indices (ETCCDI) based on the Climate Data Operators (cdo) on <a href="https://github.com/lukasbrunner/etccdi_cdo" target="_blank">GitHub</a>
+
 ### Running window bias: data and code accompanying Brunner et al <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">2024</a>
 
 In our 2024 paper we identify and discuss a bias merging from the use of too long seasonal windows when defining temperature extremes &ndash; the running window bias. The code and the most important datasets to recreate the figures from the paper and to play around with are freely available on <a href="https://github.com/lukasbrunner/running_window_bias" target="_blank">GitHub</a>.
@@ -56,6 +65,13 @@ Supported by the eScience Center and the ESMValTool team (in particular Peter Ka
 
 Data
 ----
+
+### Annual ETCCDI Extreme Indices For ICON-Sapphire And IFS-FESOM (nextGEMS Cycle 4)
+
+ETCCDI indices calculated from two km-scale global models developed within the nextGEMS project (https://nextgems-h2020.eu/): ICON-Sapphire (Hohenegger et al. 2023) and IFS-FESOM (Rackow et al. 2025). The indices are based on the 30-year production simulations of nextGEMS, cycle 4 with a spatial resolution of about 10km (Segura et al. 2025). Here, we provide them in the 29-year period 2021-2049 (as the first year, 2020, is incomplete for IFS), driven by the high-emission pathway SSP3-7.0.
+The original data and the derived indices are available on the unstructured HEALPix grid (Górski et al. 2005). HEALPix organises data at discrete resolutions or zoom levels. Here, the highest resolved zoom level 9 (about 13km grid spacing corresponding to about 3 million grid cells globally) and the intermediate (“CMIP6-like”) zoom level 6 (about 102km, 50’000 grid cells) are provided.
+
+Provided on <a href="https://doi.org/10.26050/WDCC/nextGEMS_ExtrInd" target="_blank">World Data Center for Climate</a>
 
 ### CMIP6 next generation data archive
 
