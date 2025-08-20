@@ -52,7 +52,8 @@ Ich begeistere mich für interdisziplinäre Kollaboration, Interaktionen mit Akt
 
 {% include youtube.html id="fzA92tSF4ZM" %}
 
-<br>
+Visualization of the resolution effect on precipitation based on Brunner et al. (<a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blanck">2025</a>)
+
 
 <!-- <br> -->
 <!-- <img src="https://raw.githubusercontent.com/lukasbrunner/lukasbrunner_data/refs/heads/main/hamburg/tas_hamburg.gif" width="75%"> -->
