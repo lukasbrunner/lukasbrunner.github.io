@@ -34,9 +34,8 @@ __,
 <a href="/publications/supplement/Brunner2025_supplement.pdf" target="_blank">Supplement</a>
 
 -  Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen, O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_
-<!-- , -->
-<!-- <a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>, -->
-<!-- <a href="/publications/supplement/Sobolowski2025_supplement.pdf" target="_blank">Supplement</a> -->
+,
+<a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>
 
 - Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (2024):
 <a href="https://doi.org/10.5194/ascmo-10-195-2024" target="_blank">A non-stationary climate-informed weather generator for assessing future flood risks</a>,
