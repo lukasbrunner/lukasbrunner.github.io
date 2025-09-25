@@ -15,7 +15,6 @@ Coming up
 - Yoon A., Hohenegger C., Bao J., and **Brunner L.** (in review):  <a href="https://doi.org/10.5194/egusphere-2025-3221" target="_blank">Extreme events in the Amazon after deforestation</a>, _EGUsphere_
 - Segura H. et al. including **Brunner L.** (accepted):  <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-509/" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev. Discuss._
 <!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
-- Nicola M., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, and Beyerle U. (accepted): <a href="https://doi.org/10.5194/egusphere-2024-3684" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: New tools for the study of climate variability and change</a>, _Geosci. Model Dev. Discuss._
 
 Peer-reviewed
 -------------
@@ -28,6 +27,10 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+
+- Nicola M., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, Beyerle U., and Jeffree J. (2025): <a href="https://doi.org/10.5194/gmd-18-6341-2025" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: new tools for the study of climate variability and change</a>, _Geosci. Model Dev._,
+<a href="/publications/Maher2025.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Maher2025_supplement.pdf" target="_blank">Supplement</a>
 
 - **Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._,
 <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>,
