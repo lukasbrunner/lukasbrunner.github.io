@@ -28,7 +28,6 @@ Topic: Wie ändern sich Wetterextreme mit dem Klimawandel
 
 <!-- Wissen für alle <a href="" target="_blank">homepage</a> (in German)-->
 
-<br>
 {% include youtube.html id="0KGi4Y6J2Ls" %}
 
 ### June 6, 2025 - <span style="color:red">New publication</span>
