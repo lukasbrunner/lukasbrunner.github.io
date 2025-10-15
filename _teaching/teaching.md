@@ -34,6 +34,7 @@ See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8
 - Using km-scale Global Climate Model Simulations to Study the Physical Impacts of Climate Change for Informing Adaptation Strategies (PhD)
 - Work on local and remote drivers of European heatwaves (master's thesis)
 - Work on partitioning uncertainties in climate extreme indices (master's thesis)
+- Work on the effect of AMOC shutdown on extremes in Europe using km-scale models (master's thesis)
 
 ### Scientific writing guide for students
 
