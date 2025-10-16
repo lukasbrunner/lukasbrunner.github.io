@@ -5,7 +5,7 @@ author_profile: true
 share: false
 ---
 
-I have published 24 peer-reviewed articles, which have been cited more than 1500 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 17. I have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate.
+I have contributed to 24 peer-reviewed articles, which have been cited more than 2000 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 17. I also have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate.
 
 <object data="h-index.txt"></object>
 
