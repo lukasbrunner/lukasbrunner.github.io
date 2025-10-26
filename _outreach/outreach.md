@@ -16,6 +16,8 @@ Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die All
 ### October 21, 2025 - Öffentliche Vortrag: Klimaringvorlesung (Universität Hamburg)
 Naturwissenschaftliche Grundlagen der Klimakrise
 
+Vorlesungsfolien:  <a href="presentations/202510_presentation_KlimaringVO_UniHH.pdf" target="_blank">PDF</a>
+
 Mehr Informationen auf der <a href="https://www.zfw.uni-hamburg.de/oeffentliche-vortraege/wintersemester/15-ringvorlesung-zur-klimakrise.html" target="_blank">Homepage der Uni Hamburg</a>
 
 Playlist der Gesamten Vorlesungsreihe auf  <a href="https://www.youtube.com/playlist?list=PL37AJ6Wl9TdfJxbUS_DT1LBeRngj1_35H" target="_blank">YouTube</a>
