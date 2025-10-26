@@ -18,7 +18,7 @@ Mehr Informationen auf der <a href="https://www.zfw.uni-hamburg.de/oeffentliche-
 
 Playlist der Gesamten Vorlesungsreihe auf  <a href="https://www.youtube.com/playlist?list=PL37AJ6Wl9TdfJxbUS_DT1LBeRngj1_35H" target="_blank">YouTube</a>
 
-{% include youtube.html id="IuTXbtR1fFw&t" %}
+{% include youtube.html id="IuTXbtR1fFw" %}
 
 ### August 15, 2025 - Visualisierung
 
