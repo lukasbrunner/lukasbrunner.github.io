@@ -16,6 +16,12 @@ share: false
 
 <!-- 2025 -->
 
+
+### October 21, 2025 - Öffentliche Vortrag: Klimaringvorlesung (Universität Hamburg)
+Naturwissenschaftliche Grundlagen der Klimakrise
+
+{% include youtube.html id="IuTXbtR1fFw&t" %}
+
 ### August 15, 2025 - Visualisierung
 
 {% include youtube.html id="fzA92tSF4ZM" %}

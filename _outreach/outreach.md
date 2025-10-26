@@ -11,6 +11,15 @@ Whenever possible I try to communicate my general research area or individual pr
 
 Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.
 
+### October 21, 2025 - Öffentliche Vortrag: Klimaringvorlesung (Universität Hamburg)
+Naturwissenschaftliche Grundlagen der Klimakrise
+
+Mehr Informationen auf der <a href="https://www.zfw.uni-hamburg.de/oeffentliche-vortraege/wintersemester/15-ringvorlesung-zur-klimakrise.html" target="_blank">Homepage der Uni Hamburg</a>
+
+Playlist der Gesamten Vorlesungsreihe auf  <a href="https://www.youtube.com/playlist?list=PL37AJ6Wl9TdfJxbUS_DT1LBeRngj1_35H" target="_blank">YouTube</a>
+
+{% include youtube.html id="IuTXbtR1fFw&t" %}
+
 ### August 15, 2025 - Visualisierung
 
 {% include youtube.html id="fzA92tSF4ZM" %}
