@@ -60,7 +60,7 @@ Naturwissenschaftliche Grundlagen der Klimakrise
 Der Standard (in German):  <a href="https://www.derstandard.at/story/3000000216379/hohe-wahrscheinlichkeit-fuer-noch-extremere-hitzewellen-in-europa" target="_blank">Hohe Wahrscheinlichkeit für noch extremere Hitzewellen in Europa</a>
 
 Die Presse (in German): <a href="https://www.diepresse.com/18378518/forscher-europa-muss-mit-laengeren-und-intensiveren-hitzewellen-rechnen" target="_blank">Forscher: Europa muss mit längeren und intensiveren Hitzewellen rechnen</a>
-- orf.at (in German): <a href="https://science.orf.at/stories/3224642/" target="_blank">Europa drohen extreme Hitzewellen</a>
+orf.at (in German): <a href="https://science.orf.at/stories/3224642/" target="_blank">Europa drohen extreme Hitzewellen</a>
 
 ### March 20, 2024 - Erwähnung in Medien
 Die Presse (in German): <a href="https://www.diepresse.com/18290185/irrtum-der-experten-es-gibt-mehr-hitzetage" target="_blank">Irrtum der Experten: Es gibt mehr Hitzetage</a>

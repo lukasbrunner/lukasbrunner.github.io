@@ -11,6 +11,7 @@ I have contributed to 24 peer-reviewed articles, which have been cited more than
 
 Coming up
 ---------
+-  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., Brunner L., Sillmann J., and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
 - Holtanová E., Koláček J., and **Brunner L.** (in review): <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3360/" target="_blank">Quantifying changes in seasonal temperature variations using a functional data analysis approach</a>, _EGUsphere_
 - Yoon A., Hohenegger C., Bao J., and **Brunner L.** (in review):  <a href="https://doi.org/10.5194/egusphere-2025-3221" target="_blank">Extreme events in the Amazon after deforestation</a>, _EGUsphere_
 <!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
@@ -26,7 +27,7 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
-- Segura H. et al. including **Brunner L.** (accepted):  <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev._, <a href="/publications/Segura2025.pdf" target="_blank"><b>PDF</b></a>
+- Segura H. et al. including **Brunner L.** (2025):  <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev._, <a href="/publications/Segura2025.pdf" target="_blank"><b>PDF</b></a>
 
 - Maher N., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, Beyerle U., and Jeffree J. (2025): <a href="https://doi.org/10.5194/gmd-18-6341-2025" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: new tools for the study of climate variability and change</a>, _Geosci. Model Dev._,
 <a href="/publications/Maher2025.pdf" target="_blank"><b>PDF</b></a>,
