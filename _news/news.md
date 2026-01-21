@@ -17,6 +17,16 @@ share: false
 <!-- 2025 -->
 
 
+### January 20, 2026 - School lecture: Wir Wollen's Wissen!
+Wetter- und Klimaextreme im Kontext des Klimawandels
+ <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
+
+<br>
+<img src="/images/WirWollensWissen26-1.jpg" width="45%">
+<img src="/images/WirWollensWissen26-2.jpg" width="45%">
+<br>
+
+
 ### October 21, 2025 - Öffentliche Vortrag: Klimaringvorlesung (Universität Hamburg)
 Naturwissenschaftliche Grundlagen der Klimakrise
 
