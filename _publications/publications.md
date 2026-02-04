@@ -26,7 +26,7 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
-- - Yoon A., Hohenegger C., Bao J., and **Brunner L.** (2026):  <a href="https://doi.org/10.5194/esd-17-167-2026" target="_blank">Extreme events in the Amazon after deforestation</a>, _Earth Syst. Dynam._
+- Yoon A., Hohenegger C., Bao J., and **Brunner L.** (2026):  <a href="https://doi.org/10.5194/esd-17-167-2026" target="_blank">Extreme events in the Amazon after deforestation</a>, _Earth Syst. Dynam._,
 <a href="/publications/Yoon2026.pdf" target="_blank"><b>PDF</b></a>
 
 - Segura H. et al. including **Brunner L.** (2025):  <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev._, <a href="/publications/Segura2025.pdf" target="_blank"><b>PDF</b></a>
