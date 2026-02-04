@@ -21,7 +21,6 @@ share: false
 Wetter- und Klimaextreme im Kontext des Klimawandels
  <a href="https://www.uni-hamburg.de/wissen-fuer-alle/wir-wollens-wissen.html" target="_blank">event homepage</a> (in German)
 
-<br>
 <img src="/images/WirWollensWissen26-1.jpg" width="45%">
 <img src="/images/WirWollensWissen26-2.jpg" width="45%">
 <br>
