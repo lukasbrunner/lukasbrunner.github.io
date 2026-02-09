@@ -308,7 +308,7 @@ defaults:
   # _variability_atlas
   - scope:
       path: ""
-      type: variability-atlas
+      type: variability_atlas
     values:
       layout: single
       author_profile: false
