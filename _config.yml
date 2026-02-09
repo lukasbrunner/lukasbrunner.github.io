@@ -308,7 +308,7 @@ defaults:
   # _variability_atlas
   - scope:
       path: ""
-      type: misc
+      type: variability-atlas
     values:
       layout: single
       author_profile: false
@@ -325,7 +325,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Busingen # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
