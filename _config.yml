@@ -189,6 +189,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  variability_atlas:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
