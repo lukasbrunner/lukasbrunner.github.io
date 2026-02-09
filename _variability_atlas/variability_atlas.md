@@ -1,5 +1,5 @@
 ---
-permalink: variability-atlas/
+permalink: variability_atlas/
 title: "Variability Atlas"
 author_profile: false
 share: false
