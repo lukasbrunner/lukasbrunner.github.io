@@ -25,7 +25,7 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
-- Holtanová E., Koláček J., and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">Quantifying changes in seasonal temperature variations using a functional data analysis approach</a>, _Earth Syst. Dynam._
+- Holtanová E., Koláček J., and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
 <a href="/publications/Holtanova2026.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Holtanova2026_supplement.pdf" target="_blank">Supplement</a>
 
