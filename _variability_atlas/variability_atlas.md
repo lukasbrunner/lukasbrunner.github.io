@@ -21,7 +21,9 @@ Depending on your use-case and level of expertise you can chose from three layer
 <span style="color:gray;font-size:10pt">View of the online graphical user interface of the Variability Atlas.</span></p>
 <br>
 
+<a href="https://github.com/lukasbrunner/etccdi_internal_variability">
 <img src="/images/variability_atlast_github.png" width="100%">
+</a>
 <br>
 <p style="line-height:12px">
 <span style="color:gray;font-size:10pt">View of an example Jupyter notebook in the GitHub repository.</span></p>
