@@ -25,6 +25,13 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+
+- **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
+<a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models
+</a>,
+_communications earth & environment_,
+<!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
+
 - Holtanová E., Koláček J., and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
 <a href="/publications/Holtanova2026.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Holtanova2026_supplement.pdf" target="_blank">Supplement</a>
