@@ -17,12 +17,13 @@ share: false
 <!-- 2025 -->
 ### April 16, 2026 - <span style="color:red">New publication</span>
 **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
-<a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models
-</a>,
+<a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models</a>,
 _communications earth & environment_,
 <!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
 
 Press release (in German): <a href="https://www.uni-hamburg.de/newsroom/presse/2026/pm12.html" target="_blank">link</a>
+
+<img src="/images/Brunner2026_fig1cd.png" width="95%">
 
 
 ### February 11, 2026 - <span style="color:red">New publication</span>
