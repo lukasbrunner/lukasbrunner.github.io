@@ -15,6 +15,15 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2025 -->
+### April 16, 2026 - <span style="color:red">New publication</span>
+**Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
+<a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models
+</a>,
+_communications earth & environment_,
+<!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
+
+Press release (in German): <a href="https://www.uni-hamburg.de/newsroom/presse/2026/pm12.html" target="_blank">link</a>
+
 
 ### February 11, 2026 - <span style="color:red">New publication</span>
 Holtanová E., Koláček J., and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
