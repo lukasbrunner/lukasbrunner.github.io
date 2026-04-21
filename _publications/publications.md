@@ -27,8 +27,7 @@ __,
 -->
 
 - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
-<a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models
-</a>,
+<a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models</a>,
 _communications earth & environment_,
 <!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
 
