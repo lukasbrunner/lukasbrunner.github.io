@@ -32,8 +32,6 @@ See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8
 ### Ongoing supervision
 
 - Using km-scale Global Climate Model Simulations to Study the Physical Impacts of Climate Change for Informing Adaptation Strategies (PhD)
-- Work on local and remote drivers of European heatwaves (master's thesis)
-- Work on partitioning uncertainties in climate extreme indices (master's thesis)
 - Work on the effect of AMOC shutdown on extremes in Europe using km-scale models (master's thesis)
 
 ### Scientific writing guide for students
@@ -50,6 +48,8 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 
 ### Finished theses
 
+- Spatiotemporal Roles of Heatwave Drivers in Europe (master's thesis; co-supervision with Jana Sillmann)
+- Separating Sources of Uncertainty in Future Climate Extremes (master's thesis; co-supervision with Jana Sillmann)
 - Effect of climate variability and extremes on heating and cooling energy demand in Canada (master's thesis; co-supervision with Jana Sillmann)
 - Exploring Classifier Skill in Distinguishing Climate Model and Observational Data (master's thesis): **[PDF](/thesis/Masterthesis_Merio2024.pdf)**
 - Changes in heatwave properties under climate change (master's thesis; co-supervison with Aiko Voigt): **[PDF](/thesis/Masterthesis_Meindl2024.pdf)**
