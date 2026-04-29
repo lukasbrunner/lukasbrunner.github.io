@@ -11,6 +11,7 @@ share: false
 
 Coming up
 ---------
+- Chiel C. van Heerwaarden, Menno A. Veerman, Imme Benedict, Lukas Brunner, Edgar Dolores-Tesillos, Emanuel Dutra, Erich Fischer, Junhong Lee, Olivia Martius, Xabier Pedruzo-Bagazgoitia, Ulrike Proske, Sarah N. Warnau, Jonathan D. Willie, Cathy Hohenegger (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environmental Research Letters_ / arXiv
 -  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J., and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
 <!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
 
