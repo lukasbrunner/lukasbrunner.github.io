@@ -6,4 +6,7 @@
 # jekyll
 _site/
 
+# twitter bot cache
+.tweet-cache/
+
 .ipynb_checkpoints/
