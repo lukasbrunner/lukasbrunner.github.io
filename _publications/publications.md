@@ -11,10 +11,10 @@ share: false
 
 Coming up
 ---------
-- Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https://doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Climate Dynamics_ / Research Square
-- Chiel C. van Heerwaarden, Menno A. Veerman, Imme Benedict, **Lukas Brunner**, Edgar Dolores-Tesillos, Emanuel Dutra, Erich Fischer, Junhong Lee, Olivia Martius, Xabier Pedruzo-Bagazgoitia, Ulrike Proske, Sarah N. Warnau, Jonathan D. Willie, Cathy Hohenegger (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environmental Research Letters_ / arXiv
--  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J., and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
-<!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R., and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
+- Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https://doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
+- van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
+-  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
+<!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
 
 Peer-reviewed
 -------------
@@ -30,51 +30,51 @@ __,
 
 - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
 <a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models</a>,
-_communications earth & environment_,
+_Commun. Earth Environ._,
 <a href="/publications/Brunner2026.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2026_supplement.pdf" target="_blank">Supplement</a>,
 <a href="/publications/supplement/Brunner2026_peer-review.pdf" target="_blank">Review files</a>
 
-- Holtanová E., Koláček J., and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
+- Holtanová E., Koláček J. and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
 <a href="/publications/Holtanova2026.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Holtanova2026_supplement.pdf" target="_blank">Supplement</a>
 
-- Yoon A., Hohenegger C., Bao J., and **Brunner L.** (2026):  <a href="https://doi.org/10.5194/esd-17-167-2026" target="_blank">Extreme events in the Amazon after deforestation</a>, _Earth Syst. Dynam._,
+- Yoon A., Hohenegger C., Bao J. and **Brunner L.** (2026):  <a href="https://doi.org/10.5194/esd-17-167-2026" target="_blank">Extreme events in the Amazon after deforestation</a>, _Earth Syst. Dynam._,
 <a href="/publications/Yoon2026.pdf" target="_blank"><b>PDF</b></a>
 
 - Segura H. et al. including **Brunner L.** (2025):  <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev._, <a href="/publications/Segura2025.pdf" target="_blank"><b>PDF</b></a>
 
-- Maher N., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, Beyerle U., and Jeffree J. (2025): <a href="https://doi.org/10.5194/gmd-18-6341-2025" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: new tools for the study of climate variability and change</a>, _Geosci. Model Dev._,
+- Maher N., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, Beyerle U. and Jeffree J. (2025): <a href="https://doi.org/10.5194/gmd-18-6341-2025" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: new tools for the study of climate variability and change</a>, _Geosci. Model Dev._,
 <a href="/publications/Maher2025.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Maher2025_supplement.pdf" target="_blank">Supplement</a>
 
-- **Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._,
+- **Brunner L.**, Poschlod B., Dutra E., Fischer E., Martius O. and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._,
 <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2025_supplement.pdf" target="_blank">Supplement</a>
 
--  Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen, O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_
+-  Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_
 ,
 <a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>
 
-- Nguyen V., Vorogushyn S., Nissen K., **Brunner L.**, and Merz B. (2024):
+- Nguyen V., Vorogushyn S., Nissen K., **Brunner L.** and Merz B. (2024):
 <a href="https://doi.org/10.5194/ascmo-10-195-2024" target="_blank">A non-stationary climate-informed weather generator for assessing future flood risks</a>,
 _Adv. Stat. Climatol. Meteorol. Oceanogr._,
 <a href="/publications/Nguyen2024.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Nguyen2024_supplement.pdf" target="_blank">Supplement</a>
 
-- O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (2024):
-<a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Climate and Atmospheric Science_,
+- O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E. and McSweeney C. (2024):
+<a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Clim. Atmos. Sci._,
 <a href="/publications/OReilly2024.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/OReilly2024_supplement.pdf" target="_blank">Supplement</a>
 
 - **Brunner L.** and Voigt A. (2024):
 <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
-_Nature Communications_,
+_Nat. Commun._,
 <a href="/publications/Brunner2024.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
 <a href="/publications/supplement/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
 
-- Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
+- Merrifield A. L., **Brunner L.**, Lorenz R., Humphrey V. and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Merrifield2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
 
@@ -82,20 +82,20 @@ _Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"
 <a href="https://doi.org/10.1017/eds.2023.23" target="_blank">
 Identifying climate models based on their daily output using
 machine learning</a>,
-_Env. Data Sci._,
+_Environ. Data Sci._,
 <a href="/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
 
-- Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
+- Palmer T. E., McSweeney C. F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L. and Menary M. B. (2023):
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam._,
 <a href="/publications/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
 
-- Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022):
+- Gründemann G. J., van de Giesen N., **Brunner L.** and van der Ent R. (2022):
 <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
 Rarest rainfall events will see the greatest relative increase in magnitude under future climate change</a>,
-_communications earth & environment_
+_Commun. Earth Environ._
 <a href="/publications/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
 
 - Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., Murphy J. M. (2022):
@@ -104,55 +104,55 @@ Combination of decadal predictions and climate projections in time: Challenges a
 _Geophys. Res. Lett._,
 <a href="/publications/Befort2022.pdf" target="_blank"><b>PDF</b></a>
 
-- Hegerl G. C., Ballinger A. P., Booth B. B. B., Borchert L. F., **Brunner L.**, Donat M. G., Doblas-Reyes F., Harris G., Lowe J., Mahmood R., Mignot J., Murphy J., Swingedouw D., and Weisheimer A. (2021):
+- Hegerl G. C., Ballinger A. P., Booth B. B. B., Borchert L. F., **Brunner L.**, Donat M. G., Doblas-Reyes F., Harris G., Lowe J., Mahmood R., Mignot J., Murphy J., Swingedouw D. and Weisheimer A. (2021):
 <a href="https://doi.org/10.3389/fclim.2021.678109" target="_blank">
 Toward Consistent Observational Constraints in Climate Predictions and Projections</a>,
 _Front. Clim._,
 <a href="/publications/Hegerl2021.pdf" target="_blank"><b>PDF</b></a>
 
-- Sperna Weiland F. C., Visser R. D., Greve P., Bisselink B., **Brunner L.**, and Weerts A. H. (2021):
+- Sperna Weiland F. C., Visser R. D., Greve P., Bisselink B., **Brunner L.** and Weerts A. H. (2021):
 <a href="https://doi.org/10.3389/frwa.2021.713537" target="_blank">
 Estimating Regionalized Hydrological Impacts of Climate Change Over Europe by Performance-Based Weighting of CORDEX Projections</a>,
 _Front. Water_,
 <a href="/publications/Weiland2021.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.**, Pendergrass A. G., Lehner F., Merrifield A. L., Lorenz R., and Knutti R. (2020):
+- **Brunner L.**, Pendergrass A. G., Lehner F., Merrifield A. L., Lorenz R. and Knutti R. (2020):
 <a href="https://doi.org/10.5194/esd-11-995-2020" target="_blank">
 Reduced global warming from CMIP6 projections when weighting models by performance and independence</a>,
 _Earth Syst. Dynam._,
 <a href="/publications/Brunner2020b.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.**, McSweeney C., Ballinger A. P., Befort D. J., Benassi M., Booth B. B. B., Coppola E., de Vries H., Harris G., Hegerl G. C., Knutti R., Lenderink G., Lowe J., Nogherotto R., O'Reilly C., Qasmi S., Ribes A., Stocchi P., and Undorf S. (2020):
+- **Brunner L.**, McSweeney C., Ballinger A. P., Befort D. J., Benassi M., Booth B. B. B., Coppola E., de Vries H., Harris G., Hegerl G. C., Knutti R., Lenderink G., Lowe J., Nogherotto R., O'Reilly C., Qasmi S., Ribes A., Stocchi P. and Undorf S. (2020):
 <a href="https://doi.org/10.1175/JCLI-D-19-0953.1" target="_blank">
 Comparing methods to constrain future European climate projections using a consistent framework</a>,
 _J. Climate_,
 <a href="/publications/Brunner2020c.pdf" target="_blank"><b>PDF</b></a>
 
-- Merrifield A. L., **Brunner L.**, Lorenz R., Medhaug I., and Knutti R. (2020):
+- Merrifield A. L., **Brunner L.**, Lorenz R., Medhaug I. and Knutti R. (2020):
 <a href="https://doi.org/10.5194/esd-11-807-2020" target="_blank">
 An investigation of weighting schemes suitable for incorporating large ensembles into multi-model ensembles</a>,
 _Earth Syst. Dynam._,
 <a href="/publications/Merrifield2020.pdf" target="_blank"><b>PDF</b></a>
 
-- Lehner F., Deser C., Maher N., Marotzke J., Fischer E. M., **Brunner L.**, Knutti R., and Hawkins E. (2020):
+- Lehner F., Deser C., Maher N., Marotzke J., Fischer E. M., **Brunner L.**, Knutti R. and Hawkins E. (2020):
 <a href="https://doi.org/10.5194/esd-11-491-2020" target="_blank">
 Partitioning climate projection uncertainty with multiple Large Ensembles and CMIP5/6</a>,
 _Earth Syst. Dynam._,
 <a href="/publications/Lehner2020.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.**, Lorenz R., Zumwald M., and Knutti R. (2019):
+- **Brunner L.**, Lorenz R., Zumwald M. and Knutti R. (2019):
 <a href="https://doi.org/10.1088/1748-9326/ab492f" target="_blank">
 Quantifying uncertainty in European climate projections using combined performance-independence weighting</a>,
-_Eniron. Res. Lett._,
+_Environ. Res. Lett._,
 <a href="/publications/Brunner2019.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.**, Schaller N., Anstey J., Sillmann J., and Steiner A. K. (2018):
+- **Brunner L.**, Schaller N., Anstey J., Sillmann J. and Steiner A. K. (2018):
 <a href="https://doi.org/10.1029/2018GL077837" target="_blank">
-Dependence of present and future European temperature extremes on the location of atmospheric</a>,
+Dependence of present and future European temperature extremes on the location of atmospheric blocking</a>,
 _Geophys. Res. Lett._,
 <a href="/publications/Brunner2018.pdf" target="_blank"><b>PDF</b></a>
 
-- Unterberger C., **Brunner L.**, Nabernegg S., Steininger K., Steiner A. K., Stabentheiner E., Monschein S., and Truhetz H. (2018):
+- Unterberger C., **Brunner L.**, Nabernegg S., Steininger K., Steiner A. K., Stabentheiner E., Monschein S. and Truhetz H. (2018):
 <a href="https://doi.org/10.1371/journal.pone.0200201" target="_blank">
 Spring frost risk for regional apple production under a warmer climate</a>,
 _PLoS ONE_,
@@ -164,13 +164,13 @@ A global perspective on atmospheric blocking using GPS radio occultation - one d
 _Atmos. Meas. Tech._,
 <a href="/publications/Brunner2017a.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.**, Hegerl G. C., and Steiner A. K. (2017):
+- **Brunner L.**, Hegerl G. C. and Steiner A. K. (2017):
 <a href="https://doi.org/10.1175/JCLI-D-16-0518.1" target="_blank">
  Connecting atmospheric blocking to European temperature extremes in spring</a>,
  _J. Climate_,
 <a href="/publications/Brunner2017.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner L.**, Steiner A. K., Scherllin-Pirscher B., and Jury M. W. (2016):
+- **Brunner L.**, Steiner A. K., Scherllin-Pirscher B. and Jury M. W. (2016):
 <a href="https://doi.org/10.5194/acp-16-4593-2016" target="_blank">
 Exploring atmospheric blocking with GPS radio occultation observations</a>,
 _Atmos. Chem. Phys._,
@@ -181,19 +181,19 @@ Other
 <!-- / Andere -->
 
 
-- **Brunner L.**, Hauser M., Lorenz R., and Beyerle U. (2020):
+- **Brunner L.**, Hauser M., Lorenz R. and Beyerle U. (2020):
 <a href="http://doi.org/10.5281/zenodo.3734128" target="_blank">
 The ETH Zurich CMIP6 next generation archive: technical documentation</a>,
 <a href="/publications/Brunner2020.pdf" target="_blank"><b>PDF</b></a>
 
 - **Brunner L.** (2018):
-A new perspective on atmopsheric blocking from observations &ndash; detection, analysis, and impacts (PhD thesis),
+A new perspective on atmospheric blocking from observations &ndash; detection, analysis, and impacts (PhD thesis),
 _Wegener Center Verlag Graz_,
 <a href="/thesis/Brunner2018_PhD.pdf" target="_blank"><b>PDF</b></a>
 
-- Mohankumar S. E. P., Mintz-Woo K., Damert M., **Brunner L.**, and Eise J. (2018):
+- Mohankumar S. E. P., Mintz-Woo K., Damert M., **Brunner L.** and Eise J. (2018):
 <a href="https://doi.org/10.1007/978-3-319-98294-6" target="_blank">
-Blogging Climate Change: A Case Study, In: Addressing the Challenges in Communication Climate Change Across Various Audiences</a>,
+Blogging Climate Change: A Case Study, In: Addressing the Challenges in Communicating Climate Change Across Various Audiences</a>,
 <a href="/publications/Mohankumar2018.pdf" target="_blank"><b>PDF</b></a>
 
 - **Brunner L.** (2014):

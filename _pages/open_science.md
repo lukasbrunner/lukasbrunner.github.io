@@ -20,8 +20,8 @@ Code
 
 ### Sub-grid variability: code accompanying Brunner et al <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">2025</a>
 
-In our 2025 paper we developed the concepts of sub-grid variability and sub-gird anomaly to quantify the information missed at coarse (CMIP6-like) resolutions compared to new km-scale models.
-    The code to calculate these metrics and to recreate the figures from the paper <a href="https://github.com/lukasbrunner/Brunner_etal_2025_ERL" target="_blank">GitHub</a> or in the code freeze for the paper on <a href="https://doi.org/10.5281/zenodo.15613611" target="_blank">Zenodo</a>.
+In our 2025 paper we developed the concepts of sub-grid variability and sub-grid anomaly to quantify the information missed at coarse (CMIP6-like) resolutions compared to new km-scale models.
+    The code to calculate these metrics and to recreate the figures from the paper is available on <a href="https://github.com/lukasbrunner/Brunner_etal_2025_ERL" target="_blank">GitHub</a> or in the code freeze for the paper on <a href="https://doi.org/10.5281/zenodo.15613611" target="_blank">Zenodo</a>.
 
 ### Scripts for calculating ETCCDI indices
 
@@ -29,16 +29,16 @@ A collection of bash scripts to calculate the indices suggested by the Expert Te
 
 ### Running window bias: data and code accompanying Brunner et al <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">2024</a>
 
-In our 2024 paper we identify and discuss a bias merging from the use of too long seasonal windows when defining temperature extremes &ndash; the running window bias. The code and the most important datasets to recreate the figures from the paper and to play around with are freely available on <a href="https://github.com/lukasbrunner/running_window_bias" target="_blank">GitHub</a>.
+In our 2024 paper we identify and discuss a bias emerging from the use of too long seasonal windows when defining temperature extremes &ndash; the running window bias. The code and the most important datasets to recreate the figures from the paper and to play around with are freely available on <a href="https://github.com/lukasbrunner/running_window_bias" target="_blank">GitHub</a>.
 
 ### Model Learning: Data and Code for identifying climate models
 
-Model learning combines the terms climate model and machine learning providing a framework to disdinguish models and observations based on output maps. The backgrounds are described in Brunner and Sippel (<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank">2023</a>), the data and code version used for the publication are available from <a href="https://doi.org/10.5281/zenodo.7998436" target="_blank">Zotero</a>, and the most recent version of the code can be found on <a href="https://github.com/lukasbrunner/model_learning" target="_blank">GitHub</a>.
+Model learning combines the terms climate model and machine learning providing a framework to distinguish models and observations based on output maps. The backgrounds are described in Brunner and Sippel (<a href="https://lukasbrunner.github.io/files/Brunner2023.pdf" target="_blank">2023</a>), the data and code version used for the publication are available from <a href="https://doi.org/10.5281/zenodo.7998436" target="_blank">Zenodo</a>, and the most recent version of the code can be found on <a href="https://github.com/lukasbrunner/model_learning" target="_blank">GitHub</a>.
 
 
 ### Global blocking detection
 
-During my PhD I implemented a blocking detection algorithm in Python and manly based on [xarray](https://xarray.pydata.org). It enables the classification of atmospheric blocks based on global geopotential height fields and following different definitions from the literature. A detailed description can be found in section 3.2 (page 25f) of my <a href="/files/Brunner2018_PhD.pdf" target="_blank">PhD-thesis</a>. The code is freely available under a MIT license on GitHub:
+During my PhD I implemented a blocking detection algorithm in Python and mainly based on [xarray](https://xarray.pydata.org). It enables the classification of atmospheric blocks based on global geopotential height fields and following different definitions from the literature. A detailed description can be found in section 3.2 (page 25f) of my <a href="/files/Brunner2018_PhD.pdf" target="_blank">PhD-thesis</a>. The code is freely available under a MIT license on GitHub:
 <a href="https://github.com/lukasbrunner/blocking" target="_blank">https://github.com/lukasbrunner/blocking</a>
 
 <!-- <blockquote style="padding: 10px"> -->

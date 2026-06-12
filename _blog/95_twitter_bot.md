@@ -12,11 +12,11 @@ permalink: /misc/twitter_bot
 To the <a href="https://twitter.com/tas_to_date" target="_blank">Bot on Twitter</a>.
 
 
-It all started with a family discussion over Easter 2021 where my parents could not decide if 2021 has been really cold or really warm in Austria so far. So I did the only reasonable thing and started making plots. I compared mean temperature from the beginning of the year until Easter to the same period in past years using data from ERA5. As seen in the figure below Austrian mean temperatures in 2021 until beginning of April where below the mean of the last 11 years but still 1.5°C above the 1950-1999 baseline.
+It all started with a family discussion over Easter 2021 where my parents could not decide if 2021 has been really cold or really warm in Austria so far. So I did the only reasonable thing and started making plots. I compared mean temperature from the beginning of the year until Easter to the same period in past years using data from ERA5. As seen in the figure below Austrian mean temperatures in 2021 until beginning of April were below the mean of the last 11 years but still 1.5°C above the 1950-1999 baseline.
 
 <img src="/images/temperature_todate_2021-04-04.png" width="80%" height="80%">
 
-Then I generalised it to any end date (i.e., mean temperature from January 1st to XX) in what I started calling year-to-date temperature. I also added to option to calculate the metric for different regions. As a test bed I used the regions defined for the latest sixth IPCC assessment report (AR6). The animation below shows the example of global temperature until end of April.
+Then I generalised it to any end date (i.e., mean temperature from January 1st to XX) in what I started calling year-to-date temperature. I also added the option to calculate the metric for different regions. As a test bed I used the regions defined for the latest sixth IPCC assessment report (AR6). The animation below shows the example of global temperature until end of April.
 
 <img src="/images/temperature_todate_2021-04-28.gif" width="80%" height="80%">
 

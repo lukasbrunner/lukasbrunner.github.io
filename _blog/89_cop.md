@@ -1,5 +1,5 @@
 ---
-title: "COP27 in Sharm El Sheihk"
+title: "COP27 in Sharm El Sheikh"
 collection: research
 permalink: /research/cop7
 redirect_to:

@@ -18,7 +18,7 @@ share: false
 ### April 16, 2026 - <span style="color:red">New publication</span>
 **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
 <a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models</a>,
-_communications earth & environment_,
+_Commun. Earth Environ._,
 <!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
 
 Press release (in German): <a href="https://www.uni-hamburg.de/newsroom/presse/2026/pm12.html" target="_blank">link</a>
@@ -27,7 +27,7 @@ Press release (in German): <a href="https://www.uni-hamburg.de/newsroom/presse/2
 
 
 ### February 11, 2026 - <span style="color:red">New publication</span>
-Holtanová E., Koláček J., and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
+Holtanová E., Koláček J. and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
 <a href="/publications/Holtanova2026.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Holtanova2026_supplement.pdf" target="_blank">Supplement</a>
 
@@ -61,12 +61,12 @@ Topic: Wie ändern sich Wetterextreme mit dem Klimawandel
 {% include youtube.html id="0KGi4Y6J2Ls" %}
 
 ### June 6, 2025 - <span style="color:red">New publication</span>
-**Brunner, L.**, Poschlod B., Dutra E., Fischer E., Martius O., and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._,
+**Brunner L.**, Poschlod B., Dutra E., Fischer E., Martius O. and Sillmann J. (2025): <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">A global perspective on the spatial representation of climate extremes from km-scale models</a>, _Environ. Res. Lett._,
 <a href="/publications/Brunner2025.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2025_supplement.pdf" target="_blank">Supplement</a>
 
 ### May 26, 2025 - <span style="color:red">New publication</span>
-Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen, O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_
+Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_
 <!-- , -->
 <!-- <a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>, -->
 <!-- <a href="/publications/supplement/Sobolowski2025_supplement.pdf" target="_blank">Supplement</a> -->
@@ -82,7 +82,7 @@ FNK news blog: <a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2025-
 <img src="/images/GlobalHackathon_LocExtTeam.jpg" width="50%">
 <br>
 
-### April 28 - March 2, 2025 | EGU25, Vienna
+### April 28 - May 2, 2025 | EGU25, Vienna
 Session co-convener: New developments in Earth system modelling: model evaluation, benchmarking, and constraining (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52390" target="_blank">Session</a>)
 
 Session co-convener: Up-Goer Five Challenge: Making Big Ideas Simpler by Talking About Them in Words We Use a Lot (<a href="https://meetingorganizer.copernicus.org/EGU25/session/52032" target="_blank">Session</a>)
@@ -131,7 +131,7 @@ The Austrian Climate Scenarios <a href="https://klimaszenarien.at/mitwirkende/" 
 ### October 28, 2024 - Invited talk at the NCKF Climate Research Symposium, Copenhagen, Denmark
 Extreme events in climate models: Diagnosing temperature extremes in climate models: pitfalls and prospects
 
-### October 14-18, 2024 - Participation at the nextGMES Hazard Hackathon, Wageningen, Netherlands
+### October 14-18, 2024 - Participation at the nextGEMS Hazard Hackathon, Wageningen, Netherlands
 Co-lead of the data handling/extreme index challenge. See <a href="https://nextgems-h2020.eu/the-future-of-climate-modeling-insights-from-the-nextgems-hazard-hackathon/" target="_blank">NextGEMS blog</a>.
 
 ### October 11, 2024 - Guest lecture University of Vienna
@@ -153,8 +153,8 @@ Climate Extremes group, Research Unit Sustainability and Climate Risks:
 <a href="https://www.fnk.uni-hamburg.de/1-about/news-folder/2024-05-16-lukas-welcome.html" target="_blank">News article</a>
 
 ### April 26, 2024 - <span style="color:red">New publication</span>
-O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E., and McSweeney C. (2024):
-<a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Climate and Atmospheric Science_,
+O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Befort D., Knutti R., Schurer A., Ribes A., Weisheimer A., Coppola E. and McSweeney C. (2024):
+<a href="https://doi.org/10.1038/s41612-024-00648-8" target="_blank">Assessing observational constraints on future European climate in an out-of-sample framework</a>, _npj Clim. Atmos. Sci._,
 <a href="/publications/OReilly2024.pdf" target="_blank"><b>PDF</b></a>
 <a href="/publications/supplement/OReilly2024_supplement.pdf" target="_blank">Supplement</a>
 
@@ -195,7 +195,7 @@ Die Presse (in German): <a href="https://www.diepresse.com/18290185/irrtum-der-e
 ### March 18, 2024 - <span style="color:red">New publication</span>
 **Brunner L.** and Voigt A. (2024):
 <a href="https://doi.org/10.1038/s41467-024-46349-x" target="_blank">Pitfalls in diagnosing temperature extremes</a>,
-_Nature Communications_,
+_Nat. Commun._,
 <a href="/publications/Brunner2024.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
 <a href="/publications/supplement/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
@@ -250,7 +250,7 @@ Press release (in German): <a href="https://presse.vorarlberg.at/land/public/Lan
 I managed to invite Katharine Hayhoe for a keynote on very short notice. Here's a summary of her talk:  <a href="https://imgw.univie.ac.at/en/news-events/more-items/keynote-by-katharine-hayhoe-from-worried-to-activated" target="_blank">link</a> <br>
 
 ### August 23, 2023 - <span style="color:red">New publication</span>
-Merrifield A. L., <b>Brunner L.</b>, Lorenz R., Humphrey V., and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
+Merrifield A. L., **Brunner L.**, Lorenz R., Humphrey V. and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Merrifield2023.pdf" target="_blank"><b>Supplement</b></a>
 
@@ -262,7 +262,7 @@ Session on "Data sparks action: the role of information in tackling the climate 
 Participation at the <a href="https://www.alpbach.org/" target="_blank">European Forum Alpbach 2023 (EFA23)</a>
 
 ### July 2023
-Blog article about a visit at the Vienna Scientific Cluster during the Lecture Modelling and Data anaysis: <a href="https://eurocc-austria.at/projekte/klimamodelle-vsc" target="_blank">Klimamodelle am Vienna Scientific Cluster</a>
+Blog article about a visit at the Vienna Scientific Cluster during the Lecture Modelling and Data analysis: <a href="https://eurocc-austria.at/projekte/klimamodelle-vsc" target="_blank">Klimamodelle am Vienna Scientific Cluster</a>
 
 ### July 16, 2023 - Presentation at IUGG 2023
 Session:  <a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=timeslot&objectId=6454189ab2c0aecc9ee50731&type=detail" target="_blank">Diagnosing and Reducing Errors and Biases in Weather and Climate Models</a><br>
@@ -273,7 +273,7 @@ Session:  <a href="https://iugg2023.floq.live/event/IUGG23/search?objectClass=ti
 <a href="https://doi.org/10.1017/eds.2023.23" target="_blank">
 Identifying climate models based on their daily output using
 machine learning</a>,
-_Env. Data Sci._,
+_Environ. Data Sci._,
 <a href="/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
 <br>
@@ -299,7 +299,7 @@ Session: <a href="https://meetingorganizer.copernicus.org/EGU23/session/47140" t
 <a href="https://doi.org/10.5194/egusphere-egu23-492" target="_blank">Separation of climate models and observations based on daily output using two machine learning classifiers</a><br>
 
 ### April 21, 2023 - <span style="color:red">New publication</span>
-Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2023):
+Palmer T. E., McSweeney C. F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L. and Menary M. B. (2023):
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam._,
@@ -319,7 +319,7 @@ Online | News item (in German): <a href="https://klimaszenarien.at/2023/01/19/99
 
 <!-- 2022 -->
 ### November 14 - 19, 2022 - Participation at the UN Climate Conference (COP27)
-Sharm El-Sheikh, Egypt | Homepage: <a href="cop27.eg/" target="_blank">Link</a> <br>
+Sharm El-Sheikh, Egypt | Homepage: <a href="https://cop27.eg/" target="_blank">Link</a> <br>
 univie Blog article:  <a href="https://blog.univie.ac.at/en/research/cop27-in-sharm-el-sheikh-report-by-lukas-brunner/" target="_blank">Link</a>
 
 ### November 7, 2022 - Article Rudolphina
@@ -330,9 +330,9 @@ univie Blog article:  <a href="https://blog.univie.ac.at/en/research/cop27-in-sh
 
 
 ### October 10, 2022 - <span style="color:red">New publication</span>
-Gründemann G. J, van de Giesen N., **Brunner L.**, and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
+Gründemann G. J., van de Giesen N., **Brunner L.** and van der Ent R. (2022): <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
 Rarest rainfall events will see the greatest relative increase in magnitude under future climate change</a>,
-_communications earth & environment_
+_Commun. Earth Environ._
 <a href="/publications/Gruendemann2022.pdf" target="_blank"><b>PDF</b></a>
 
 ### October 7, 2022 - Workshop Inspirationstag der Erzdiözese Wien
@@ -340,7 +340,7 @@ Vienna, Austria | Topic: Naturwissenschaftliche Grundlage der Klimakrise
 <a href="/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
 
 ### August 3, 2022 - <span style="color:red">New preprint</span>
-Palmer T. E., McSweeney C.F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L., and Menary M. B. (2022):
+Palmer T. E., McSweeney C. F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L. and Menary M. B. (2022):
 <a href="https://doi.org/10.5194/esd-2022-31" target="_blank">
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam. Diss._,
@@ -353,7 +353,7 @@ Vienna, Austria | Homepage (German): <a href="https://www.kinderuni-anmeldung.at
 <br><span style="color:gray;font-size:10px">Picture: &#169; Griwank</span>
 
 ### June 25, 2022 - <span style="color:red">New publication</span>
-Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C., and Murphy J. M. (2022):
+Befort D. J., **Brunner L.**, Borchert L. F., O’Reilly C. H., Mignot J., Ballinger A. P., Hegerl G. C. and Murphy J. M. (2022):
 <a href="https://doi.org/10.1029/2022GL098568" target="_blank">
 Combination of decadal predictions and climate projections in time: Challenges and potential solutions</a>,
 _Geophys. Res. Lett._
@@ -371,7 +371,7 @@ Vienna, Austria
 <br><span style="color:gray;font-size:5px">Picture: &#169; NextGEMS</span>
 
 ### June 15 - 18, 2022 - Participation at the _The Future of the Earth_ performance
-Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="thefutureoftheearth.ch" target="_blank">Link</a>
+Pratteln, Switzerland & virtual | Project homepage and live stream: <a href="https://thefutureoftheearth.ch" target="_blank">Link</a>
 <br>
 More impressions [here](/misc/tfote)
 <br>
@@ -386,7 +386,7 @@ Vienna, Austria | Conference homepage: <a href="https://www.egu22.eu/" target="_
 **Brunner L**. and Sippel S. (2022):
 <a href="https://doi.org/10.31223/X53M0J" target="_blank">
 Separation of climate models and observations based on daily output using machine learning</a>,
-submitted to _Env. Data Sci._ / available on EarthArXiv,
+submitted to _Environ. Data Sci._ / available on EarthArXiv,
 <a href="/publications/superseeded/Brunner2022_EarthArxiv.pdf" target="_blank"><b>PDF</b></a>
 <br>
 <img src="/images/Brunner2022.png" width="75%">

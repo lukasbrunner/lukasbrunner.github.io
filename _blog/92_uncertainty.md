@@ -18,8 +18,8 @@ system (however, one could potentially select temporal and spatial
 scales with lower natural variability &ndash; more about that later)
 
 <font style="font-size:small">
-    Deser at al. <a target="_blank" href="http://dx.doi.org/10.1038/nclimate1562">2012a</a> (paywall),
-    Deser at al. <a target="_blank" href="https://doi.org/10.1007/s00382-010-0977-x">2012b</a>,
+    Deser et al. <a target="_blank" href="http://dx.doi.org/10.1038/nclimate1562">2012a</a> (paywall),
+    Deser et al. <a target="_blank" href="https://doi.org/10.1007/s00382-010-0977-x">2012b</a>,
     Martel et al. <a target="_blank" href="https://doi.org/10.1175/JCLI-D-17-0282.1">2018</a></font>
 
 

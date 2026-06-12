@@ -52,7 +52,7 @@ The guide is by no means comprehensive or finished but I provide it here in the 
 - Separating Sources of Uncertainty in Future Climate Extremes (master's thesis; co-supervision with Jana Sillmann)
 - Effect of climate variability and extremes on heating and cooling energy demand in Canada (master's thesis; co-supervision with Jana Sillmann)
 - Exploring Classifier Skill in Distinguishing Climate Model and Observational Data (master's thesis): **[PDF](/thesis/Masterthesis_Merio2024.pdf)**
-- Changes in heatwave properties under climate change (master's thesis; co-supervison with Aiko Voigt): **[PDF](/thesis/Masterthesis_Meindl2024.pdf)**
+- Changes in heatwave properties under climate change (master's thesis; co-supervision with Aiko Voigt): **[PDF](/thesis/Masterthesis_Meindl2024.pdf)**
 - Extracting forced signals of climate change from daily temperature patterns across scales with CESM2 (bachelor thesis)
 - Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat (bachelor thesis): **[PDF](/thesis/Bachelorarbeit_Hajek.pdf)** (in German)
 - Interannual to decadal precipitation variability in a warming climate: spatial structure and underlying mechanisms (master’s thesis; co-supervision with Flavio Lehner)

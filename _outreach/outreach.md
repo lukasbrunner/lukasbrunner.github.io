@@ -9,11 +9,11 @@ Find me on Bluesky: <a href="https://bsky.app/profile/lukasbrunner.bsky.social" 
 
 Here is a toy project on Bluesky: <a href="https://bsky.app/profile/weather-climate.bsky.social" target="_blank">@weather-climate.bsky.social</a>.
 
-Whenever possible I try to communicate my general research area or individual projects for general audience. Below you find some of my outreach activities, media mentions, and public talks (many of them in German).
+Whenever possible I try to communicate my general research area or individual projects for a general audience. Below you find some of my outreach activities, media mentions, and public talks (many of them in German).
 
 Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.
 
-### October 21, 2025 - Öffentliche Vortrag: Klimaringvorlesung (Universität Hamburg)
+### October 21, 2025 - Öffentlicher Vortrag: Klimaringvorlesung (Universität Hamburg)
 Naturwissenschaftliche Grundlagen der Klimakrise
 
 Vorlesungsfolien:  <a href="/presentations/202510_presentation_KlimaringVO_UniHH.pdf" target="_blank">PDF</a>
@@ -32,7 +32,7 @@ Playlist der Gesamten Vorlesungsreihe auf  <a href="https://www.youtube.com/play
 ### July 16, 2025 - Panel discussion: Diverse Climates Hamburg
 Topic: Failure in academia
 
-### June 19, 2025 - Öffentliche Vortrag: Vorlesung für alle (Universität Hamburg)
+### June 19, 2025 - Öffentlicher Vortrag: Vorlesung für alle (Universität Hamburg)
 Wie ändern sich Wetterextreme mit dem Klimawandel?
 
 Mehr Informationen: <a href="https://www.uni-hamburg.de/wissen-fuer-alle/vorlesung-fuer-alle/videos/lukas-brunner.html" target="_blank">Event homepage</a>
@@ -90,8 +90,8 @@ Mittendrin im Klimalabor, Homepage (German): <a href="https://www.kinderuni-anme
 <img src="/images/kinderuni2022.png" width="100%">
 <br><span style="color:gray;font-size:10px">Picture: &#169; Griwank</span>
 
-### June 15 - 18, 2022 - Teilname am interaktiven Teater _The Future of the Earth_ (Pratteln, Schweiz)
-Projeht Homepage: <a href="thefutureoftheearth.ch" target="_blank">Link</a>
+### June 15 - 18, 2022 - Teilnahme am interaktiven Theater _The Future of the Earth_ (Pratteln, Schweiz)
+Projekt Homepage: <a href="https://thefutureoftheearth.ch" target="_blank">Link</a>
 <br>
 More impressions [here](/misc/tfote)
 <br>
