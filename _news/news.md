@@ -21,7 +21,7 @@ share: false
 _Commun. Earth Environ._,
 <!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
 
-Press release (in German): <a href="https://www.uni-hamburg.de/newsroom/presse/2026/pm12.html" target="_blank">link</a>
+Press release: <a href="https://www.uni-hamburg.de/en/newsroom/presse/2026/pm12.html" target="_blank">link</a>
 
 <img src="/images/Brunner2026_fig1cd.png" width="95%">
 
