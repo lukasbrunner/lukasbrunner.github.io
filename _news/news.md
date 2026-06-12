@@ -27,7 +27,7 @@ Press release (in German): <a href="https://www.uni-hamburg.de/newsroom/presse/2
 
 ### February - June, 2026 - Parental leave
 
-<img src="/impages/parental_leave.jpg" width="95%">
+<img src="/impages/parental_leave.jpg" width="60%">
 
 ### February 11, 2026 - <span style="color:red">New publication</span>
 Holtanová E., Koláček J. and **Brunner L.** (2026): <a href="https://doi.org/10.5194/esd-17-181-2026" target="_blank">A global perspective on past and future change in regional seasonal cycle shape</a>, _Earth Syst. Dynam._
