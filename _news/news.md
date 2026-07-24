@@ -14,7 +14,15 @@ share: false
 <!-- Location | Conference homepage: <a href="" target="_blank"><b>Link</b></a> -->
 <!-- <img src="" width="50%"> -->
 
-<!-- 2025 -->
+<!-- 2026 -->
+### July 20-24, 2026 - km-scale global modelling summit
+
+Summit webpage:  <a href="https://km-scale-summit-26.org" target="_blank">link</a>
+
+### May 3-8, 2026 - Poster at EGU26
+
+Abstract: <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-12773.html" target="_blank">link</a> (poster presented by Erich Fischer)
+
 ### April 16, 2026 - <span style="color:red">New publication</span>
 **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
 <a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models</a>,
