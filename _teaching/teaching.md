@@ -16,7 +16,7 @@ share: false
 Supervision
 -----------
 
-I am happy to supervise bachelor and master theses on topics related to
+I am happy to supervise master theses on topics related to
 - temperature extremes and their drivers,
 - atmospheric blocking and connected extremes,
 - statistical climate model evaluation and comparison,
@@ -24,10 +24,6 @@ I am happy to supervise bachelor and master theses on topics related to
 - machine learning for climate sciences.
 
 If you consider writing a thesis with me please have a look at <a href="/thesis/supervision_approach.pdf" target="_blank"><b>**my supervision approach (PDF)**</b></a>. Feel free to reach out anytime to discuss potential topics or if you have any questions.
-
-### Open topics
-
-See <a href="https://docs.google.com/presentation/d/1FBDPml7f29JS2rWBBFakq-Hdv_8iEz1b4m1onsod26o/edit?usp=sharing" target="_blank"><b>here</b></a> for a list of open topics and a short description.
 
 ### Ongoing supervision
 
