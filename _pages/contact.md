@@ -12,8 +12,8 @@ If you are interested in my work or have any questions feel free to reach out to
 Bei Interesse an meiner Arbeit oder bei Fragen kontaktieren Sie mich gerne!
 
 **Dr. Lukas Brunner** <br />
-Cluster of Excellence Climate, Climatic Change, and Society (CLICCS)
-Earth and Society Research Hub (ESRAH)
+Cluster of Excellence Climate, Climatic Change, and Society (CLICCS)  <br />
+Earth and Society Research Hub (ESRAH)  <br />
 Universität Hamburg <br />
 Bundesstraße 57 <br />
 20146 Hamburg <br />
