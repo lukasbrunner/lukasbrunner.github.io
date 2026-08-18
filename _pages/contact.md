@@ -12,11 +12,13 @@ If you are interested in my work or have any questions feel free to reach out to
 Bei Interesse an meiner Arbeit oder bei Fragen kontaktieren Sie mich gerne!
 
 **Dr. Lukas Brunner** <br />
-Climate Extremes group <br />
-Research Unit Sustainability and Climate Risks <br />
-Faculty of Mathematics, Informatics, and Natural Sciences <br />
+Cluster of Excellence Climate, Climatic Change, and Society (CLICCS)
+Earth and Society Research Hub (ESRAH)
 Universität Hamburg <br />
-Grindelberg 5 <br />
-20144 Hamburg <br />
-Zimmer: 109 <br />
+Bundesstraße 57 <br />
+20146 Hamburg <br />
+
+Haus der Erde <br />
+Raum: O2.A.017 <br />
+
 <a href='mailto:lukas.brunner@uni-hamburg.de'>lukas.brunner@uni-hamburg.de</a>
