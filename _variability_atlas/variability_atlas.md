@@ -11,7 +11,7 @@ The _Variability Atlas_ provides a toolbox to investigate the effects of interna
 Depending on your use-case and level of expertise you can choose from three layers of complexity:
 - online tool with graphical user interface (no programming expertise necessary): <a href="https://019bbc84-e87b-2fef-8974-9e37125a2551.share.connect.posit.cloud" target="_blank">**Shiny App**</a>
 - GitHub repository providing example Jupyter notebooks based on pre-calculated data (basic experience in Python needed): <a href="https://github.com/lukasbrunner/etccdi_internal_variability" target="_blank">**GitHub repository**</a>
-- GitHub repository drawing on the raw data hosted at the WDCC (advanced experience to handle and process large data volumes required): TODO: data **DOI** on final publication
+- GitHub repository drawing on the raw data hosted at the WDCC (advanced experience to handle and process large data volumes required): <a href="https://doi.org/10.26050/WDCC/ETCCDI-MPIGE" target="_blank">**DOI**</a>
 
 <a href="https://019bbc84-e87b-2fef-8974-9e37125a2551.share.connect.posit.cloud" target="_blank">
 <img src="/images/variability_atlast_shiny.png" width="100%">
