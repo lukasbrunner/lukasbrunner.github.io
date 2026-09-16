@@ -16,7 +16,7 @@ Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die All
 ### October 21, 2025 - Öffentlicher Vortrag: Klimaringvorlesung (Universität Hamburg)
 Naturwissenschaftliche Grundlagen der Klimakrise
 
-Vorlesungsfolien:  <a href="/presentations/202510_presentation_KlimaringVO_UniHH.pdf" target="_blank">PDF</a>
+Vorlesungsfolien:  <a href="/presentation_files/202510_presentation_KlimaringVO_UniHH.pdf" target="_blank">PDF</a>
 
 Mehr Informationen auf der <a href="https://www.zfw.uni-hamburg.de/oeffentliche-vortraege/wintersemester/15-ringvorlesung-zur-klimakrise.html" target="_blank">Homepage der Uni Hamburg</a>
 
@@ -82,7 +82,7 @@ univie Blog article:  <a href="https://blog.univie.ac.at/en/research/cop27-in-sh
 
 ### October 7, 2022 - Workshop Inspirationstag der Erzdiözese Wien
 Naturwissenschaftliche Grundlage der Klimakrise
-<a href="/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
+<a href="/presentation_files/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
 
 ### July 11, 2022 - Wiener kinderuni
 Mittendrin im Klimalabor, Homepage (German): <a href="https://www.kinderuni-anmeldung.at/event.php?event_id=3507" target="_blank">Link</a>

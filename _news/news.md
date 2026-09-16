@@ -104,11 +104,11 @@ Oral presentation (Highlight talk): Improving extreme temperature definitions un
 
 Poster presentation (presenting author): Output regridding can lead to Moiré pattern in km-scale global climate model data from ICON
 - <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-15826.html" target="_blank">Abstract</a>
-- <a href="/presentations/202504_poster_EGU25_Moire.pdf" target="_blank"><b>Poster</b></a>
+- <a href="/presentation_files/202504_poster_EGU25_Moire.pdf" target="_blank"><b>Poster</b></a>
 
 Poster presentation (presenting author): Quantifying changes in seasonal temperature variations using a functional data analysis approach
 - <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-17493.html" target="_blank">Abstract</a>
-- <a href="/presentations/202504_poster_EGU25_sc.pdf" target="_blank"><b>Poster</b></a>
+- <a href="/presentation_files/202504_poster_EGU25_sc.pdf" target="_blank"><b>Poster</b></a>
 
 ### April 23 - 25, 2025 | WCRP: APARC ATC spring meeting, Graz
 Beyond global mean changes: local temperature scaling in km-scale models
@@ -180,7 +180,7 @@ O'Reilly C., **Brunner L.**, Qasmi S., Nogherotto R., Ballinger A., Booth B., Be
 Session convener: Regional Climate Modeling, Including CORDEX and Constraining Global Multi-Model Ensembles:  <a
 href="https://meetingorganizer.copernicus.org/EGU24/session/49396" target="_blank">Link</a><br>
 
-Oral presentation: Revealing a systematic bias in percentile-based temperature extremes (<a href="/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
+Oral presentation: Revealing a systematic bias in percentile-based temperature extremes (<a href="/presentation_files/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Abstract on the conference homepage: <a
 href="https://meetingorganizer.copernicus.org/EGU24/EGU24-1722.html" target="_blank">Link</a><br>
@@ -194,7 +194,7 @@ href="https://www.egu.eu/outreach/mentoring/" target="_blank">Link</a>
 
 
 ### April 3-4, 2024 - Presentation Österreichischer Klimatag
-Revealing a systematic bias in temperature extremes and its implications (<a href="/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+Revealing a systematic bias in temperature extremes and its implications (<a href="/presentation_files/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2024" target="_blank">Link</a>
@@ -217,9 +217,9 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 <a href="/thesis/Bachelorarbeit_Hajek.pdf" target="_blank"><b>PDF</b></a> (in German)
 - Meindl M. (2024): Changes in heatwave properties under climate change, Master's thesis supervised by **L. Brunner** and A. Voigt,
 <a href="/thesis/Masterthesis_Meindl2024.pdf" target="_blank"><b>PDF</b></a>
-- Poster (<a href="/presentations/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
-- Presentation (<a href="/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
-- Short presentation (<a href="/presentations/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
+- Poster (<a href="/presentation_files/202404_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+- Presentation (<a href="/presentation_files/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
+- Short presentation (<a href="/presentation_files/202404_presentation_EGU.pdf" target="_blank"><b>PDF</b></a>)
 
 <br>
 <img src="/images/Brunner2024_fig1c.png" width="50%">
@@ -229,7 +229,7 @@ Analyse eines Fehlers in der Definition der Hitzemetrik Cumulative Heat, Bachelo
 
 ### March 13, 2024 - Keynote Deutsche Klimatagung (Potsdam, Germany)
 Conference homepage: <a href="https://www.dkt-13.de" target="_blank">13. Deutsche Klimatagung</a><br>
-Systematic errors in temperature extreme definitions and their impacts (<a href="/presentations/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
+Systematic errors in temperature extreme definitions and their impacts (<a href="/presentation_files/202403_presentation_Klimatagung.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 
 ### March 4-8, 2024 - Participation 4th km-scale Hackathon (Hamburg, Germany)
@@ -322,7 +322,7 @@ Some practical thoughts on model weighting <br>
 
 ### January 18, 2023 - Guest speaker in Green Finance seminar
 Vienna, Austria | u:find entry: <a href="https://ufind.univie.ac.at/de/course.html?lv=030513&semester=2022W" target="_blank">Link</a><br>
-Naturwissenschaftliche Grundlagen der Klimakrise: <a href="/presentations/202301_presentation_GreenFinance_169-1.pdf" target="_blank"><b>PDF</b></a><br>
+Naturwissenschaftliche Grundlagen der Klimakrise: <a href="/presentation_files/202301_presentation_GreenFinance_169-1.pdf" target="_blank"><b>PDF</b></a><br>
 <img src="/images/juridicum.png" width="50%">
 
 ### January 13, 2023 - Klimaszenarien.AT kick-off
@@ -348,7 +348,7 @@ _Commun. Earth Environ._
 
 ### October 7, 2022 - Workshop Inspirationstag der Erzdiözese Wien
 Vienna, Austria | Topic: Naturwissenschaftliche Grundlage der Klimakrise
-<a href="/presentations/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
+<a href="/presentation_files/202210_presentation_Inspirationstag_ErzdioezeseWien.pdf" target="_blank"><b>PDF</b></a>
 
 ### August 3, 2022 - <span style="color:red">New preprint</span>
 Palmer T. E., McSweeney C. F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L. and Menary M. B. (2022):
@@ -413,7 +413,7 @@ Virtual | Project homepage: <a href="https://nextgems-h2020.eu/" target="_blank"
 
 ### May 4, 2022 - Presentation at the EUCP workshop 2022
 Constraining European projections - EUCP progress towards a unified method (<a
-href="/presentations/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a>)
+href="/presentation_files/202205_presentation_constraining_EUCP.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Virtual | Project homepage: <a
 href="https://www.eucp-project.eu/" target="_blank">Link</a>
@@ -422,7 +422,7 @@ href="https://www.eucp-project.eu/" target="_blank">Link</a>
 
 ### April 21, 2022 - Poster presentation at the Austrian Klimatag 2022
 Gewichtung von Klimamodellen reduziert die prognostizierte globale Erwärmung in CMIP6 (<a
-href="/presentations/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
+href="/presentation_files/202204_poster_klimatag.pdf" target="_blank"><b>PDF</b></a>)
 <br>
 Vienna, Austria | Conference homepage (in German): - <a
 href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022" target="_blank">Link</a>
@@ -432,13 +432,13 @@ href="https://ccca.ac.at/dialogformate/oesterreichischer-klimatag/klimatag-2022"
 
 ### February 4, 2022 - Presentation at the DACH Quality control methods meeting
 Constraining Future European Climate from GCMs - Methods, Results, and Ways Forward, <a
-href="/presentations/202202_presentation_DACH.pdf" target="_blank"><b>PDF</b></a><br>
+href="/presentation_files/202202_presentation_DACH.pdf" target="_blank"><b>PDF</b></a><br>
 Virtual
 
 
 ### February 3 - 4, 2022 - Session chair and presentation at the CliMatters workshop
 Uncertainty in climate modeling and projections (session) | Separating Uncertainties in Projections of Future Climate – Importance, Lessons, and Solutions, <a
-href="/presentations/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>
+href="/presentation_files/202202_presentation_CliMatters_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Workshop homepage: <a
 href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-workshops/final-workshop/" target="_blank">Link</a>
@@ -448,7 +448,7 @@ href="https://dk-climate-change.uni-graz.at/de/ausbildungsprogramm/lehre-worksho
 
 ### January 18, 2022 - Presentation at the University of Vienna Meteorological/Geophysical Colloquium
 Weighting models by performance and independence - Effects on projections of future climate, <a
-href="/presentations/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>
+href="/presentation_files/202201_presentation_UniWien_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Department homepage: <a href="https://img.univie.ac.at/en/" target="_blank">Link</a>
 
@@ -457,7 +457,7 @@ Older (selection)
 -----------------
 
 ### November 16,  2021 - Keynote at the EC-Earth meeting
-Uncertainties in multi-model assessments of future climate, <a href="/presentations/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>
+Uncertainties in multi-model assessments of future climate, <a href="/presentation_files/202111_presentation_MMEs_EC-Earth_public.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Meeting homepage: <a
 href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/" target="_blank">Link</a>
@@ -467,7 +467,7 @@ href="http://www.ec-earth.org/community/meetings/virtual-meeting-november-2021/"
 
 ### October 21, 2021 - Invited talk at the Wegener Center Common Space seminar (University of Graz)
 Weighting models by performance and independence - Effects on projections of future climate, <a
-href="/presentations/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>
+href="/presentation_files/202110_presentation_model_weighting_WEGC.pdf" target="_blank"><b>PDF</b></a>
 <br>
 Virtual | Institute homepage: <a
 href="https://wegcenter.uni-graz.at/en/" target="_blank">Link</a>
