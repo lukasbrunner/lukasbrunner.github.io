@@ -15,6 +15,13 @@ share: false
 <!-- <img src="" width="50%"> -->
 
 <!-- 2026 -->
+## September 18, 2026 - <span style="color:red">New publication</span>
+**Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>. _Env. Res. Lett._,
+<a href="/publications/Brunner2026b.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Brunner2026b_supplement.pdf" target="_blank">Supplement</a>
+
+## September 16-18, 2026 - IMPRS-ESM retreat
+
 ### July 20-24, 2026 - km-scale global modelling summit
 
 Summit webpage:  <a href="https://km-scale-summit-26.org" target="_blank">link</a>
@@ -27,7 +34,9 @@ Abstract: <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-12773.htm
 **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
 <a href="https://doi.org/10.1038/s43247-026-03497-w" target="_blank">Three decades of simulating global temperature patterns with coupled global climate models</a>,
 _Commun. Earth Environ._,
-<!-- <a href="/publications/" target="_blank"><b>PDF</b></a> -->
+<a href="/publications/Brunner2026.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Brunner2026_supplement.pdf" target="_blank">Supplement</a>,
+<a href="/publications/supplement/Brunner2026_peer-review.pdf" target="_blank">Review files</a>
 
 Press release: <a href="https://www.uni-hamburg.de/en/newsroom/presse/2026/pm12.html" target="_blank">link</a>
 
