@@ -18,6 +18,10 @@ If you publish scientific work based on material I provide please consider citin
 Code
 ----
 
+### Variability Atlas: an multi-layer tool to quantify variability in extreme indices
+
+The [Variability Atlas](/variability_atlas/) allows to estimate the contribution of internal climate variability to various temperature- and precipitation-based indices based on three layers of complexity: (1) interactive online app, (2) GitHub repository with example data, and (3) full 50-member MPI-GE ensemble. It is described in the accompanying paper (Brunner et al. <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">2026<a/>).
+
 ### Sub-grid variability: code accompanying Brunner et al <a href="https://doi.org/10.1088/1748-9326/ade1ef" target="_blank">2025</a>
 
 In our 2025 paper we developed the concepts of sub-grid variability and sub-grid anomaly to quantify the information missed at coarse (CMIP6-like) resolutions compared to new km-scale models.
@@ -65,6 +69,12 @@ Supported by the eScience Center and the ESMValTool team (in particular Peter Ka
 
 Data
 ----
+
+### ETCCDI Indices for MPI Grand Ensemble
+
+This dataset provides the set of 26 core indices recommended by the ETCCDI (https://etccdi.pacificclimate.org/list_27_indices.shtml) calculated on the 50-member Max Planck Institute Grand Ensemble (MPI-GE) (Olonscheck et al. 2023) for the historical 1850-2014 period. The MPI-GE is the large ensemble of the MPI Earth System Model version 1.2 in the low-resolution configuration (approximately 1.8° horizontal resolution) (Mauritsen et al. 2019) and uses CMIP6 external forcings (Eyring et al. 2016). The indices are calculated from daily minimum, mean, and maximum temperature as well as from daily precipitation and provided at monthly or yearly temporal resolution, depending on the index, and at native spatial resolution.
+
+Provided on  <a href="https://doi.org/10.26050/WDCC/ETCCDI-MPIGE" target="_blank">World Data Center for Climate</a>
 
 ### Annual ETCCDI Extreme Indices For ICON-Sapphire And IFS-FESOM (nextGEMS Cycle 4)
 

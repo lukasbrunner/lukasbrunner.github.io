@@ -20,6 +20,8 @@ share: false
 <a href="/publications/Brunner2026b.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2026b_supplement.pdf" target="_blank">Supplement</a>
 
+Variability atlas: <a href="https://lukasbrunner.github.io/variability_atlas/" target="_blank">https://lukasbrunner.github.io/variability_atlas/</a>
+
 ## September 16-18, 2026 - IMPRS-ESM retreat
 
 ### July 20-24, 2026 - km-scale global modelling summit

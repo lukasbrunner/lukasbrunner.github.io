@@ -11,9 +11,10 @@ share: false
 
 Coming up
 ---------
-- Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https://doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
-- van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
--  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
+- Poschlod, B., **L. Brunner**, and J. Sillmann (in review).  <a href="https:/10.5194/egusphere-2026-4014" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _EGUsphere_
+- Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https:/doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
+- van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https:/doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
+-  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (in review): <a href="https:/doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
 <!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
 
 Peer-reviewed
@@ -35,7 +36,7 @@ __,
 - Shuyue Qu, Jana Sillmann, Benjamin W Barrett, Peter M Graffy, Benjamin Poschlod, **Lukas Brunner**, Raed Mansour, Malte Von Szombathely, Finley Hay-Chapman, Teresa H Horton (2026):
 <a href="https://doi.org/10.1088/2752-5309/ae9633" target="_blank">Integrating machine learning-based variable selection into Heat Vulnerability Index design
 </a>,
-_Env. Res. Health_
+_Env. Res. Health_,
 <a href="/publications/Qu2026.pdf" target="_blank"><b>PDF</b></a>
 
 - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (2026):
