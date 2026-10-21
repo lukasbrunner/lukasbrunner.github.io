@@ -1,3 +1,4 @@
+
 ---
 permalink: publications/
 title: "Publications"
@@ -7,14 +8,12 @@ share: false
 
 <!-- I have contributed to 25 peer-reviewed articles, which have been cited more than 2000 times according to <a href="https://scholar.google.ch/citations?hl=en&user=dHMZRfwAAAAJ" target="_blank">Google Scholar</a>. My h-index is 17. I also have over 50 verified peer-reviews on <a href="https://www.webofscience.com/wos/author/record/AAP-7583-2020" target="_blank">Web of Science</a>, including for Nature, Science Advances, Geophysical Research Letters, Environmental Research Letters, and Journal of Climate. -->
 
-<object data="h-index.txt"></object>
-
 Coming up
 ---------
-- Poschlod, B., **L. Brunner**, and J. Sillmann (in review).  <a href="https:/10.5194/egusphere-2026-4014" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _EGUsphere_
-- Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https:/doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
-- van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https:/doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
--  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (in review): <a href="https:/doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
+- Poschlod, B., **L. Brunner**, and J. Sillmann (in review).  <a href="https://10.5194/egusphere-2026-4014" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _EGUsphere_
+- Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https://doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
+- van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
+-  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
 <!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
 
 Peer-reviewed
