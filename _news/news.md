@@ -16,7 +16,7 @@ share: false
 
 <!-- 2026 -->
 
-## September 18, 2026 - <span style="color:red">New publication</span>
+### September 18, 2026 - <span style="color:red">New publication</span>
 Carniel C. E., Wille J. D., **Brunner L.**, Francis D., Fischer E. M. (2026): <a href="https://doi.org/10.1126/sciadv.ael4020" target="_blank">Coarse climate model grids underestimate coastal humid-heat extremes</a>, _Science Advances_,
 <a href="/publications/Carniel2026.pdf" target="_blank"><b>PDF</b></a>
 
@@ -27,7 +27,7 @@ Carniel C. E., Wille J. D., **Brunner L.**, Francis D., Fischer E. M. (2026): <a
 
 Variability atlas: <a href="https://lukasbrunner.github.io/variability_atlas/" target="_blank">https://lukasbrunner.github.io/variability_atlas/</a>
 
-## September 16-18, 2026 - IMPRS-ESM retreat
+### September 16-18, 2026 - IMPRS-ESM retreat
 
 ### July 20-24, 2026 - km-scale global modelling summit
 
