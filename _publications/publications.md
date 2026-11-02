@@ -13,13 +13,10 @@ Coming up
 - Poschlod, B., **L. Brunner**, and J. Sillmann (in review).  <a href="https://10.5194/egusphere-2026-4014" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _EGUsphere_
 - Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https://doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
 - van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
--  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (in review): <a href="https://doi.org/10.5194/egusphere-2025-5073" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _EGUsphere_
-<!-- - **Brunner L.**, Ghosh R., Haimberger L., Hohenegger C., Putrasahan D., Rackow T., Knutti R. and Voigt A. (in preparation): Three decades of simulating global temperatures with coupled climate models -->
+
 
 Peer-reviewed
 -------------
-
-
 <!-- template
 - (20):
 <a href="" target="_blank">
@@ -27,6 +24,11 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+- Carniel C. E., Wille J. D., **Brunner L.**, Francis D., Fischer E. M. (2026): <a href="https://doi.org/10.1126/sciadv.ael4020" target="_blank">Coarse climate model grids underestimate coastal humid-heat extremes</a>, _Science Advances_,
+<a href="/publications/Carniel2026.pdf" target="_blank"><b>PDF</b></a>
+
+-  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (2026): <a href="https://doi.org/10.5194/wcd-7-2107-2026" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _WCD_,
+<a href="/publications/Bautista2026.pdf" target="_blank"><b>PDF</b></a>
 
 - **Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>. _Env. Res. Lett._,
 <a href="/publications/Brunner2026b.pdf" target="_blank"><b>PDF</b></a>,
