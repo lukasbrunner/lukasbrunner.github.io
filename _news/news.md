@@ -20,7 +20,7 @@ share: false
 Carniel C. E., Wille J. D., **Brunner L.**, Francis D., Fischer E. M. (2026): <a href="https://doi.org/10.1126/sciadv.ael4020" target="_blank">Coarse climate model grids underestimate coastal humid-heat extremes</a>, _Science Advances_,
 <a href="/publications/Carniel2026.pdf" target="_blank"><b>PDF</b></a>
 
-## September 18, 2026 - <span style="color:red">New publication</span>
+### September 18, 2026 - <span style="color:red">New publication</span>
 **Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>. _Env. Res. Lett._,
 <a href="/publications/Brunner2026b.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2026b_supplement.pdf" target="_blank">Supplement</a>
