@@ -17,7 +17,7 @@ share: false
 <!-- 2026 -->
 
 ### November 5, 2026 - <span style="color:red">New publication</span>
-Aglas-Leitner P., Perkins-Kirkpatrick S. E., **Brunner L.**, Undorf S., Aglas-Leitner F., Fischer E. M. and Stone D. A. (2026): <a href="https://doi.org/10.1038/s41467-026-76809-5" target="_blank">Recent extreme heatwaves are no match for future events</a>, _Nature Communications_, <a href="/publications/AglasLeitner2026" target="_blank"><b>PDF</b></a>
+Aglas-Leitner P., Perkins-Kirkpatrick S. E., **Brunner L.**, Undorf S., Aglas-Leitner F., Fischer E. M. and Stone D. A. (2026): <a href="https://doi.org/10.1038/s41467-026-76809-5" target="_blank">Recent extreme heatwaves are no match for future events</a>, _Nature Communications_, <a href="/publications/AglasLeitner2026.pdf" target="_blank"><b>PDF</b></a>
 
 ### October 30, 2026 - <span style="color:red">New publication</span>
 Carniel C. E., Wille J. D., **Brunner L.**, Francis D., Fischer E. M. (2026): <a href="https://doi.org/10.1126/sciadv.ael4020" target="_blank">Coarse climate model grids underestimate coastal humid-heat extremes</a>, _Science Advances_,
