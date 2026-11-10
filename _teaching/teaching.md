@@ -29,6 +29,7 @@ If you consider writing a thesis with me please have a look at <a href="/thesis/
 
 - Using km-scale Global Climate Model Simulations to Study the Physical Impacts of Climate Change for Informing Adaptation Strategies (PhD)
 - Work on the effect of AMOC shutdown on extremes in Europe using km-scale models (master's thesis)
+- Work on the effect of internal variability on different climate extremes in km-scale models (master's thesis)
 
 ### Scientific writing guide for students
 
