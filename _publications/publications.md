@@ -37,8 +37,7 @@ __,
 <a href="/publications/supplement/Brunner2026b_supplement.pdf" target="_blank">Supplement</a>
 
 - Shuyue Qu, Jana Sillmann, Benjamin W Barrett, Peter M Graffy, Benjamin Poschlod, **Lukas Brunner**, Raed Mansour, Malte Von Szombathely, Finley Hay-Chapman, Teresa H Horton (2026):
-<a href="https://doi.org/10.1088/2752-5309/ae9633" target="_blank">Integrating machine learning-based variable selection into Heat Vulnerability Index design
-</a>,
+<a href="https://doi.org/10.1088/2752-5309/ae9633" target="_blank">Integrating machine learning-based variable selection into Heat Vulnerability Index design</a>,
 _Env. Res. Health_,
 <a href="/publications/Qu2026.pdf" target="_blank"><b>PDF</b></a>
 
