@@ -89,7 +89,7 @@ _Nat. Commun._,
 
 - Merrifield A. L., **Brunner L.**, Lorenz R., Humphrey V. and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
-<a href="/publications/supplement/Merrifield2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
+<a href="/publications/supplement/Merrifield2023_supplement.pdf" target="_blank">Supplement</a>
 
 - **Brunner L.** and Sippel S. (2023):
 <a href="https://doi.org/10.1017/eds.2023.23" target="_blank">
@@ -97,7 +97,7 @@ Identifying climate models based on their daily output using
 machine learning</a>,
 _Environ. Data Sci._,
 <a href="/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
-<a href="/publications/supplement/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
+<a href="/publications/supplement/Brunner2023_supplement.pdf" target="_blank">Supplement</a>
 
 - Palmer T. E., McSweeney C. F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L. and Menary M. B. (2023):
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
