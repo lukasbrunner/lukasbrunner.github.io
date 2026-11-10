@@ -32,7 +32,7 @@ __,
 -  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (2026): <a href="https://doi.org/10.5194/wcd-7-2107-2026" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _WCD_,
 <a href="/publications/Bautista2026.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>. _Env. Res. Lett._,
+- **Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>, _Env. Res. Lett._,
 <a href="/publications/Brunner2026b.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2026b_supplement.pdf" target="_blank">Supplement</a>
 
