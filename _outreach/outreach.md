@@ -7,8 +7,6 @@ share: false
 
 Find me on Bluesky: <a href="https://bsky.app/profile/lukasbrunner.bsky.social" target="_blank">@lukasbrunner.bsky.social</a>.
 
-Here is a toy project on Bluesky: <a href="https://bsky.app/profile/weather-climate.bsky.social" target="_blank">@weather-climate.bsky.social</a>.
-
 Whenever possible I try to communicate my general research area or individual projects for a general audience. Below you find some of my outreach activities, media mentions, and public talks (many of them in German).
 
 Wenn möglich, versuche ich meine Forschung sowie einzelne Projekte für die Allgemeinheit aufzubereiten. Im Folgenden eine Liste einiger meiner Aktivitäten, Erwähnungen in Medien und öffentlichen Vorträgen.

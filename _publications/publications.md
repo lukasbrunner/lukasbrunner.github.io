@@ -24,7 +24,7 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
-- Aglas-Leitner P., Perkins-Kirkpatrick S. E., **Brunner L.**, Undorf S., Aglas-Leitner F., Fischer E. M. and Stone D. A. (2026): <a href="https://doi.org/10.1038/s41467-026-76809-5" target="_blank">Recent extreme heatwaves are no match for future events</a>, _Nature Communications_, <a href="/publications/AglasLeitner2026.pdf" target="_blank"><b>PDF</b></a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM1_ESM.pdf" target="_blank">Supplement</a> (external), <a href=" https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM2_ESM.pdf" target="_blank">Supplement2</a> (external), <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM3_ESM.pdf" target="_blank">Peer review</a> (external)
+- Aglas-Leitner P., Perkins-Kirkpatrick S. E., **Brunner L.**, Undorf S., Aglas-Leitner F., Fischer E. M. and Stone D. A. (2026): <a href="https://doi.org/10.1038/s41467-026-76809-5" target="_blank">Recent extreme heatwaves are no match for future events</a>, _Nature Communications_, <a href="/publications/AglasLeitner2026.pdf" target="_blank"><b>PDF</b></a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM1_ESM.pdf" target="_blank">Supplement</a>, <a href=" https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM2_ESM.pdf" target="_blank">Supplement2</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM3_ESM.pdf" target="_blank">Peer review</a>
 
 - Carniel C. E., Wille J. D., **Brunner L.**, Francis D., Fischer E. M. (2026): <a href="https://doi.org/10.1126/sciadv.ael4020" target="_blank">Coarse climate model grids underestimate coastal humid-heat extremes</a>, _Science Advances_,
 <a href="/publications/Carniel2026.pdf" target="_blank"><b>PDF</b></a>
@@ -32,13 +32,12 @@ __,
 -  Castillo Bautista N., Gaetani M., Borchert L. F., Poschlod B., **Brunner L.**, Sillmann J. and Martina M. L. V. (2026): <a href="https://doi.org/10.5194/wcd-7-2107-2026" target="_blank">Large-scale drivers of compounding hot and dry events in three breadbasket regions</a>, _WCD_,
 <a href="/publications/Bautista2026.pdf" target="_blank"><b>PDF</b></a>
 
-- **Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>. _Env. Res. Lett._,
+- **Brunner, L.**, V. Mithal, L. F. Borchert, J. Sillmann, and B. Poschlod (2026). <a href="https://doi.org/10.1088/1748-9326/ae9c57" target="_blank">The Variability Atlas: How internal climate variability affects the estimation of climate extreme indices</a>, _Env. Res. Lett._,
 <a href="/publications/Brunner2026b.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Brunner2026b_supplement.pdf" target="_blank">Supplement</a>
 
 - Shuyue Qu, Jana Sillmann, Benjamin W Barrett, Peter M Graffy, Benjamin Poschlod, **Lukas Brunner**, Raed Mansour, Malte Von Szombathely, Finley Hay-Chapman, Teresa H Horton (2026):
-<a href="https://doi.org/10.1088/2752-5309/ae9633" target="_blank">Integrating machine learning-based variable selection into Heat Vulnerability Index design
-</a>,
+<a href="https://doi.org/10.1088/2752-5309/ae9633" target="_blank">Integrating machine learning-based variable selection into Heat Vulnerability Index design</a>,
 _Env. Res. Health_,
 <a href="/publications/Qu2026.pdf" target="_blank"><b>PDF</b></a>
 
@@ -90,7 +89,7 @@ _Nat. Commun._,
 
 - Merrifield A. L., **Brunner L.**, Lorenz R., Humphrey V. and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
-<a href="/publications/supplement/Merrifield2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
+<a href="/publications/supplement/Merrifield2023_supplement.pdf" target="_blank">Supplement</a>
 
 - **Brunner L.** and Sippel S. (2023):
 <a href="https://doi.org/10.1017/eds.2023.23" target="_blank">
@@ -98,7 +97,7 @@ Identifying climate models based on their daily output using
 machine learning</a>,
 _Environ. Data Sci._,
 <a href="/publications/Brunner2023.pdf" target="_blank"><b>PDF</b></a>,
-<a href="/publications/supplement/Brunner2023_supplement.pdf" target="_blank"><b>Supplement</b></a>
+<a href="/publications/supplement/Brunner2023_supplement.pdf" target="_blank">Supplement</a>
 
 - Palmer T. E., McSweeney C. F., Booth B. B. B., Priestley M. D. K., Davini P., **Brunner L.**, Borchert L. and Menary M. B. (2023):
 <a href="https://doi.org/10.5194/esd-14-457-2023" target="_blank">
