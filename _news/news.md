@@ -16,6 +16,14 @@ share: false
 
 <!-- 2026 -->
 
+### November 12, 2026 - School lecture: Science Cafe Stadtteilschule Wilhelmsburg
+
+Wie ändert sich Extremwetter mit dem Klimawandel?
+
+### November 5, 2026 - Symposium Present and future climates University of Zurich
+
+Talk: Present and future heat extremes: navigating climate variabilities across scales
+
 ### November 5, 2026 - <span style="color:red">New publication</span>
 Aglas-Leitner P., Perkins-Kirkpatrick S. E., **Brunner L.**, Undorf S., Aglas-Leitner F., Fischer E. M. and Stone D. A. (2026): <a href="https://doi.org/10.1038/s41467-026-76809-5" target="_blank">Recent extreme heatwaves are no match for future events</a>, _Nature Communications_, <a href="/publications/AglasLeitner2026.pdf" target="_blank"><b>PDF</b></a>
 
