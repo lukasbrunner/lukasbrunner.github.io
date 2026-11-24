@@ -9,7 +9,6 @@ share: false
 
 Coming up
 ---------
-- Poschlod, B., **L. Brunner**, and J. Sillmann (in review).  <a href="https://10.5194/egusphere-2026-4014" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _EGUsphere_
 - Uckan Y., **Brunner L.**, Sillmann J., Kang S. M. (in review):  <a href="https://doi.org/10.21203/rs.3.rs-9610006/v1" target="_blank">Influence of Southern Ocean Temperature Trend Biases on Fall Cold Extremes in North America</a>, _Clim. Dyn._ / Research Square
 - van Heerwaarden C. C., Veerman M. A., Benedict I., **Brunner L.**, Dolores-Tesillos E., Dutra E., Fischer E., Lee J., Martius O., Pedruzo-Bagazgoitia X., Proske U., Warnau S. N., Willie J. D. and Hohenegger C. (in review):  <a href="https://doi.org/10.48550/arXiv.2604.25447" target="_blank">Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</a>, _Environ. Res. Lett._ / arXiv
 
@@ -23,6 +22,9 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+
+- Poschlod, B., **L. Brunner**, and J. Sillmann (in review).  <a href="https://doi.org/10.5194/hess-30-7257-2026" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _HESS_,
+<a href="/publications/Poschlod2026.pdf" target="_blank"><b>PDF</b></a>
 
 - Aglas-Leitner P., Perkins-Kirkpatrick S. E., **Brunner L.**, Undorf S., Aglas-Leitner F., Fischer E. M. and Stone D. A. (2026): <a href="https://doi.org/10.1038/s41467-026-76809-5" target="_blank">Recent extreme heatwaves are no match for future events</a>, _Nature Communications_, <a href="/publications/AglasLeitner2026.pdf" target="_blank"><b>PDF</b></a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM1_ESM.pdf" target="_blank">Supplement</a>, <a href=" https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM2_ESM.pdf" target="_blank">Supplement2</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_MOESM3_ESM.pdf" target="_blank">Peer review</a>
 
