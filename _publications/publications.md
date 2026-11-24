@@ -23,6 +23,8 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
+### 2026
+
 - Poschlod, B., **L. Brunner**, and J. Sillmann (2026).  <a href="https://doi.org/10.5194/hess-30-7257-2026" target="_blank">LESSONS Report: Fine-scale Representation of Consecutive Dry Days</a>, _HESS_,
 <a href="/publications/Poschlod2026.pdf" target="_blank"><b>PDF</b></a>
 
@@ -57,6 +59,8 @@ _Commun. Earth Environ._,
 - Yoon A., Hohenegger C., Bao J. and **Brunner L.** (2026):  <a href="https://doi.org/10.5194/esd-17-167-2026" target="_blank">Extreme events in the Amazon after deforestation</a>, _Earth Syst. Dynam._,
 <a href="/publications/Yoon2026.pdf" target="_blank"><b>PDF</b></a>
 
+### 2025
+
 - Segura H. et al. including **Brunner L.** (2025):  <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>, _Geosci. Model Dev._, <a href="/publications/Segura2025.pdf" target="_blank"><b>PDF</b></a>
 
 - Maher N., Phillips A. S., Deser C., Jnglin Wills R. C., Lehner F., Fasullo J., Caron J. M., **Brunner L.**, Beyerle U. and Jeffree J. (2025): <a href="https://doi.org/10.5194/gmd-18-6341-2025" target="_blank">The updated Multi-Model Large Ensemble Archive and the Climate Variability Diagnostics Package: new tools for the study of climate variability and change</a>, _Geosci. Model Dev._,
@@ -70,6 +74,8 @@ _Commun. Earth Environ._,
 -  Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R. E., Teichmann C., Christensen O. B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., **Brunner L.**, Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025): <a href="https://doi.org/10.1175/BAMS-D-23-0189.1" target="_blank">GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community</a>, _BAMS_
 ,
 <a href="/publications/Sobolowski2025.pdf" target="_blank"><b>PDF</b></a>
+
+### 2024
 
 - Nguyen V., Vorogushyn S., Nissen K., **Brunner L.** and Merz B. (2024):
 <a href="https://doi.org/10.5194/ascmo-10-195-2024" target="_blank">A non-stationary climate-informed weather generator for assessing future flood risks</a>,
@@ -89,6 +95,8 @@ _Nat. Commun._,
 <a href="/publications/supplement/Brunner2024_supplement.pdf" target="_blank">Supplement</a>,
 <a href="/publications/supplement/Brunner2024_peer-review.pdf" target="_blank">Review files</a>
 
+### 2023
+
 - Merrifield A. L., **Brunner L.**, Lorenz R., Humphrey V. and Knutti R. (2023): <a href="https://doi.org/10.5194/gmd-16-4715-2023" target="_blank"> Climate model Selection by Independence, Performance, and Spread (ClimSIPS v1.0.1) for regional applications</a>,
 _Geosci. Model Dev._, <a href="/publications/Merrifield2023.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Merrifield2023_supplement.pdf" target="_blank">Supplement</a>
@@ -106,6 +114,8 @@ _Environ. Data Sci._,
 Performance based sub-selection of CMIP6 models for impact assessments in Europe</a>,
 _Earth Syst. Dynam._,
 <a href="/publications/Palmer2022.pdf" target="_blank"><b>PDF</b></a>
+
+### Older
 
 - Gründemann G. J., van de Giesen N., **Brunner L.** and van der Ent R. (2022):
 <a href="https://doi.org/10.1038/s43247-022-00558-8" target="_blank">
